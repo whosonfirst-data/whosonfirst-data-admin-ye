@@ -49,7 +49,7 @@
         "wk:page":"Shuhurah"
     },
     "wof:country":"YE",
-    "wof:geomhash":"b3843ac288cc9054c346150170979131",
+    "wof:geomhash":"8dffe0e72952b5309917e11a8bd44bbb",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -75,5 +75,5 @@
     48.88417000000001,
     14.66667
 ],
-  "geometry": {"coordinates":[48.88417000000001,14.66667],"type":"Point"}
+  "geometry": {"coordinates":[48.88417,14.66667],"type":"Point"}
 }

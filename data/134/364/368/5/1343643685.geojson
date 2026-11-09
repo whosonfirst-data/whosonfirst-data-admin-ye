@@ -50,7 +50,7 @@
         "wk:page":"Shatbi"
     },
     "wof:country":"YE",
-    "wof:geomhash":"73ac811c8571cbfdce13b54ce2c52b25",
+    "wof:geomhash":"b80a283411b7b21f13938a1a7c731dd6",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -76,5 +76,5 @@
     44.30824000000001,
     15.22837
 ],
-  "geometry": {"coordinates":[44.30824000000001,15.22837],"type":"Point"}
+  "geometry": {"coordinates":[44.30824,15.22837],"type":"Point"}
 }

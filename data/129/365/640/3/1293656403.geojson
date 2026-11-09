@@ -54,7 +54,7 @@
         "wk:page":"Bayt_al-Wishah"
     },
     "wof:country":"YE",
-    "wof:geomhash":"def8efd19223ebd69c0f47bf405af7c2",
+    "wof:geomhash":"a78e7272ae197df94489038fc276c8bb",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -87,5 +87,5 @@
     44.24124000000001,
     15.56285
 ],
-  "geometry": {"coordinates":[44.24124000000001,15.56285],"type":"Point"}
+  "geometry": {"coordinates":[44.24124,15.56285],"type":"Point"}
 }

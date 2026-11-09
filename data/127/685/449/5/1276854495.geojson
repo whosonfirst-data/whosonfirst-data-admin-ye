@@ -70,7 +70,7 @@
         "wk:page":"Baraqish"
     },
     "wof:country":"YE",
-    "wof:geomhash":"892f7473d1aef1427886c6e43a13bcf1",
+    "wof:geomhash":"b1ee5b0a66928e9328afdbe359af736b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -96,5 +96,5 @@
     44.8,
     16.0
 ],
-  "geometry": {"coordinates":[44.8,16.0],"type":"Point"}
+  "geometry": {"coordinates":[44.8,16],"type":"Point"}
 }

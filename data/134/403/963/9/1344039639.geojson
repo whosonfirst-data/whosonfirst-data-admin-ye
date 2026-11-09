@@ -53,7 +53,7 @@
         "wk:page":"Sarf"
     },
     "wof:country":"YE",
-    "wof:geomhash":"18cc2d500811da74411ae4a652978de1",
+    "wof:geomhash":"96aabf488d84b41e4e12cb49c5671423",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -79,5 +79,5 @@
     44.26929000000001,
     15.42876
 ],
-  "geometry": {"coordinates":[44.26929000000001,15.42876],"type":"Point"}
+  "geometry": {"coordinates":[44.26929,15.42876],"type":"Point"}
 }

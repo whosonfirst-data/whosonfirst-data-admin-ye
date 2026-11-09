@@ -49,7 +49,7 @@
         "wk:page":"Mahasin"
     },
     "wof:country":"YE",
-    "wof:geomhash":"fac26c51874b5f0b5875a249db577e5f",
+    "wof:geomhash":"d9bc9739ddb84772bfeb6da69eb7587d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -75,5 +75,5 @@
     48.65472000000001,
     15.84417
 ],
-  "geometry": {"coordinates":[48.65472000000001,15.84417],"type":"Point"}
+  "geometry": {"coordinates":[48.65472,15.84417],"type":"Point"}
 }

@@ -57,7 +57,7 @@
         "wk:page":"Bayt_Zabadan"
     },
     "wof:country":"YE",
-    "wof:geomhash":"da19623efc4571e5fb320a1a7aea5310",
+    "wof:geomhash":"fcb463ba8d2938c699ab4a255dd7d4aa",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -83,5 +83,5 @@
     44.18859000000001,
     15.28437
 ],
-  "geometry": {"coordinates":[44.18859000000001,15.28437],"type":"Point"}
+  "geometry": {"coordinates":[44.18859,15.28437],"type":"Point"}
 }

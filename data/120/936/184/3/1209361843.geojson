@@ -53,7 +53,7 @@
         "wk:page":"Steroh"
     },
     "wof:country":"YE",
-    "wof:geomhash":"8523059b1ca023ed5cb0ed36a3c179e9",
+    "wof:geomhash":"024962328b5ab7eb3cd2c0f7f0bc4eb4",
     "wof:hierarchy":[
         {
             "country_id":85632499,
@@ -76,5 +76,5 @@
     53.91806999999999,
     12.33695
 ],
-  "geometry": {"coordinates":[53.91806999999999,12.33695],"type":"Point"}
+  "geometry": {"coordinates":[53.91807,12.33695],"type":"Point"}
 }

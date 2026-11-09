@@ -46,7 +46,7 @@
         "wk:page":"Sanaf"
     },
     "wof:country":"YE",
-    "wof:geomhash":"108e74f4dea4dfc4be5002f265f04cb8",
+    "wof:geomhash":"7ac292c814aa7130dcd4c7819ae1ffb0",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -72,5 +72,5 @@
     43.69282000000001,
     15.08639
 ],
-  "geometry": {"coordinates":[43.69282000000001,15.08639],"type":"Point"}
+  "geometry": {"coordinates":[43.69282,15.08639],"type":"Point"}
 }

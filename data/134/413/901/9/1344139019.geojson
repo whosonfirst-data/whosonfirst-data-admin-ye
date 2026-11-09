@@ -46,7 +46,7 @@
         "wk:page":"Bayt_Mahdam"
     },
     "wof:country":"YE",
-    "wof:geomhash":"a209b23ad615422986d0a00850f2d9e1",
+    "wof:geomhash":"9b1a54420972c1b92f25f3d3c9a7a7ba",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -72,5 +72,5 @@
     44.00604000000001,
     15.20132
 ],
-  "geometry": {"coordinates":[44.00604000000001,15.20132],"type":"Point"}
+  "geometry": {"coordinates":[44.00604,15.20132],"type":"Point"}
 }

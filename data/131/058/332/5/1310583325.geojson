@@ -49,7 +49,7 @@
         "wk:page":"Bayt_As_Suwaydi"
     },
     "wof:country":"YE",
-    "wof:geomhash":"ded29f09291c572bf664a6f94121a01f",
+    "wof:geomhash":"dbdd26c55ad56a16d1c2f45a4166ad95",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -75,5 +75,5 @@
     43.94354000000001,
     15.18172
 ],
-  "geometry": {"coordinates":[43.94354000000001,15.18172],"type":"Point"}
+  "geometry": {"coordinates":[43.94354,15.18172],"type":"Point"}
 }

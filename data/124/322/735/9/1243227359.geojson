@@ -49,7 +49,7 @@
         "wk:page":"Su%60ut"
     },
     "wof:country":"YE",
-    "wof:geomhash":"5f5a50db01a9b84d4b4bf2d5b201057e",
+    "wof:geomhash":"b20507f36dd725ef89cfa7433df4db49",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -75,5 +75,5 @@
     43.77934000000001,
     15.03749
 ],
-  "geometry": {"coordinates":[43.77934000000001,15.03749],"type":"Point"}
+  "geometry": {"coordinates":[43.77934,15.03749],"type":"Point"}
 }

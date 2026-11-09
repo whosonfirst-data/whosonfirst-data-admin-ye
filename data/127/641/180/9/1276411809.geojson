@@ -49,7 +49,7 @@
         "wk:page":"Bayt_Rijal"
     },
     "wof:country":"YE",
-    "wof:geomhash":"1d2f60a0a2b555f5baa7aa282f298419",
+    "wof:geomhash":"fe703ede93b01a0c4c0276d6e79132ea",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -75,5 +75,5 @@
     44.10899000000001,
     15.23565
 ],
-  "geometry": {"coordinates":[44.10899000000001,15.23565],"type":"Point"}
+  "geometry": {"coordinates":[44.10899,15.23565],"type":"Point"}
 }

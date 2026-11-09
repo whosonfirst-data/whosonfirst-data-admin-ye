@@ -42,7 +42,7 @@
         "gn:id":72528
     },
     "wof:country":"YE",
-    "wof:geomhash":"5fad0deb2974f7ad3f4b7f5bacdfe891",
+    "wof:geomhash":"2220e13e659b976dd7783fef6b21ef5d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -68,5 +68,5 @@
     43.0,
     14.45
 ],
-  "geometry": {"coordinates":[43.0,14.45],"type":"Point"}
+  "geometry": {"coordinates":[43,14.45],"type":"Point"}
 }

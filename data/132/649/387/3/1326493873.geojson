@@ -46,7 +46,7 @@
         "wk:page":"Khamar"
     },
     "wof:country":"YE",
-    "wof:geomhash":"59fd54b2c8d223852967aa81c820a9d5",
+    "wof:geomhash":"0b8bb64797e52ebff98b5ec3faa6be3c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -72,5 +72,5 @@
     44.57214000000001,
     15.20585
 ],
-  "geometry": {"coordinates":[44.57214000000001,15.20585],"type":"Point"}
+  "geometry": {"coordinates":[44.57214,15.20585],"type":"Point"}
 }

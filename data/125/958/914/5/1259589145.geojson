@@ -51,7 +51,7 @@
         "wk:page":"Barwaj"
     },
     "wof:country":"YE",
-    "wof:geomhash":"49a70a7181a8129ea486607d17c159f2",
+    "wof:geomhash":"aaec8aabe3a5391dda92540e902fee43",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -77,5 +77,5 @@
     48.43944000000001,
     15.83667
 ],
-  "geometry": {"coordinates":[48.43944000000001,15.83667],"type":"Point"}
+  "geometry": {"coordinates":[48.43944,15.83667],"type":"Point"}
 }

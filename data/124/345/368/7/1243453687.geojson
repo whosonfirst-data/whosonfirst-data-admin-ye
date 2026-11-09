@@ -53,7 +53,7 @@
         "wk:page":"Ar_Rawuk"
     },
     "wof:country":"YE",
-    "wof:geomhash":"641be48a3c748d709168d46f56badb3f",
+    "wof:geomhash":"fe532be164894009d4a8693da1a926d2",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -79,5 +79,5 @@
     48.88444000000001,
     15.69194
 ],
-  "geometry": {"coordinates":[48.88444000000001,15.69194],"type":"Point"}
+  "geometry": {"coordinates":[48.88444,15.69194],"type":"Point"}
 }

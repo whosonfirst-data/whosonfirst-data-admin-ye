@@ -47,7 +47,7 @@
         "wk:page":"Bayt_Dahrah"
     },
     "wof:country":"YE",
-    "wof:geomhash":"ecb88e6591056ca8a58ab473f4735c08",
+    "wof:geomhash":"b653d8c9fa11fdaab094f2100e49bc8e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -80,5 +80,5 @@
     44.36239000000001,
     15.57466
 ],
-  "geometry": {"coordinates":[44.36239000000001,15.57466],"type":"Point"}
+  "geometry": {"coordinates":[44.36239,15.57466],"type":"Point"}
 }

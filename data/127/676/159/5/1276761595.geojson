@@ -51,7 +51,7 @@
         "wk:page":"Nukhr_al-Hashidi"
     },
     "wof:country":"YE",
-    "wof:geomhash":"749c8070731a5263aca92eb4345f1afb",
+    "wof:geomhash":"c6462b2cc8c51eacb5c13a35a3140f0f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -77,5 +77,5 @@
     48.33972,
     16.04722000000001
 ],
-  "geometry": {"coordinates":[48.33972,16.04722000000001],"type":"Point"}
+  "geometry": {"coordinates":[48.33972,16.04722],"type":"Point"}
 }

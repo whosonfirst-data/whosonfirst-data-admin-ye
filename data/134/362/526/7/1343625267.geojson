@@ -49,7 +49,7 @@
         "wk:page":"Amrash"
     },
     "wof:country":"YE",
-    "wof:geomhash":"658620c39cb8f6d43ce4e82bc6f35dbc",
+    "wof:geomhash":"f0242db26d3a16e4ed6404197616f895",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -75,5 +75,5 @@
     43.90622000000001,
     15.24567
 ],
-  "geometry": {"coordinates":[43.90622000000001,15.24567],"type":"Point"}
+  "geometry": {"coordinates":[43.90622,15.24567],"type":"Point"}
 }

@@ -53,7 +53,7 @@
         "wk:page":"An_Nu%60Ayr"
     },
     "wof:country":"YE",
-    "wof:geomhash":"b658724c574af4d8251ea3c25637dcd5",
+    "wof:geomhash":"777c72a37d01e09ff960bbdb82a9a503",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -79,5 +79,5 @@
     48.00389000000001,
     15.32972
 ],
-  "geometry": {"coordinates":[48.00389000000001,15.32972],"type":"Point"}
+  "geometry": {"coordinates":[48.00389,15.32972],"type":"Point"}
 }

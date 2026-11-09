@@ -49,7 +49,7 @@
     },
     "wof:country":"YE",
     "wof:created":1459009745,
-    "wof:geomhash":"a0862057fa6e1e5d1dadefed936c52b1",
+    "wof:geomhash":"335dfc85b5a058fbc095ea24923bd29b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -75,5 +75,5 @@
     48.337097,
     15.4562445
 ],
-  "geometry": {"coordinates":[48.337097,15.4562445],"type":"Point"}
+  "geometry": {"coordinates":[48.337097,15.456245],"type":"Point"}
 }

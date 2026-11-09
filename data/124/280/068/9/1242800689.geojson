@@ -51,7 +51,7 @@
         "wk:page":"Quwayrat_al-Khazab"
     },
     "wof:country":"YE",
-    "wof:geomhash":"b8467258c468f9a66106caec9d22a29f",
+    "wof:geomhash":"5e8525dbc345b6a68ac3c134cad92467",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -77,5 +77,5 @@
     48.32944000000001,
     15.17889
 ],
-  "geometry": {"coordinates":[48.32944000000001,15.17889],"type":"Point"}
+  "geometry": {"coordinates":[48.32944,15.17889],"type":"Point"}
 }

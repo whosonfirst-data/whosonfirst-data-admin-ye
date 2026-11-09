@@ -49,7 +49,7 @@
         "wk:page":"Qaryat_Ahl_Hidran"
     },
     "wof:country":"YE",
-    "wof:geomhash":"8b64ac89161cbdfba0b045eae8e54515",
+    "wof:geomhash":"6ab2f03797355b260abf22b1309335d0",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -75,5 +75,5 @@
     45.93709000000001,
     13.72493
 ],
-  "geometry": {"coordinates":[45.93709000000001,13.72493],"type":"Point"}
+  "geometry": {"coordinates":[45.93709,13.72493],"type":"Point"}
 }

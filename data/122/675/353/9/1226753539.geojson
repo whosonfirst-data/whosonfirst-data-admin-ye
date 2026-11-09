@@ -53,7 +53,7 @@
         "wk:page":"%60Ayn_Barad"
     },
     "wof:country":"YE",
-    "wof:geomhash":"5a509d1c6156c5974ade8862ed306629",
+    "wof:geomhash":"c7683cbc304489ee3d4c9db8507492da",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -79,5 +79,5 @@
     48.12889000000001,
     14.48333
 ],
-  "geometry": {"coordinates":[48.12889000000001,14.48333],"type":"Point"}
+  "geometry": {"coordinates":[48.12889,14.48333],"type":"Point"}
 }

@@ -53,7 +53,7 @@
         "wk:page":"Bayt_al-Hawiri"
     },
     "wof:country":"YE",
-    "wof:geomhash":"e9d9ff2c254f2ec7453f6ce1202fed02",
+    "wof:geomhash":"103e0113fb68d89489a95eebd49abee1",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -79,5 +79,5 @@
     44.14129000000001,
     15.52047
 ],
-  "geometry": {"coordinates":[44.14129000000001,15.52047],"type":"Point"}
+  "geometry": {"coordinates":[44.14129,15.52047],"type":"Point"}
 }

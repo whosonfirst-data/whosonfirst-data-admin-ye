@@ -49,7 +49,7 @@
         "wk:page":"Hadun"
     },
     "wof:country":"YE",
-    "wof:geomhash":"8ca67f957ea21c7df504a3c0328fea32",
+    "wof:geomhash":"887aa8803ae7a760be9b8c0f8177f624",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -75,5 +75,5 @@
     48.33694000000001,
     15.15806
 ],
-  "geometry": {"coordinates":[48.33694000000001,15.15806],"type":"Point"}
+  "geometry": {"coordinates":[48.33694,15.15806],"type":"Point"}
 }

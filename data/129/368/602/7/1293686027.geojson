@@ -49,7 +49,7 @@
         "wk:page":"Qarn_Bin_%60Adwan"
     },
     "wof:country":"YE",
-    "wof:geomhash":"faae18e6273aad87c6f8e827331f390c",
+    "wof:geomhash":"93e95bdc85fec06e2fdb7d227d0a48d5",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -75,5 +75,5 @@
     48.05889000000001,
     15.55917
 ],
-  "geometry": {"coordinates":[48.05889000000001,15.55917],"type":"Point"}
+  "geometry": {"coordinates":[48.05889,15.55917],"type":"Point"}
 }

@@ -52,7 +52,7 @@
         "wk:page":"Al-Qirran"
     },
     "wof:country":"YE",
-    "wof:geomhash":"e84f9d73d2837a21f847491e56c965f9",
+    "wof:geomhash":"5e2bde2bd228b808f61769c40d04324e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -78,5 +78,5 @@
     44.23164000000001,
     15.22199
 ],
-  "geometry": {"coordinates":[44.23164000000001,15.22199],"type":"Point"}
+  "geometry": {"coordinates":[44.23164,15.22199],"type":"Point"}
 }

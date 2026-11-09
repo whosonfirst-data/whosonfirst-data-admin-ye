@@ -51,7 +51,7 @@
         "wk:page":"Sharj_Sharin"
     },
     "wof:country":"YE",
-    "wof:geomhash":"5d538e0a16d0b88c943ec0d2a01ee33b",
+    "wof:geomhash":"1d52b4ed2cba137072cb5fd6270d2e73",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -77,5 +77,5 @@
     48.0,
     14.96389
 ],
-  "geometry": {"coordinates":[48.0,14.96389],"type":"Point"}
+  "geometry": {"coordinates":[48,14.96389],"type":"Point"}
 }

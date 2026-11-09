@@ -51,7 +51,7 @@
         "wk:page":"Salilah"
     },
     "wof:country":"YE",
-    "wof:geomhash":"eab45956091bc3581edd0289f9a9baf3",
+    "wof:geomhash":"482a75682d11b78688c59805eacf852b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -77,5 +77,5 @@
     48.81444000000001,
     15.99806
 ],
-  "geometry": {"coordinates":[48.81444000000001,15.99806],"type":"Point"}
+  "geometry": {"coordinates":[48.81444,15.99806],"type":"Point"}
 }

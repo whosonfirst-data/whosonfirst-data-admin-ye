@@ -43,7 +43,7 @@
         "gn:id":69829
     },
     "wof:country":"YE",
-    "wof:geomhash":"1c6849cdfa581b5f23a9e48e181c4a73",
+    "wof:geomhash":"fa107686e69f7d36ed85135cc25f1561",
     "wof:hierarchy":[
         {
             "country_id":85632499,
@@ -66,5 +66,5 @@
     43.28194000000001,
     14.89887
 ],
-  "geometry": {"coordinates":[43.28194000000001,14.89887],"type":"Point"}
+  "geometry": {"coordinates":[43.28194,14.89887],"type":"Point"}
 }
