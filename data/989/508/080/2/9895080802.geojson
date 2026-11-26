@@ -1,0 +1,74 @@
+{
+  "id": 9895080802,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.83519,14.5532,43.83519,14.5532",
+    "geom:latitude":14.5532,
+    "geom:longitude":43.83519,
+    "iso:country":"YE",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12053046: name \"Al Qibl\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12053046"
+        },
+        {
+            "citation":"GeoNames populated place 12053046: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12053046"
+        },
+        {
+            "citation":"GeoNames populated place 12053046: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12053046"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091925345 (Mazhar), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632499,
+        85681033,
+        102191569,
+        1091925345
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12053046
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"b6c9b3b435de602ea1fa57cf9a12808b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925345,
+            "locality_id":9895080802,
+            "region_id":85681033
+        }
+    ],
+    "wof:id":9895080802,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Al Qibl",
+    "wof:parent_id":1091925345,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.83519,
+    14.5532,
+    43.83519,
+    14.5532
+],
+  "geometry": {"coordinates":[43.83519,14.5532],"type":"Point"}
+}

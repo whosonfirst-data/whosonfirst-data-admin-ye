@@ -1,0 +1,74 @@
+{
+  "id": 9895065519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.02484,14.38734,44.02484,14.38734",
+    "geom:latitude":14.38734,
+    "geom:longitude":44.02484,
+    "iso:country":"YE",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11898014: name \"Z\u0327ahrat Wajal\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11898014"
+        },
+        {
+            "citation":"GeoNames populated place 11898014: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11898014"
+        },
+        {
+            "citation":"GeoNames populated place 11898014: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11898014"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091924405 (Al Qafr), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632499,
+        85680979,
+        102191569,
+        1091924405
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11898014
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"cca427c49ab83dabde0f321cf0f5fa81",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924405,
+            "locality_id":9895065519,
+            "region_id":85680979
+        }
+    ],
+    "wof:id":9895065519,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Z\u0327ahrat Wajal",
+    "wof:parent_id":1091924405,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.02484,
+    14.38734,
+    44.02484,
+    14.38734
+],
+  "geometry": {"coordinates":[44.02484,14.38734],"type":"Point"}
+}

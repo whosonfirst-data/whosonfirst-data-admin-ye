@@ -1,0 +1,74 @@
+{
+  "id": 9895076399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.02106,15.54513,43.02106,15.54513",
+    "geom:latitude":15.54513,
+    "geom:longitude":43.02106,
+    "iso:country":"YE",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12027141: name \"Ma\u1e29all Sar\u0101\u1e29\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12027141"
+        },
+        {
+            "citation":"GeoNames populated place 12027141: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12027141"
+        },
+        {
+            "citation":"GeoNames populated place 12027141: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12027141"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091920165 (Al Munirah), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632499,
+        85680959,
+        102191569,
+        1091920165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12027141
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"6da56da50bfc1c77ded2435ecbef9648",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091920165,
+            "locality_id":9895076399,
+            "region_id":85680959
+        }
+    ],
+    "wof:id":9895076399,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Ma\u1e29all Sar\u0101\u1e29",
+    "wof:parent_id":1091920165,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.02106,
+    15.54513,
+    43.02106,
+    15.54513
+],
+  "geometry": {"coordinates":[43.02106,15.54513],"type":"Point"}
+}

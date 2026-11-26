@@ -1,0 +1,74 @@
+{
+  "id": 9895073432,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.43623,13.30825,44.43623,13.30825",
+    "geom:latitude":13.30825,
+    "geom:longitude":44.43623,
+    "iso:country":"YE",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11967228: name \"Al Quraydah\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11967228"
+        },
+        {
+            "citation":"GeoNames populated place 11967228: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11967228"
+        },
+        {
+            "citation":"GeoNames populated place 11967228: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11967228"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091924859 (Al Qabbaytah), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632499,
+        85680985,
+        102191569,
+        1091924859
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11967228
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"c5735dd8128e731d5eb3f14d319f3f58",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924859,
+            "locality_id":9895073432,
+            "region_id":85680985
+        }
+    ],
+    "wof:id":9895073432,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Al Quraydah",
+    "wof:parent_id":1091924859,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.43623,
+    13.30825,
+    44.43623,
+    13.30825
+],
+  "geometry": {"coordinates":[44.43623,13.30825],"type":"Point"}
+}

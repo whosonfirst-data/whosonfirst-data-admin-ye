@@ -1,0 +1,74 @@
+{
+  "id": 9895070648,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.54774,13.5328,43.54774,13.5328",
+    "geom:latitude":13.5328,
+    "geom:longitude":43.54774,
+    "iso:country":"YE",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11954400: name \"A\u0163 \u0162ahbalah\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11954400"
+        },
+        {
+            "citation":"GeoNames populated place 11954400: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11954400"
+        },
+        {
+            "citation":"GeoNames populated place 11954400: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11954400"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091926707 (Mawza), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632499,
+        85680989,
+        102191569,
+        1091926707
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11954400
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"d2c4da0fd3c651d93292adb0df962a94",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091926707,
+            "locality_id":9895070648,
+            "region_id":85680989
+        }
+    ],
+    "wof:id":9895070648,
+    "wof:lastmodified":1795734963,
+    "wof:name":"A\u0163 \u0162ahbalah",
+    "wof:parent_id":1091926707,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.54774,
+    13.5328,
+    43.54774,
+    13.5328
+],
+  "geometry": {"coordinates":[43.54774,13.5328],"type":"Point"}
+}

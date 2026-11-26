@@ -1,0 +1,74 @@
+{
+  "id": 9895077193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.40175,15.56675,43.40175,15.56675",
+    "geom:latitude":15.56675,
+    "geom:longitude":43.40175,
+    "iso:country":"YE",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12028317: name \"\u0162afy\u0101n\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12028317"
+        },
+        {
+            "citation":"GeoNames populated place 12028317: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12028317"
+        },
+        {
+            "citation":"GeoNames populated place 12028317: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12028317"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091923827 (Bani Qa'is), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632499,
+        85680973,
+        102191569,
+        1091923827
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12028317
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"49b558e049ea89a702547574d71fe533",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091923827,
+            "locality_id":9895077193,
+            "region_id":85680973
+        }
+    ],
+    "wof:id":9895077193,
+    "wof:lastmodified":1795734963,
+    "wof:name":"\u0162afy\u0101n",
+    "wof:parent_id":1091923827,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.40175,
+    15.56675,
+    43.40175,
+    15.56675
+],
+  "geometry": {"coordinates":[43.40175,15.56675],"type":"Point"}
+}

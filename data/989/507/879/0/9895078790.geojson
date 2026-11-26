@@ -1,0 +1,74 @@
+{
+  "id": 9895078790,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.63912,15.731,43.63912,15.731",
+    "geom:latitude":15.731,
+    "geom:longitude":43.63912,
+    "iso:country":"YE",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12049695: name \"Al \u1e28unaynah\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12049695"
+        },
+        {
+            "citation":"GeoNames populated place 12049695: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12049695"
+        },
+        {
+            "citation":"GeoNames populated place 12049695: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12049695"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091924267 (Sharas), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632499,
+        85680973,
+        102191569,
+        1091924267
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12049695
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"03bc99ef137d73dad753fffe611b247d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924267,
+            "locality_id":9895078790,
+            "region_id":85680973
+        }
+    ],
+    "wof:id":9895078790,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Al \u1e28unaynah",
+    "wof:parent_id":1091924267,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.63912,
+    15.731,
+    43.63912,
+    15.731
+],
+  "geometry": {"coordinates":[43.63912,15.731],"type":"Point"}
+}

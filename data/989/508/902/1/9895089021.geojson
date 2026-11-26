@@ -1,0 +1,74 @@
+{
+  "id": 9895089021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.32606,13.95916,44.32606,13.95916",
+    "geom:latitude":13.95916,
+    "geom:longitude":44.32606,
+    "iso:country":"YE",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13446295: name \"An Naq\u012bl\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13446295"
+        },
+        {
+            "citation":"GeoNames populated place 13446295: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13446295"
+        },
+        {
+            "citation":"GeoNames populated place 13446295: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13446295"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091924503 (As Sabrah), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632499,
+        85680979,
+        102191569,
+        1091924503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13446295
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"7620171c27badb542b3cd99a280ccdb5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924503,
+            "locality_id":9895089021,
+            "region_id":85680979
+        }
+    ],
+    "wof:id":9895089021,
+    "wof:lastmodified":1795734963,
+    "wof:name":"An Naq\u012bl",
+    "wof:parent_id":1091924503,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.32606,
+    13.95916,
+    44.32606,
+    13.95916
+],
+  "geometry": {"coordinates":[44.32606,13.95916],"type":"Point"}
+}

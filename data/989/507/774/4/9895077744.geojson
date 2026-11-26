@@ -1,0 +1,74 @@
+{
+  "id": 9895077744,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.28559,15.95184,43.28559,15.95184",
+    "geom:latitude":15.95184,
+    "geom:longitude":43.28559,
+    "iso:country":"YE",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12029127: name \"Lajj al Ma\u1e29j\u016bb\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12029127"
+        },
+        {
+            "citation":"GeoNames populated place 12029127: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12029127"
+        },
+        {
+            "citation":"GeoNames populated place 12029127: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12029127"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091923981 (Ku'aydinah), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632499,
+        85680973,
+        102191569,
+        1091923981
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12029127
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"97fafd8b5ad2d125ce17f821e4515790",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091923981,
+            "locality_id":9895077744,
+            "region_id":85680973
+        }
+    ],
+    "wof:id":9895077744,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Lajj al Ma\u1e29j\u016bb",
+    "wof:parent_id":1091923981,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.28559,
+    15.95184,
+    43.28559,
+    15.95184
+],
+  "geometry": {"coordinates":[43.28559,15.95184],"type":"Point"}
+}

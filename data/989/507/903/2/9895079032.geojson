@@ -1,0 +1,74 @@
+{
+  "id": 9895079032,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.53292,15.73342,43.53292,15.73342",
+    "geom:latitude":15.73342,
+    "geom:longitude":43.53292,
+    "iso:country":"YE",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12050066: name \"Ban\u012b Mahd\u012b\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12050066"
+        },
+        {
+            "citation":"GeoNames populated place 12050066: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12050066"
+        },
+        {
+            "citation":"GeoNames populated place 12050066: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12050066"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091924089 (Mabyan), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632499,
+        85680973,
+        102191569,
+        1091924089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12050066
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"54ae6a8dce8ca9b02753098baebca2ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924089,
+            "locality_id":9895079032,
+            "region_id":85680973
+        }
+    ],
+    "wof:id":9895079032,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Ban\u012b Mahd\u012b",
+    "wof:parent_id":1091924089,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.53292,
+    15.73342,
+    43.53292,
+    15.73342
+],
+  "geometry": {"coordinates":[43.53292,15.73342],"type":"Point"}
+}

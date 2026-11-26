@@ -1,0 +1,74 @@
+{
+  "id": 9895066948,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.17352,14.00342,44.17352,14.00342",
+    "geom:latitude":14.00342,
+    "geom:longitude":44.17352,
+    "iso:country":"YE",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11912041: name \"At Ta\u1e29r\u012br\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11912041"
+        },
+        {
+            "citation":"GeoNames populated place 11912041: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11912041"
+        },
+        {
+            "citation":"GeoNames populated place 11912041: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11912041"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091924353 (Al Dhihar), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632499,
+        85680979,
+        102191569,
+        1091924353
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11912041
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"5c5b63fde1c8d0acdf8aef20fb8ecf58",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924353,
+            "locality_id":9895066948,
+            "region_id":85680979
+        }
+    ],
+    "wof:id":9895066948,
+    "wof:lastmodified":1795734963,
+    "wof:name":"At Ta\u1e29r\u012br",
+    "wof:parent_id":1091924353,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.17352,
+    14.00342,
+    44.17352,
+    14.00342
+],
+  "geometry": {"coordinates":[44.17352,14.00342],"type":"Point"}
+}

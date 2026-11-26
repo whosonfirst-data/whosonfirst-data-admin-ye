@@ -1,0 +1,74 @@
+{
+  "id": 9895088806,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.95409,14.72048,43.95409,14.72048",
+    "geom:latitude":14.72048,
+    "geom:longitude":43.95409,
+    "iso:country":"YE",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13445637: name \"Az\u0327 Z\u0327ahr\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13445637"
+        },
+        {
+            "citation":"GeoNames populated place 13445637: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13445637"
+        },
+        {
+            "citation":"GeoNames populated place 13445637: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13445637"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091922337 (Jabal Ash sharq), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632499,
+        85680969,
+        102191569,
+        1091922337
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13445637
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"915fafc036c7412b262c766cf534b69b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091922337,
+            "locality_id":9895088806,
+            "region_id":85680969
+        }
+    ],
+    "wof:id":9895088806,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Az\u0327 Z\u0327ahr",
+    "wof:parent_id":1091922337,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.95409,
+    14.72048,
+    43.95409,
+    14.72048
+],
+  "geometry": {"coordinates":[43.95409,14.72048],"type":"Point"}
+}

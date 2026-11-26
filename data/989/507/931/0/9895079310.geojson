@@ -1,0 +1,74 @@
+{
+  "id": 9895079310,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.89992,15.97747,43.89992,15.97747",
+    "geom:latitude":15.97747,
+    "geom:longitude":43.89992,
+    "iso:country":"YE",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12050489: name \"A\u1e11 \u1e10abrah\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12050489"
+        },
+        {
+            "citation":"GeoNames populated place 12050489: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12050489"
+        },
+        {
+            "citation":"GeoNames populated place 12050489: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12050489"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091921993 (Khamir), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632499,
+        85680977,
+        102191569,
+        1091921993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12050489
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"aba2d992d039eab1690963e890a35b51",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091921993,
+            "locality_id":9895079310,
+            "region_id":85680977
+        }
+    ],
+    "wof:id":9895079310,
+    "wof:lastmodified":1795734963,
+    "wof:name":"A\u1e11 \u1e10abrah",
+    "wof:parent_id":1091921993,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.89992,
+    15.97747,
+    43.89992,
+    15.97747
+],
+  "geometry": {"coordinates":[43.89992,15.97747],"type":"Point"}
+}

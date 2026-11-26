@@ -1,0 +1,74 @@
+{
+  "id": 9895087103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.34934,16.33694,43.34934,16.33694",
+    "geom:latitude":16.33694,
+    "geom:longitude":43.34934,
+    "iso:country":"YE",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13409928: name \"Al \u1e28\u0101zah\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13409928"
+        },
+        {
+            "citation":"GeoNames populated place 13409928: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13409928"
+        },
+        {
+            "citation":"GeoNames populated place 13409928: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13409928"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091924327 (Washhah), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632499,
+        85680973,
+        102191569,
+        1091924327
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13409928
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"f5be54ec21511b1e4618611e34623ebf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924327,
+            "locality_id":9895087103,
+            "region_id":85680973
+        }
+    ],
+    "wof:id":9895087103,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Al \u1e28\u0101zah",
+    "wof:parent_id":1091924327,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.34934,
+    16.33694,
+    43.34934,
+    16.33694
+],
+  "geometry": {"coordinates":[43.34934,16.33694],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 9895065210,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.69425,14.01172,43.69425,14.01172",
+    "geom:latitude":14.01172,
+    "geom:longitude":43.69425,
+    "iso:country":"YE",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11897009: name \"Al \u1e28u\u015fayb\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11897009"
+        },
+        {
+            "citation":"GeoNames populated place 11897009: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11897009"
+        },
+        {
+            "citation":"GeoNames populated place 11897009: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11897009"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091920441 (Jabal Ra's), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632499,
+        85680959,
+        102191569,
+        1091920441
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11897009
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"1987a2650e1f465ea2a3530f74f8cc26",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091920441,
+            "locality_id":9895065210,
+            "region_id":85680959
+        }
+    ],
+    "wof:id":9895065210,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Al \u1e28u\u015fayb",
+    "wof:parent_id":1091920441,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.69425,
+    14.01172,
+    43.69425,
+    14.01172
+],
+  "geometry": {"coordinates":[43.69425,14.01172],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 9895079386,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.70217,15.96968,43.70217,15.96968",
+    "geom:latitude":15.96968,
+    "geom:longitude":43.70217,
+    "iso:country":"YE",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12050635: name \"Dabb al Qit\u0101n\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12050635"
+        },
+        {
+            "citation":"GeoNames populated place 12050635: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12050635"
+        },
+        {
+            "citation":"GeoNames populated place 12050635: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12050635"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091921861 (Habur Zulaymah), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632499,
+        85680977,
+        102191569,
+        1091921861
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12050635
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"fae1e0c194ad97c4f41789f2cdd9a7c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091921861,
+            "locality_id":9895079386,
+            "region_id":85680977
+        }
+    ],
+    "wof:id":9895079386,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Dabb al Qit\u0101n",
+    "wof:parent_id":1091921861,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.70217,
+    15.96968,
+    43.70217,
+    15.96968
+],
+  "geometry": {"coordinates":[43.70217,15.96968],"type":"Point"}
+}

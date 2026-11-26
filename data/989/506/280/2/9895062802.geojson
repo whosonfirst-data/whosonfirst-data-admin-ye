@@ -1,0 +1,74 @@
+{
+  "id": 9895062802,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.81312,14.40554,43.81312,14.40554",
+    "geom:latitude":14.40554,
+    "geom:longitude":43.81312,
+    "iso:country":"YE",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11882486: name \"\u1e28arf Qutb\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11882486"
+        },
+        {
+            "citation":"GeoNames populated place 11882486: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11882486"
+        },
+        {
+            "citation":"GeoNames populated place 11882486: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11882486"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091922499 (Wusab Al Ali), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632499,
+        85680969,
+        102191569,
+        1091922499
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11882486
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"4c58c439f5bfd64317beb52953d10885",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091922499,
+            "locality_id":9895062802,
+            "region_id":85680969
+        }
+    ],
+    "wof:id":9895062802,
+    "wof:lastmodified":1795734963,
+    "wof:name":"\u1e28arf Qutb",
+    "wof:parent_id":1091922499,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.81312,
+    14.40554,
+    43.81312,
+    14.40554
+],
+  "geometry": {"coordinates":[43.81312,14.40554],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 9895077635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.3738,15.79383,43.3738,15.79383",
+    "geom:latitude":15.79383,
+    "geom:longitude":43.3738,
+    "iso:country":"YE",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12028973: name \"Al Ghallah\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12028973"
+        },
+        {
+            "citation":"GeoNames populated place 12028973: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12028973"
+        },
+        {
+            "citation":"GeoNames populated place 12028973: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12028973"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091923981 (Ku'aydinah), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632499,
+        85680973,
+        102191569,
+        1091923981
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12028973
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"af8ac463a272012c2208fe50bf7c63e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091923981,
+            "locality_id":9895077635,
+            "region_id":85680973
+        }
+    ],
+    "wof:id":9895077635,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Al Ghallah",
+    "wof:parent_id":1091923981,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.3738,
+    15.79383,
+    43.3738,
+    15.79383
+],
+  "geometry": {"coordinates":[43.3738,15.79383],"type":"Point"}
+}

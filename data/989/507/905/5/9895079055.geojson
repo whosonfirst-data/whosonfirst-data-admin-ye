@@ -1,0 +1,74 @@
+{
+  "id": 9895079055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.55259,15.71374,43.55259,15.71374",
+    "geom:latitude":15.71374,
+    "geom:longitude":43.55259,
+    "iso:country":"YE",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12050107: name \"Al Ghaz\u0101l\u012b\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12050107"
+        },
+        {
+            "citation":"GeoNames populated place 12050107: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12050107"
+        },
+        {
+            "citation":"GeoNames populated place 12050107: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12050107"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091924089 (Mabyan), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632499,
+        85680973,
+        102191569,
+        1091924089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12050107
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"6e88c09b96d54caef2aae27688845eb6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924089,
+            "locality_id":9895079055,
+            "region_id":85680973
+        }
+    ],
+    "wof:id":9895079055,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Al Ghaz\u0101l\u012b",
+    "wof:parent_id":1091924089,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.55259,
+    15.71374,
+    43.55259,
+    15.71374
+],
+  "geometry": {"coordinates":[43.55259,15.71374],"type":"Point"}
+}

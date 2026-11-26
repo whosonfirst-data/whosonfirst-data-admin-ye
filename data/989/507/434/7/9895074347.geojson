@@ -1,0 +1,74 @@
+{
+  "id": 9895074347,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.41882,15.3153,44.41882,15.3153",
+    "geom:latitude":15.3153,
+    "geom:longitude":44.41882,
+    "iso:country":"YE",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11971147: name \"\u1e28\u0101rat al Wasa\u0163\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11971147"
+        },
+        {
+            "citation":"GeoNames populated place 11971147: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11971147"
+        },
+        {
+            "citation":"GeoNames populated place 11971147: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11971147"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091925875 (Sanhan), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632499,
+        85681021,
+        102191569,
+        1091925875
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11971147
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"29ba91877ffaaa8a5b7bc778c7d70d6b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925875,
+            "locality_id":9895074347,
+            "region_id":85681021
+        }
+    ],
+    "wof:id":9895074347,
+    "wof:lastmodified":1795734963,
+    "wof:name":"\u1e28\u0101rat al Wasa\u0163",
+    "wof:parent_id":1091925875,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.41882,
+    15.3153,
+    44.41882,
+    15.3153
+],
+  "geometry": {"coordinates":[44.41882,15.3153],"type":"Point"}
+}

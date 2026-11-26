@@ -1,0 +1,74 @@
+{
+  "id": 9895080721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.84143,14.5994,43.84143,14.5994",
+    "geom:latitude":14.5994,
+    "geom:longitude":43.84143,
+    "iso:country":"YE",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12052937: name \"Ja\u1e29\u0101f\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12052937"
+        },
+        {
+            "citation":"GeoNames populated place 12052937: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12052937"
+        },
+        {
+            "citation":"GeoNames populated place 12052937: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12052937"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091925307 (As Salafiyah), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632499,
+        85681033,
+        102191569,
+        1091925307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12052937
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"a3b04fdb94b80e45188340117e807f34",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925307,
+            "locality_id":9895080721,
+            "region_id":85681033
+        }
+    ],
+    "wof:id":9895080721,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Ja\u1e29\u0101f",
+    "wof:parent_id":1091925307,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.84143,
+    14.5994,
+    43.84143,
+    14.5994
+],
+  "geometry": {"coordinates":[43.84143,14.5994],"type":"Point"}
+}

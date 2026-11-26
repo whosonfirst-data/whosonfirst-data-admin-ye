@@ -1,0 +1,74 @@
+{
+  "id": 9895065788,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.16609,14.48712,44.16609,14.48712",
+    "geom:latitude":14.48712,
+    "geom:longitude":44.16609,
+    "iso:country":"YE",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11898419: name \"Qunbah\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11898419"
+        },
+        {
+            "citation":"GeoNames populated place 11898419: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11898419"
+        },
+        {
+            "citation":"GeoNames populated place 11898419: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11898419"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091922403 (Maghirib Ans), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632499,
+        85680969,
+        102191569,
+        1091922403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11898419
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"857dc05b0d3edcc98cacdd2b95a85a76",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091922403,
+            "locality_id":9895065788,
+            "region_id":85680969
+        }
+    ],
+    "wof:id":9895065788,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Qunbah",
+    "wof:parent_id":1091922403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.16609,
+    14.48712,
+    44.16609,
+    14.48712
+],
+  "geometry": {"coordinates":[44.16609,14.48712],"type":"Point"}
+}

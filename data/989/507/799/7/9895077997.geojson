@@ -1,0 +1,74 @@
+{
+  "id": 9895077997,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.2132,15.81698,43.2132,15.81698",
+    "geom:latitude":15.81698,
+    "geom:longitude":43.2132,
+    "iso:country":"YE",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12029494: name \"Adh Dh\u012bb\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12029494"
+        },
+        {
+            "citation":"GeoNames populated place 12029494: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12029494"
+        },
+        {
+            "citation":"GeoNames populated place 12029494: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12029494"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091920353 (Az Zuhrah), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632499,
+        85680959,
+        102191569,
+        1091920353
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12029494
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"335c0f2310e6b2d2b3839859ef146665",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091920353,
+            "locality_id":9895077997,
+            "region_id":85680959
+        }
+    ],
+    "wof:id":9895077997,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Adh Dh\u012bb",
+    "wof:parent_id":1091920353,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.2132,
+    15.81698,
+    43.2132,
+    15.81698
+],
+  "geometry": {"coordinates":[43.2132,15.81698],"type":"Point"}
+}

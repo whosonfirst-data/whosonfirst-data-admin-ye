@@ -1,0 +1,74 @@
+{
+  "id": 9895083862,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.53054,13.87272,44.53054,13.87272",
+    "geom:latitude":13.87272,
+    "geom:longitude":44.53054,
+    "iso:country":"YE",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12097926: name \"Al Khumayr\u012byah\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12097926"
+        },
+        {
+            "citation":"GeoNames populated place 12097926: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12097926"
+        },
+        {
+            "citation":"GeoNames populated place 12097926: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12097926"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091919801 (Qa'atabah), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632499,
+        85681003,
+        102191569,
+        1091919801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12097926
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"c0ad6e57c5cf9b4bfd877fea1bf31cb1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091919801,
+            "locality_id":9895083862,
+            "region_id":85681003
+        }
+    ],
+    "wof:id":9895083862,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Al Khumayr\u012byah",
+    "wof:parent_id":1091919801,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.53054,
+    13.87272,
+    44.53054,
+    13.87272
+],
+  "geometry": {"coordinates":[44.53054,13.87272],"type":"Point"}
+}

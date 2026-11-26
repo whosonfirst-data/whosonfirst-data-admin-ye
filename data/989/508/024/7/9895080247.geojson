@@ -1,0 +1,74 @@
+{
+  "id": 9895080247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.90351,14.66483,43.90351,14.66483",
+    "geom:latitude":14.66483,
+    "geom:longitude":43.90351,
+    "iso:country":"YE",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12052339: name \"Kanab Ma\u015fla\u1e29at a\u0163 \u0162urq\u0101t\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12052339"
+        },
+        {
+            "citation":"GeoNames populated place 12052339: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12052339"
+        },
+        {
+            "citation":"GeoNames populated place 12052339: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12052339"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091922337 (Jabal Ash sharq), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632499,
+        85680969,
+        102191569,
+        1091922337
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12052339
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"414f4f153562502f487f21de3cd02d86",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091922337,
+            "locality_id":9895080247,
+            "region_id":85680969
+        }
+    ],
+    "wof:id":9895080247,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Kanab Ma\u015fla\u1e29at a\u0163 \u0162urq\u0101t",
+    "wof:parent_id":1091922337,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.90351,
+    14.66483,
+    43.90351,
+    14.66483
+],
+  "geometry": {"coordinates":[43.90351,14.66483],"type":"Point"}
+}

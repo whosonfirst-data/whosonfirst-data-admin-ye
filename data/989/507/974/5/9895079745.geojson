@@ -1,0 +1,74 @@
+{
+  "id": 9895079745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.75466,14.91686,43.75466,14.91686",
+    "geom:latitude":14.91686,
+    "geom:longitude":43.75466,
+    "iso:country":"YE",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12051522: name \"Sha\u0163\u0163 al Qadr\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12051522"
+        },
+        {
+            "citation":"GeoNames populated place 12051522: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12051522"
+        },
+        {
+            "citation":"GeoNames populated place 12051522: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12051522"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091925637 (Al Haymah Al Kharijiyah), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632499,
+        85681021,
+        102191569,
+        1091925637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12051522
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"2d499682223291d69513636730c0a3b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925637,
+            "locality_id":9895079745,
+            "region_id":85681021
+        }
+    ],
+    "wof:id":9895079745,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Sha\u0163\u0163 al Qadr",
+    "wof:parent_id":1091925637,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.75466,
+    14.91686,
+    43.75466,
+    14.91686
+],
+  "geometry": {"coordinates":[43.75466,14.91686],"type":"Point"}
+}

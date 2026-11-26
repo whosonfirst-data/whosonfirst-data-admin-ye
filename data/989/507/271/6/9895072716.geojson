@@ -1,0 +1,74 @@
+{
+  "id": 9895072716,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.26186,13.25468,44.26186,13.25468",
+    "geom:latitude":13.25468,
+    "geom:longitude":44.26186,
+    "iso:country":"YE",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11966048: name \"Al Kabyah\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11966048"
+        },
+        {
+            "citation":"GeoNames populated place 11966048: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11966048"
+        },
+        {
+            "citation":"GeoNames populated place 11966048: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11966048"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091926543 (Hayfan), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632499,
+        85680989,
+        102191569,
+        1091926543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11966048
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"cd78505f13538bc950d6f9481223f51f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091926543,
+            "locality_id":9895072716,
+            "region_id":85680989
+        }
+    ],
+    "wof:id":9895072716,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Al Kabyah",
+    "wof:parent_id":1091926543,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.26186,
+    13.25468,
+    44.26186,
+    13.25468
+],
+  "geometry": {"coordinates":[44.26186,13.25468],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 9895071383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.19118,13.41304,44.19118,13.41304",
+    "geom:latitude":13.41304,
+    "geom:longitude":44.19118,
+    "iso:country":"YE",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11956510: name \"As Sudays\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11956510"
+        },
+        {
+            "citation":"GeoNames populated place 11956510: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11956510"
+        },
+        {
+            "citation":"GeoNames populated place 11956510: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11956510"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091926525 (Dimnat Khadir), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632499,
+        85680989,
+        102191569,
+        1091926525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11956510
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"59efb700e18f6be8eface704ab3e90a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091926525,
+            "locality_id":9895071383,
+            "region_id":85680989
+        }
+    ],
+    "wof:id":9895071383,
+    "wof:lastmodified":1795734963,
+    "wof:name":"As Sudays",
+    "wof:parent_id":1091926525,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.19118,
+    13.41304,
+    44.19118,
+    13.41304
+],
+  "geometry": {"coordinates":[44.19118,13.41304],"type":"Point"}
+}

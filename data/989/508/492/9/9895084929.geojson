@@ -1,0 +1,74 @@
+{
+  "id": 9895084929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.09825,14.66535,44.09825,14.66535",
+    "geom:latitude":14.66535,
+    "geom:longitude":44.09825,
+    "iso:country":"YE",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12099526: name \"Jarf al Jawwah al Mirhaf\u012b\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12099526"
+        },
+        {
+            "citation":"GeoNames populated place 12099526: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12099526"
+        },
+        {
+            "citation":"GeoNames populated place 12099526: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12099526"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091922231 (Al Manar), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632499,
+        85680969,
+        102191569,
+        1091922231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12099526
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"35fb3eb86ebbe5dcf26cd5c467f8a0e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091922231,
+            "locality_id":9895084929,
+            "region_id":85680969
+        }
+    ],
+    "wof:id":9895084929,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Jarf al Jawwah al Mirhaf\u012b",
+    "wof:parent_id":1091922231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.09825,
+    14.66535,
+    44.09825,
+    14.66535
+],
+  "geometry": {"coordinates":[44.09825,14.66535],"type":"Point"}
+}

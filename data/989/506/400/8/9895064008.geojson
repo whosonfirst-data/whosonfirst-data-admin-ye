@@ -1,0 +1,74 @@
+{
+  "id": 9895064008,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.9935,14.30428,43.9935,14.30428",
+    "geom:latitude":14.30428,
+    "geom:longitude":43.9935,
+    "iso:country":"YE",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11894127: name \"Jurbat as Sabl\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11894127"
+        },
+        {
+            "citation":"GeoNames populated place 11894127: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11894127"
+        },
+        {
+            "citation":"GeoNames populated place 11894127: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11894127"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091924405 (Al Qafr), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632499,
+        85680979,
+        102191569,
+        1091924405
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11894127
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"4405d07a2817076abe01374627f8d312",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924405,
+            "locality_id":9895064008,
+            "region_id":85680979
+        }
+    ],
+    "wof:id":9895064008,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Jurbat as Sabl",
+    "wof:parent_id":1091924405,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.9935,
+    14.30428,
+    43.9935,
+    14.30428
+],
+  "geometry": {"coordinates":[43.9935,14.30428],"type":"Point"}
+}

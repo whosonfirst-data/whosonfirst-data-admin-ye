@@ -1,0 +1,74 @@
+{
+  "id": 9895072261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.31446,13.24566,43.31446,13.24566",
+    "geom:latitude":13.24566,
+    "geom:longitude":43.31446,
+    "iso:country":"YE",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11963918: name \"Umm Naz\u012blah\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11963918"
+        },
+        {
+            "citation":"GeoNames populated place 11963918: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11963918"
+        },
+        {
+            "citation":"GeoNames populated place 11963918: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11963918"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091926505 (Dhubab), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632499,
+        85680989,
+        102191569,
+        1091926505
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11963918
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"e86673d83cf799bc8dc175a7e74b122f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091926505,
+            "locality_id":9895072261,
+            "region_id":85680989
+        }
+    ],
+    "wof:id":9895072261,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Umm Naz\u012blah",
+    "wof:parent_id":1091926505,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.31446,
+    13.24566,
+    43.31446,
+    13.24566
+],
+  "geometry": {"coordinates":[43.31446,13.24566],"type":"Point"}
+}

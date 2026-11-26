@@ -1,0 +1,74 @@
+{
+  "id": 9895087075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.41789,16.03375,43.41789,16.03375",
+    "geom:latitude":16.03375,
+    "geom:longitude":43.41789,
+    "iso:country":"YE",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13409283: name \"A\u015f \u015e\u0101libah\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13409283"
+        },
+        {
+            "citation":"GeoNames populated place 13409283: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13409283"
+        },
+        {
+            "citation":"GeoNames populated place 13409283: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13409283"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091923449 (Aflah Ash Shawm), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632499,
+        85680973,
+        102191569,
+        1091923449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13409283
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"67e4314d6f5282b18e7ba7cbcc9967fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091923449,
+            "locality_id":9895087075,
+            "region_id":85680973
+        }
+    ],
+    "wof:id":9895087075,
+    "wof:lastmodified":1795734963,
+    "wof:name":"A\u015f \u015e\u0101libah",
+    "wof:parent_id":1091923449,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.41789,
+    16.03375,
+    43.41789,
+    16.03375
+],
+  "geometry": {"coordinates":[43.41789,16.03375],"type":"Point"}
+}

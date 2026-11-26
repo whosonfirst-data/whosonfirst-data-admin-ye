@@ -1,0 +1,75 @@
+{
+  "id": 9895061053,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.30187,16.14001,43.30187,16.14001",
+    "geom:latitude":16.14001,
+    "geom:longitude":43.30187,
+    "gn:population":5,
+    "iso:country":"YE",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 7632242: name \"Al Miqsh\u0101b\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/7632242"
+        },
+        {
+            "citation":"GeoNames populated place 7632242: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/7632242"
+        },
+        {
+            "citation":"GeoNames populated place 7632242: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/7632242"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091923953 (Khayran Al Muharraq), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632499,
+        85680973,
+        102191569,
+        1091923953
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7632242
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"2f5caa97d3f33cdab9e79d85fea83c5d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091923953,
+            "locality_id":9895061053,
+            "region_id":85680973
+        }
+    ],
+    "wof:id":9895061053,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Al Miqsh\u0101b",
+    "wof:parent_id":1091923953,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.30187,
+    16.14001,
+    43.30187,
+    16.14001
+],
+  "geometry": {"coordinates":[43.30187,16.14001],"type":"Point"}
+}

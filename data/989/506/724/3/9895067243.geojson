@@ -1,0 +1,74 @@
+{
+  "id": 9895067243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.11996,14.04651,44.11996,14.04651",
+    "geom:latitude":14.04651,
+    "geom:longitude":44.11996,
+    "iso:country":"YE",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11914156: name \"Dh\u012b Sh\u0101mirah\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11914156"
+        },
+        {
+            "citation":"GeoNames populated place 11914156: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11914156"
+        },
+        {
+            "citation":"GeoNames populated place 11914156: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11914156"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091924621 (Ibb), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632499,
+        85680979,
+        102191569,
+        1091924621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11914156
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"db39ea034576ebff3ddbfbfd3e746773",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924621,
+            "locality_id":9895067243,
+            "region_id":85680979
+        }
+    ],
+    "wof:id":9895067243,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Dh\u012b Sh\u0101mirah",
+    "wof:parent_id":1091924621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.11996,
+    14.04651,
+    44.11996,
+    14.04651
+],
+  "geometry": {"coordinates":[44.11996,14.04651],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 9895082015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.13427,13.89811,44.13427,13.89811",
+    "geom:latitude":13.89811,
+    "geom:longitude":44.13427,
+    "iso:country":"YE",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12065689: name \"Bayt ar Rawnah\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12065689"
+        },
+        {
+            "citation":"GeoNames populated place 12065689: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12065689"
+        },
+        {
+            "citation":"GeoNames populated place 12065689: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12065689"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091924651 (Jiblah), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632499,
+        85680979,
+        102191569,
+        1091924651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12065689
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"ed3e11c3b465c1cad77b8e3c31ad2d06",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924651,
+            "locality_id":9895082015,
+            "region_id":85680979
+        }
+    ],
+    "wof:id":9895082015,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Bayt ar Rawnah",
+    "wof:parent_id":1091924651,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.13427,
+    13.89811,
+    44.13427,
+    13.89811
+],
+  "geometry": {"coordinates":[44.13427,13.89811],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 9895078900,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.70131,15.79902,43.70131,15.79902",
+    "geom:latitude":15.79902,
+    "geom:longitude":43.70131,
+    "iso:country":"YE",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12049861: name \"Bayt Mu\u0163\u0163ahar\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12049861"
+        },
+        {
+            "citation":"GeoNames populated place 12049861: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12049861"
+        },
+        {
+            "citation":"GeoNames populated place 12049861: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12049861"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091924013 (Kuhlan Affar), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632499,
+        85680973,
+        102191569,
+        1091924013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12049861
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"0bab5b20d991b5c406ca5a912465ffc7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924013,
+            "locality_id":9895078900,
+            "region_id":85680973
+        }
+    ],
+    "wof:id":9895078900,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Bayt Mu\u0163\u0163ahar",
+    "wof:parent_id":1091924013,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.70131,
+    15.79902,
+    43.70131,
+    15.79902
+],
+  "geometry": {"coordinates":[43.70131,15.79902],"type":"Point"}
+}

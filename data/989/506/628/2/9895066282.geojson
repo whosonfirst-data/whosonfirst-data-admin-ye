@@ -1,0 +1,74 @@
+{
+  "id": 9895066282,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.35835,14.23805,44.35835,14.23805",
+    "geom:latitude":14.23805,
+    "geom:longitude":44.35835,
+    "iso:country":"YE",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11900389: name \"Ta\u1e29t as Sab\u012bl\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11900389"
+        },
+        {
+            "citation":"GeoNames populated place 11900389: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11900389"
+        },
+        {
+            "citation":"GeoNames populated place 11900389: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11900389"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091924693 (Yarim), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632499,
+        85680979,
+        102191569,
+        1091924693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11900389
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"dcf9887d1d27920011d5d7849e883afe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924693,
+            "locality_id":9895066282,
+            "region_id":85680979
+        }
+    ],
+    "wof:id":9895066282,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Ta\u1e29t as Sab\u012bl",
+    "wof:parent_id":1091924693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.35835,
+    14.23805,
+    44.35835,
+    14.23805
+],
+  "geometry": {"coordinates":[44.35835,14.23805],"type":"Point"}
+}

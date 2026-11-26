@@ -1,0 +1,74 @@
+{
+  "id": 9895072254,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.28117,13.2082,43.28117,13.2082",
+    "geom:latitude":13.2082,
+    "geom:longitude":43.28117,
+    "iso:country":"YE",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11963909: name \"\u1e28add\u012byat Nuqay\u0163\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11963909"
+        },
+        {
+            "citation":"GeoNames populated place 11963909: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11963909"
+        },
+        {
+            "citation":"GeoNames populated place 11963909: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11963909"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091926505 (Dhubab), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632499,
+        85680989,
+        102191569,
+        1091926505
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11963909
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"f3437cdceb511ebbb4e67b5f4369379f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091926505,
+            "locality_id":9895072254,
+            "region_id":85680989
+        }
+    ],
+    "wof:id":9895072254,
+    "wof:lastmodified":1795734963,
+    "wof:name":"\u1e28add\u012byat Nuqay\u0163",
+    "wof:parent_id":1091926505,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.28117,
+    13.2082,
+    43.28117,
+    13.2082
+],
+  "geometry": {"coordinates":[43.28117,13.2082],"type":"Point"}
+}

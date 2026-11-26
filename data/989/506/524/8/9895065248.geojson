@@ -1,0 +1,74 @@
+{
+  "id": 9895065248,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.49992,14.15423,43.49992,14.15423",
+    "geom:latitude":14.15423,
+    "geom:longitude":43.49992,
+    "iso:country":"YE",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11897075: name \"A\u1e11 \u1e10aw\u0101\u1e29\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11897075"
+        },
+        {
+            "citation":"GeoNames populated place 11897075: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11897075"
+        },
+        {
+            "citation":"GeoNames populated place 11897075: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11897075"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091919903 (Al Garrahi), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632499,
+        85680959,
+        102191569,
+        1091919903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11897075
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"6be499a8178e0b24ab2617801caf5eb3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091919903,
+            "locality_id":9895065248,
+            "region_id":85680959
+        }
+    ],
+    "wof:id":9895065248,
+    "wof:lastmodified":1795734963,
+    "wof:name":"A\u1e11 \u1e10aw\u0101\u1e29",
+    "wof:parent_id":1091919903,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.49992,
+    14.15423,
+    43.49992,
+    14.15423
+],
+  "geometry": {"coordinates":[43.49992,14.15423],"type":"Point"}
+}

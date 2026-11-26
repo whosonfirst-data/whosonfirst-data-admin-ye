@@ -1,0 +1,74 @@
+{
+  "id": 9895077171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.39725,15.95921,43.39725,15.95921",
+    "geom:latitude":15.95921,
+    "geom:longitude":43.39725,
+    "iso:country":"YE",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12028284: name \"Bayt Kh\u0101tim\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12028284"
+        },
+        {
+            "citation":"GeoNames populated place 12028284: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12028284"
+        },
+        {
+            "citation":"GeoNames populated place 12028284: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12028284"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091923675 (Al Mahabishah), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632499,
+        85680973,
+        102191569,
+        1091923675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12028284
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"36f94aed309a85d12bcedda606807652",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091923675,
+            "locality_id":9895077171,
+            "region_id":85680973
+        }
+    ],
+    "wof:id":9895077171,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Bayt Kh\u0101tim",
+    "wof:parent_id":1091923675,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.39725,
+    15.95921,
+    43.39725,
+    15.95921
+],
+  "geometry": {"coordinates":[43.39725,15.95921],"type":"Point"}
+}

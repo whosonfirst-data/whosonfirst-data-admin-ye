@@ -1,0 +1,74 @@
+{
+  "id": 9895083592,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.05808,13.58916,44.05808,13.58916",
+    "geom:latitude":13.58916,
+    "geom:longitude":44.05808,
+    "iso:country":"YE",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12075095: name \"Jabal ad Dawmalah\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12075095"
+        },
+        {
+            "citation":"GeoNames populated place 12075095: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12075095"
+        },
+        {
+            "citation":"GeoNames populated place 12075095: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12075095"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091926639 (Salh), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632499,
+        85680989,
+        102191569,
+        1091926639
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12075095
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"6f37f33b1057c4d2ae730b814f30d8d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091926639,
+            "locality_id":9895083592,
+            "region_id":85680989
+        }
+    ],
+    "wof:id":9895083592,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Jabal ad Dawmalah",
+    "wof:parent_id":1091926639,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.05808,
+    13.58916,
+    44.05808,
+    13.58916
+],
+  "geometry": {"coordinates":[44.05808,13.58916],"type":"Point"}
+}

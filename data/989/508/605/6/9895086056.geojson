@@ -1,0 +1,74 @@
+{
+  "id": 9895086056,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.60406,14.52369,43.60406,14.52369",
+    "geom:latitude":14.52369,
+    "geom:longitude":43.60406,
+    "iso:country":"YE",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12118326: name \"Jady\u0101n\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12118326"
+        },
+        {
+            "citation":"GeoNames populated place 12118326: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12118326"
+        },
+        {
+            "citation":"GeoNames populated place 12118326: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12118326"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091925305 (Al Jafariyah), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632499,
+        85681033,
+        102191569,
+        1091925305
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12118326
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"21ff60efc9f0ffb370e7a5ff12d8b9f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925305,
+            "locality_id":9895086056,
+            "region_id":85681033
+        }
+    ],
+    "wof:id":9895086056,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Jady\u0101n",
+    "wof:parent_id":1091925305,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.60406,
+    14.52369,
+    43.60406,
+    14.52369
+],
+  "geometry": {"coordinates":[43.60406,14.52369],"type":"Point"}
+}

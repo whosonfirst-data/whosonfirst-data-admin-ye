@@ -1,0 +1,74 @@
+{
+  "id": 9895078363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.90296,15.57598,43.90296,15.57598",
+    "geom:latitude":15.57598,
+    "geom:longitude":43.90296,
+    "iso:country":"YE",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12048962: name \"B\u0101b al Ma\u1e29\u0101m\u012bt\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12048962"
+        },
+        {
+            "citation":"GeoNames populated place 12048962: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12048962"
+        },
+        {
+            "citation":"GeoNames populated place 12048962: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12048962"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091922171 (Thula), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632499,
+        85680977,
+        102191569,
+        1091922171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12048962
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"e29fc6fa986873d8f2d7d21a00e223ee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091922171,
+            "locality_id":9895078363,
+            "region_id":85680977
+        }
+    ],
+    "wof:id":9895078363,
+    "wof:lastmodified":1795734963,
+    "wof:name":"B\u0101b al Ma\u1e29\u0101m\u012bt",
+    "wof:parent_id":1091922171,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.90296,
+    15.57598,
+    43.90296,
+    15.57598
+],
+  "geometry": {"coordinates":[43.90296,15.57598],"type":"Point"}
+}

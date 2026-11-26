@@ -1,0 +1,74 @@
+{
+  "id": 9895077383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.34535,15.95609,43.34535,15.95609",
+    "geom:latitude":15.95609,
+    "geom:longitude":43.34535,
+    "iso:country":"YE",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12028609: name \"Dimnat \u1e28am\u0101\u0163\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12028609"
+        },
+        {
+            "citation":"GeoNames populated place 12028609: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12028609"
+        },
+        {
+            "citation":"GeoNames populated place 12028609: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12028609"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091923953 (Khayran Al Muharraq), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632499,
+        85680973,
+        102191569,
+        1091923953
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12028609
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"8c27d9604da5f2596d776c58be82ad14",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091923953,
+            "locality_id":9895077383,
+            "region_id":85680973
+        }
+    ],
+    "wof:id":9895077383,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Dimnat \u1e28am\u0101\u0163",
+    "wof:parent_id":1091923953,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.34535,
+    15.95609,
+    43.34535,
+    15.95609
+],
+  "geometry": {"coordinates":[43.34535,15.95609],"type":"Point"}
+}

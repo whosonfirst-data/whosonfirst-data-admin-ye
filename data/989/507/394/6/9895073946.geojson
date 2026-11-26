@@ -1,0 +1,74 @@
+{
+  "id": 9895073946,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.54905,15.10622,43.54905,15.10622",
+    "geom:latitude":15.10622,
+    "geom:longitude":43.54905,
+    "iso:country":"YE",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11968392: name \"W\u0101d\u012b al Mak\u0101bin\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11968392"
+        },
+        {
+            "citation":"GeoNames populated place 11968392: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11968392"
+        },
+        {
+            "citation":"GeoNames populated place 11968392: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11968392"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091921243 (Bani Sa'd), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632499,
+        85680965,
+        102191569,
+        1091921243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11968392
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"62f5e4cc7187b8b09fa653c93e639d07",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091921243,
+            "locality_id":9895073946,
+            "region_id":85680965
+        }
+    ],
+    "wof:id":9895073946,
+    "wof:lastmodified":1795734963,
+    "wof:name":"W\u0101d\u012b al Mak\u0101bin",
+    "wof:parent_id":1091921243,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.54905,
+    15.10622,
+    43.54905,
+    15.10622
+],
+  "geometry": {"coordinates":[43.54905,15.10622],"type":"Point"}
+}

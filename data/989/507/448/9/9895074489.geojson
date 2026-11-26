@@ -1,0 +1,74 @@
+{
+  "id": 9895074489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.4966,15.38612,44.4966,15.38612",
+    "geom:latitude":15.38612,
+    "geom:longitude":44.4966,
+    "iso:country":"YE",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11971364: name \"Al Mi\u1e11\u1e29\u0101\u1e29\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11971364"
+        },
+        {
+            "citation":"GeoNames populated place 11971364: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11971364"
+        },
+        {
+            "citation":"GeoNames populated place 11971364: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11971364"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091925719 (Attyal), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632499,
+        85681021,
+        102191569,
+        1091925719
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11971364
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"40c6b89f4b9cdefbc5d3b720b281aa78",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925719,
+            "locality_id":9895074489,
+            "region_id":85681021
+        }
+    ],
+    "wof:id":9895074489,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Al Mi\u1e11\u1e29\u0101\u1e29",
+    "wof:parent_id":1091925719,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.4966,
+    15.38612,
+    44.4966,
+    15.38612
+],
+  "geometry": {"coordinates":[44.4966,15.38612],"type":"Point"}
+}

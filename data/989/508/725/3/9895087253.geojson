@@ -1,0 +1,74 @@
+{
+  "id": 9895087253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.23145,13.22694,44.23145,13.22694",
+    "geom:latitude":13.22694,
+    "geom:longitude":44.23145,
+    "iso:country":"YE",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13429508: name \"Mankal\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13429508"
+        },
+        {
+            "citation":"GeoNames populated place 13429508: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13429508"
+        },
+        {
+            "citation":"GeoNames populated place 13429508: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13429508"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091926543 (Hayfan), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632499,
+        85680989,
+        102191569,
+        1091926543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13429508
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"7b0b9c1cfdbd126bad499b4e82b5b5fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091926543,
+            "locality_id":9895087253,
+            "region_id":85680989
+        }
+    ],
+    "wof:id":9895087253,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Mankal",
+    "wof:parent_id":1091926543,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.23145,
+    13.22694,
+    44.23145,
+    13.22694
+],
+  "geometry": {"coordinates":[44.23145,13.22694],"type":"Point"}
+}

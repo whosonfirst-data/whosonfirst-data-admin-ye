@@ -1,0 +1,74 @@
+{
+  "id": 9895061390,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.55432,14.28767,44.55432,14.28767",
+    "geom:latitude":14.28767,
+    "geom:longitude":44.55432,
+    "iso:country":"YE",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11879286: name \"Al Warshah\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11879286"
+        },
+        {
+            "citation":"GeoNames populated place 11879286: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11879286"
+        },
+        {
+            "citation":"GeoNames populated place 11879286: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11879286"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091922249 (Anss), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632499,
+        85680969,
+        102191569,
+        1091922249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11879286
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"2bbc86a347e6547a50e8c81c6c5b1321",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091922249,
+            "locality_id":9895061390,
+            "region_id":85680969
+        }
+    ],
+    "wof:id":9895061390,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Al Warshah",
+    "wof:parent_id":1091922249,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.55432,
+    14.28767,
+    44.55432,
+    14.28767
+],
+  "geometry": {"coordinates":[44.55432,14.28767],"type":"Point"}
+}

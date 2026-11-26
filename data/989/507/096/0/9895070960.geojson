@@ -1,0 +1,74 @@
+{
+  "id": 9895070960,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.08837,13.38701,44.08837,13.38701",
+    "geom:latitude":13.38701,
+    "geom:longitude":44.08837,
+    "iso:country":"YE",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11955321: name \"An Nakb\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11955321"
+        },
+        {
+            "citation":"GeoNames populated place 11955321: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11955321"
+        },
+        {
+            "citation":"GeoNames populated place 11955321: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11955321"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091926655 (Sama), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632499,
+        85680989,
+        102191569,
+        1091926655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11955321
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"8adcf39c63154e483cd273a5e5b3b44d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091926655,
+            "locality_id":9895070960,
+            "region_id":85680989
+        }
+    ],
+    "wof:id":9895070960,
+    "wof:lastmodified":1795734963,
+    "wof:name":"An Nakb",
+    "wof:parent_id":1091926655,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.08837,
+    13.38701,
+    44.08837,
+    13.38701
+],
+  "geometry": {"coordinates":[44.08837,13.38701],"type":"Point"}
+}

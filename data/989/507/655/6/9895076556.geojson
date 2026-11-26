@@ -1,0 +1,74 @@
+{
+  "id": 9895076556,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.4154,15.9516,43.4154,15.9516",
+    "geom:latitude":15.9516,
+    "geom:longitude":43.4154,
+    "iso:country":"YE",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12027377: name \"Al Miqm\u0101r al Qibl\u012b\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12027377"
+        },
+        {
+            "citation":"GeoNames populated place 12027377: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12027377"
+        },
+        {
+            "citation":"GeoNames populated place 12027377: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12027377"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091923413 (Aflah Al Yaman), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632499,
+        85680973,
+        102191569,
+        1091923413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12027377
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"3bd3b6604a4d809f57d77e0ecf3577e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091923413,
+            "locality_id":9895076556,
+            "region_id":85680973
+        }
+    ],
+    "wof:id":9895076556,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Al Miqm\u0101r al Qibl\u012b",
+    "wof:parent_id":1091923413,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.4154,
+    15.9516,
+    43.4154,
+    15.9516
+],
+  "geometry": {"coordinates":[43.4154,15.9516],"type":"Point"}
+}

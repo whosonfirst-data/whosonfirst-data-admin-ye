@@ -1,0 +1,74 @@
+{
+  "id": 9895077931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.33378,15.82088,43.33378,15.82088",
+    "geom:latitude":15.82088,
+    "geom:longitude":43.33378,
+    "iso:country":"YE",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12029393: name \"Al Ghamrah\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12029393"
+        },
+        {
+            "citation":"GeoNames populated place 12029393: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12029393"
+        },
+        {
+            "citation":"GeoNames populated place 12029393: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12029393"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091923981 (Ku'aydinah), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632499,
+        85680973,
+        102191569,
+        1091923981
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12029393
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"5f82ee03a8c580c209e88c4ac2d3e737",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091923981,
+            "locality_id":9895077931,
+            "region_id":85680973
+        }
+    ],
+    "wof:id":9895077931,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Al Ghamrah",
+    "wof:parent_id":1091923981,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.33378,
+    15.82088,
+    43.33378,
+    15.82088
+],
+  "geometry": {"coordinates":[43.33378,15.82088],"type":"Point"}
+}

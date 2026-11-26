@@ -1,0 +1,74 @@
+{
+  "id": 9895064392,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.99059,14.18835,43.99059,14.18835",
+    "geom:latitude":14.18835,
+    "geom:longitude":43.99059,
+    "iso:country":"YE",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11894874: name \"Najd Hayjat W\u0101sh\u012b\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11894874"
+        },
+        {
+            "citation":"GeoNames populated place 11894874: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11894874"
+        },
+        {
+            "citation":"GeoNames populated place 11894874: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11894874"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091924581 (Hazm Al Udayn), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632499,
+        85680979,
+        102191569,
+        1091924581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11894874
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"e42884ce9701709c242faafd4b8eacea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924581,
+            "locality_id":9895064392,
+            "region_id":85680979
+        }
+    ],
+    "wof:id":9895064392,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Najd Hayjat W\u0101sh\u012b",
+    "wof:parent_id":1091924581,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.99059,
+    14.18835,
+    43.99059,
+    14.18835
+],
+  "geometry": {"coordinates":[43.99059,14.18835],"type":"Point"}
+}

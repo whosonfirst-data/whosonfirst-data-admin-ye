@@ -1,0 +1,74 @@
+{
+  "id": 9895087085,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.4311,16.26625,43.4311,16.26625",
+    "geom:latitude":16.26625,
+    "geom:longitude":43.4311,
+    "iso:country":"YE",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13409576: name \"Al Jurf\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13409576"
+        },
+        {
+            "citation":"GeoNames populated place 13409576: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13409576"
+        },
+        {
+            "citation":"GeoNames populated place 13409576: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13409576"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091924239 (Qarah), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632499,
+        85680973,
+        102191569,
+        1091924239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13409576
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"b1a21741cc031841a11a2d0814477e62",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924239,
+            "locality_id":9895087085,
+            "region_id":85680973
+        }
+    ],
+    "wof:id":9895087085,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Al Jurf",
+    "wof:parent_id":1091924239,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.4311,
+    16.26625,
+    43.4311,
+    16.26625
+],
+  "geometry": {"coordinates":[43.4311,16.26625],"type":"Point"}
+}

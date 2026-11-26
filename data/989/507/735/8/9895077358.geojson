@@ -1,0 +1,74 @@
+{
+  "id": 9895077358,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.05749,15.98097,43.05749,15.98097",
+    "geom:latitude":15.98097,
+    "geom:longitude":43.05749,
+    "iso:country":"YE",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12028577: name \"Kurs\u012b Kar\u012bm\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12028577"
+        },
+        {
+            "citation":"GeoNames populated place 12028577: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12028577"
+        },
+        {
+            "citation":"GeoNames populated place 12028577: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12028577"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091923385 (Abs), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632499,
+        85680973,
+        102191569,
+        1091923385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12028577
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"1e6e97b5e3838246a6f6499007ba33a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091923385,
+            "locality_id":9895077358,
+            "region_id":85680973
+        }
+    ],
+    "wof:id":9895077358,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Kurs\u012b Kar\u012bm",
+    "wof:parent_id":1091923385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.05749,
+    15.98097,
+    43.05749,
+    15.98097
+],
+  "geometry": {"coordinates":[43.05749,15.98097],"type":"Point"}
+}

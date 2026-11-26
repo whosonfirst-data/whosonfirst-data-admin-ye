@@ -1,0 +1,74 @@
+{
+  "id": 9895087080,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.28104,16.30162,43.28104,16.30162",
+    "geom:latitude":16.30162,
+    "geom:longitude":43.28104,
+    "iso:country":"YE",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13409569: name \"Al Jawwah\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13409569"
+        },
+        {
+            "citation":"GeoNames populated place 13409569: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13409569"
+        },
+        {
+            "citation":"GeoNames populated place 13409569: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13409569"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091924151 (Mustaba), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632499,
+        85680973,
+        102191569,
+        1091924151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13409569
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"818934b6fa810daf04d8d3a2bf2a6353",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924151,
+            "locality_id":9895087080,
+            "region_id":85680973
+        }
+    ],
+    "wof:id":9895087080,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Al Jawwah",
+    "wof:parent_id":1091924151,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.28104,
+    16.30162,
+    43.28104,
+    16.30162
+],
+  "geometry": {"coordinates":[43.28104,16.30162],"type":"Point"}
+}

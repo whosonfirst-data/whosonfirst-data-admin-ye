@@ -1,0 +1,74 @@
+{
+  "id": 9895061214,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.98478,14.92203,44.98478,14.92203",
+    "geom:latitude":14.92203,
+    "geom:longitude":44.98478,
+    "iso:country":"YE",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11873012: name \"\u1e28unaylah\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11873012"
+        },
+        {
+            "citation":"GeoNames populated place 11873012: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11873012"
+        },
+        {
+            "citation":"GeoNames populated place 11873012: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11873012"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091925277 (Rahabah), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632499,
+        85681015,
+        102191569,
+        1091925277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11873012
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"91c7bcc1c39310562c3bf86b1084c239",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925277,
+            "locality_id":9895061214,
+            "region_id":85681015
+        }
+    ],
+    "wof:id":9895061214,
+    "wof:lastmodified":1795734963,
+    "wof:name":"\u1e28unaylah",
+    "wof:parent_id":1091925277,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.98478,
+    14.92203,
+    44.98478,
+    14.92203
+],
+  "geometry": {"coordinates":[44.98478,14.92203],"type":"Point"}
+}

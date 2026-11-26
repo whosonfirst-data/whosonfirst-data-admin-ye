@@ -1,0 +1,74 @@
+{
+  "id": 9895070604,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.72489,13.73882,43.72489,13.73882",
+    "geom:latitude":13.73882,
+    "geom:longitude":43.72489,
+    "iso:country":"YE",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11954343: name \"Ban\u012b Zayd\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11954343"
+        },
+        {
+            "citation":"GeoNames populated place 11954343: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11954343"
+        },
+        {
+            "citation":"GeoNames populated place 11954343: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11954343"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091926573 (Maqbanah), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632499,
+        85680989,
+        102191569,
+        1091926573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11954343
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"79fa3ecae077b5982522f4fefb0261ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091926573,
+            "locality_id":9895070604,
+            "region_id":85680989
+        }
+    ],
+    "wof:id":9895070604,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Ban\u012b Zayd",
+    "wof:parent_id":1091926573,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.72489,
+    13.73882,
+    43.72489,
+    13.73882
+],
+  "geometry": {"coordinates":[43.72489,13.73882],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 9895073734,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.50125,15.02856,43.50125,15.02856",
+    "geom:latitude":15.02856,
+    "geom:longitude":43.50125,
+    "iso:country":"YE",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11967986: name \"Ad Darb\u0101sh\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11967986"
+        },
+        {
+            "citation":"GeoNames populated place 11967986: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11967986"
+        },
+        {
+            "citation":"GeoNames populated place 11967986: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11967986"
+        },
+        {
+            "citation":"The hierarchy of WOF county 421183315 (Bajil), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632499,
+        85680959,
+        102191569,
+        421183315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11967986
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"43f7250cd6be820e46a37b5e1758b0a5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":421183315,
+            "locality_id":9895073734,
+            "region_id":85680959
+        }
+    ],
+    "wof:id":9895073734,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Ad Darb\u0101sh",
+    "wof:parent_id":421183315,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.50125,
+    15.02856,
+    43.50125,
+    15.02856
+],
+  "geometry": {"coordinates":[43.50125,15.02856],"type":"Point"}
+}

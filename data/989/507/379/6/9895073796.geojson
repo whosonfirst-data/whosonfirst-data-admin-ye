@@ -1,0 +1,74 @@
+{
+  "id": 9895073796,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.53401,15.07944,43.53401,15.07944",
+    "geom:latitude":15.07944,
+    "geom:longitude":43.53401,
+    "iso:country":"YE",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11968142: name \"Ad Daw\u0101khil\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11968142"
+        },
+        {
+            "citation":"GeoNames populated place 11968142: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11968142"
+        },
+        {
+            "citation":"GeoNames populated place 11968142: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11968142"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091925849 (Sa'fan), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632499,
+        85681021,
+        102191569,
+        1091925849
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11968142
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"c4751e1576d0f8024b414d849b046091",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925849,
+            "locality_id":9895073796,
+            "region_id":85681021
+        }
+    ],
+    "wof:id":9895073796,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Ad Daw\u0101khil",
+    "wof:parent_id":1091925849,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.53401,
+    15.07944,
+    43.53401,
+    15.07944
+],
+  "geometry": {"coordinates":[43.53401,15.07944],"type":"Point"}
+}

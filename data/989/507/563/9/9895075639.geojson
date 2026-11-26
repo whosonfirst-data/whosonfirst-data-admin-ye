@@ -1,0 +1,74 @@
+{
+  "id": 9895075639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.00763,13.87805,44.00763,13.87805",
+    "geom:latitude":13.87805,
+    "geom:longitude":44.00763,
+    "iso:country":"YE",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12006720: name \"Jabal as S\u016bd\u0101n\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12006720"
+        },
+        {
+            "citation":"GeoNames populated place 12006720: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12006720"
+        },
+        {
+            "citation":"GeoNames populated place 12006720: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12006720"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091924675 (Mudhaykhirah), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632499,
+        85680979,
+        102191569,
+        1091924675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12006720
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"8c2010d5a69fe79388ef66846737e068",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924675,
+            "locality_id":9895075639,
+            "region_id":85680979
+        }
+    ],
+    "wof:id":9895075639,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Jabal as S\u016bd\u0101n",
+    "wof:parent_id":1091924675,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.00763,
+    13.87805,
+    44.00763,
+    13.87805
+],
+  "geometry": {"coordinates":[44.00763,13.87805],"type":"Point"}
+}

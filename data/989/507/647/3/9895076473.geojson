@@ -1,0 +1,74 @@
+{
+  "id": 9895076473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.40725,15.9931,43.40725,15.9931",
+    "geom:latitude":15.9931,
+    "geom:longitude":43.40725,
+    "iso:country":"YE",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12027252: name \"Bayt an Nimr\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12027252"
+        },
+        {
+            "citation":"GeoNames populated place 12027252: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12027252"
+        },
+        {
+            "citation":"GeoNames populated place 12027252: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12027252"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091923413 (Aflah Al Yaman), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632499,
+        85680973,
+        102191569,
+        1091923413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12027252
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"08306ab43cba10b35d94fc7a677c05d3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091923413,
+            "locality_id":9895076473,
+            "region_id":85680973
+        }
+    ],
+    "wof:id":9895076473,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Bayt an Nimr",
+    "wof:parent_id":1091923413,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.40725,
+    15.9931,
+    43.40725,
+    15.9931
+],
+  "geometry": {"coordinates":[43.40725,15.9931],"type":"Point"}
+}

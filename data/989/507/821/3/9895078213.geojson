@@ -1,0 +1,74 @@
+{
+  "id": 9895078213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.63225,15.96577,43.63225,15.96577",
+    "geom:latitude":15.96577,
+    "geom:longitude":43.63225,
+    "iso:country":"YE",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12048750: name \"Kawlat Ab\u016b Khayrah\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12048750"
+        },
+        {
+            "citation":"GeoNames populated place 12048750: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12048750"
+        },
+        {
+            "citation":"GeoNames populated place 12048750: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12048750"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091923647 (Al Maghrabah), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632499,
+        85680973,
+        102191569,
+        1091923647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12048750
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"fdc5e7b34e261489f02f9843a0b86621",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091923647,
+            "locality_id":9895078213,
+            "region_id":85680973
+        }
+    ],
+    "wof:id":9895078213,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Kawlat Ab\u016b Khayrah",
+    "wof:parent_id":1091923647,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.63225,
+    15.96577,
+    43.63225,
+    15.96577
+],
+  "geometry": {"coordinates":[43.63225,15.96577],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 9895061793,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.69294,14.02665,44.69294,14.02665",
+    "geom:latitude":14.02665,
+    "geom:longitude":44.69294,
+    "iso:country":"YE",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11879966: name \"Al Jumaymah\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11879966"
+        },
+        {
+            "citation":"GeoNames populated place 11879966: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11879966"
+        },
+        {
+            "citation":"GeoNames populated place 11879966: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11879966"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091919725 (Damt), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632499,
+        85681003,
+        102191569,
+        1091919725
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11879966
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"8bc1f85b9e049f621b14ae01851a9104",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091919725,
+            "locality_id":9895061793,
+            "region_id":85681003
+        }
+    ],
+    "wof:id":9895061793,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Al Jumaymah",
+    "wof:parent_id":1091919725,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.69294,
+    14.02665,
+    44.69294,
+    14.02665
+],
+  "geometry": {"coordinates":[44.69294,14.02665],"type":"Point"}
+}

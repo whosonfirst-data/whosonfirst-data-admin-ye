@@ -1,0 +1,74 @@
+{
+  "id": 9895065275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.66968,14.18013,43.66968,14.18013",
+    "geom:latitude":14.18013,
+    "geom:longitude":43.66968,
+    "iso:country":"YE",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11897107: name \"Al B\u0101ziq\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11897107"
+        },
+        {
+            "citation":"GeoNames populated place 11897107: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11897107"
+        },
+        {
+            "citation":"GeoNames populated place 11897107: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11897107"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091922519 (Wusab As Safil), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632499,
+        85680969,
+        102191569,
+        1091922519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11897107
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"52a363e4de12aa9d1e291004bcfb38c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091922519,
+            "locality_id":9895065275,
+            "region_id":85680969
+        }
+    ],
+    "wof:id":9895065275,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Al B\u0101ziq",
+    "wof:parent_id":1091922519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.66968,
+    14.18013,
+    43.66968,
+    14.18013
+],
+  "geometry": {"coordinates":[43.66968,14.18013],"type":"Point"}
+}

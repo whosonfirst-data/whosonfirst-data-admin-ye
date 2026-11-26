@@ -1,0 +1,82 @@
+{
+  "id": 9895087204,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.25182,15.55709,44.25182,15.55709",
+    "geom:latitude":15.55709,
+    "geom:longitude":44.25182,
+    "iso:country":"YE",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13424344: name \"Bayt \u015e\u0101li\u1e29\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13424344"
+        },
+        {
+            "citation":"GeoNames populated place 13424344: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13424344"
+        },
+        {
+            "citation":"GeoNames populated place 13424344: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13424344"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091921523 (Bani Al Harith), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632499,
+        85681021,
+        85681029,
+        102191569,
+        1091921523
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13424344
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"71e71caa276199b62abf390fdc702527",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091921523,
+            "locality_id":9895087204,
+            "region_id":85681029
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091921523,
+            "locality_id":9895087204,
+            "region_id":85681021
+        }
+    ],
+    "wof:id":9895087204,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Bayt \u015e\u0101li\u1e29",
+    "wof:parent_id":1091921523,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.25182,
+    15.55709,
+    44.25182,
+    15.55709
+],
+  "geometry": {"coordinates":[44.25182,15.55709],"type":"Point"}
+}

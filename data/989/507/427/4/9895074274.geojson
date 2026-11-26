@@ -1,0 +1,74 @@
+{
+  "id": 9895074274,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.27349,14.64132,44.27349,14.64132",
+    "geom:latitude":14.64132,
+    "geom:longitude":44.27349,
+    "iso:country":"YE",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11970470: name \"Ad Da\u1e29\u1e29\u0101\u1e29\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11970470"
+        },
+        {
+            "citation":"GeoNames populated place 11970470: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11970470"
+        },
+        {
+            "citation":"GeoNames populated place 11970470: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11970470"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091922371 (Jahran), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632499,
+        85680969,
+        102191569,
+        1091922371
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11970470
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"bc3301a8a6bf003e95686352ee64383c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091922371,
+            "locality_id":9895074274,
+            "region_id":85680969
+        }
+    ],
+    "wof:id":9895074274,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Ad Da\u1e29\u1e29\u0101\u1e29",
+    "wof:parent_id":1091922371,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.27349,
+    14.64132,
+    44.27349,
+    14.64132
+],
+  "geometry": {"coordinates":[44.27349,14.64132],"type":"Point"}
+}

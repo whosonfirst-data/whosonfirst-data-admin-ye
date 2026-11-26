@@ -1,0 +1,74 @@
+{
+  "id": 9895085015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.12503,14.81632,44.12503,14.81632",
+    "geom:latitude":14.81632,
+    "geom:longitude":44.12503,
+    "iso:country":"YE",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12099640: name \"Al A\u1e29y\u0101s\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12099640"
+        },
+        {
+            "citation":"GeoNames populated place 12099640: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12099640"
+        },
+        {
+            "citation":"GeoNames populated place 12099640: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12099640"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091922277 (Dawran Aness), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632499,
+        85680969,
+        102191569,
+        1091922277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12099640
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"1113cd4dde626533d198717ba3e5c474",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091922277,
+            "locality_id":9895085015,
+            "region_id":85680969
+        }
+    ],
+    "wof:id":9895085015,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Al A\u1e29y\u0101s",
+    "wof:parent_id":1091922277,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.12503,
+    14.81632,
+    44.12503,
+    14.81632
+],
+  "geometry": {"coordinates":[44.12503,14.81632],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 9895061728,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.60229,14.12909,44.60229,14.12909",
+    "geom:latitude":14.12909,
+    "geom:longitude":44.60229,
+    "iso:country":"YE",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11879870: name \"Bayt \u1e28and\u0101d\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11879870"
+        },
+        {
+            "citation":"GeoNames populated place 11879870: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11879870"
+        },
+        {
+            "citation":"GeoNames populated place 11879870: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11879870"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091919725 (Damt), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632499,
+        85681003,
+        102191569,
+        1091919725
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11879870
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"ec77928fa07afebb0effff05b3df451b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091919725,
+            "locality_id":9895061728,
+            "region_id":85681003
+        }
+    ],
+    "wof:id":9895061728,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Bayt \u1e28and\u0101d",
+    "wof:parent_id":1091919725,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.60229,
+    14.12909,
+    44.60229,
+    14.12909
+],
+  "geometry": {"coordinates":[44.60229,14.12909],"type":"Point"}
+}

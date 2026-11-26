@@ -1,0 +1,75 @@
+{
+  "id": 9895061064,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.40161,14.15585,45.40161,14.15585",
+    "geom:latitude":14.15585,
+    "geom:longitude":45.40161,
+    "gn:population":8,
+    "iso:country":"YE",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 8051802: name \"Al Ha\u1e11bah\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/8051802"
+        },
+        {
+            "citation":"GeoNames populated place 8051802: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/8051802"
+        },
+        {
+            "citation":"GeoNames populated place 8051802: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/8051802"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091919237 (At Taffah), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632499,
+        85681001,
+        102191569,
+        1091919237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8051802
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"82a149e87c480a21d81c8df4bf897a0b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091919237,
+            "locality_id":9895061064,
+            "region_id":85681001
+        }
+    ],
+    "wof:id":9895061064,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Al Ha\u1e11bah",
+    "wof:parent_id":1091919237,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.40161,
+    14.15585,
+    45.40161,
+    14.15585
+],
+  "geometry": {"coordinates":[45.40161,14.15585],"type":"Point"}
+}

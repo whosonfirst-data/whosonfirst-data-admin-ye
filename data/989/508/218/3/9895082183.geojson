@@ -1,0 +1,74 @@
+{
+  "id": 9895082183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.17886,13.76508,44.17886,13.76508",
+    "geom:latitude":13.76508,
+    "geom:longitude":44.17886,
+    "iso:country":"YE",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12066161: name \"Akamat Dh\u012b Kar\u0101sh\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12066161"
+        },
+        {
+            "citation":"GeoNames populated place 12066161: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12066161"
+        },
+        {
+            "citation":"GeoNames populated place 12066161: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12066161"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091924509 (As Sayyani), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632499,
+        85680979,
+        102191569,
+        1091924509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12066161
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"80cfaf793ef34dfd31201bf617dfa59f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924509,
+            "locality_id":9895082183,
+            "region_id":85680979
+        }
+    ],
+    "wof:id":9895082183,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Akamat Dh\u012b Kar\u0101sh",
+    "wof:parent_id":1091924509,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.17886,
+    13.76508,
+    44.17886,
+    13.76508
+],
+  "geometry": {"coordinates":[44.17886,13.76508],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 9895088065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.24735,13.358,44.24735,13.358",
+    "geom:latitude":13.358,
+    "geom:longitude":44.24735,
+    "iso:country":"YE",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13443383: name \"Ar Rukayb\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13443383"
+        },
+        {
+            "citation":"GeoNames populated place 13443383: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13443383"
+        },
+        {
+            "citation":"GeoNames populated place 13443383: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13443383"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091926439 (As Silw), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632499,
+        85680989,
+        102191569,
+        1091926439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13443383
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"62336e837d2506aeb3fb4d34d6239a71",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091926439,
+            "locality_id":9895088065,
+            "region_id":85680989
+        }
+    ],
+    "wof:id":9895088065,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Ar Rukayb",
+    "wof:parent_id":1091926439,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.24735,
+    13.358,
+    44.24735,
+    13.358
+],
+  "geometry": {"coordinates":[44.24735,13.358],"type":"Point"}
+}

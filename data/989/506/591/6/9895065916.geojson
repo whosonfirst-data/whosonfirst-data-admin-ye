@@ -1,0 +1,74 @@
+{
+  "id": 9895065916,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.18086,14.40295,44.18086,14.40295",
+    "geom:latitude":14.40295,
+    "geom:longitude":44.18086,
+    "iso:country":"YE",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11898608: name \"Ta\u1e29t ash Sharaf\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11898608"
+        },
+        {
+            "citation":"GeoNames populated place 11898608: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11898608"
+        },
+        {
+            "citation":"GeoNames populated place 11898608: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11898608"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091922403 (Maghirib Ans), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632499,
+        85680969,
+        102191569,
+        1091922403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11898608
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"1000d0f9faa56328b18a8899c3401214",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091922403,
+            "locality_id":9895065916,
+            "region_id":85680969
+        }
+    ],
+    "wof:id":9895065916,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Ta\u1e29t ash Sharaf",
+    "wof:parent_id":1091922403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.18086,
+    14.40295,
+    44.18086,
+    14.40295
+],
+  "geometry": {"coordinates":[44.18086,14.40295],"type":"Point"}
+}

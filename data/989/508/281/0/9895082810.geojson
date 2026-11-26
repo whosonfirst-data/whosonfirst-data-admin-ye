@@ -1,0 +1,74 @@
+{
+  "id": 9895082810,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.38231,13.75252,44.38231,13.75252",
+    "geom:latitude":13.75252,
+    "geom:longitude":44.38231,
+    "iso:country":"YE",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12072312: name \"Lakamat al \u1e28awb\u0101n\u012b\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12072312"
+        },
+        {
+            "citation":"GeoNames populated place 12072312: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12072312"
+        },
+        {
+            "citation":"GeoNames populated place 12072312: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12072312"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091926607 (Mawiyah), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632499,
+        85680989,
+        102191569,
+        1091926607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12072312
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"4904b802bb2c0cb299a6955108300441",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091926607,
+            "locality_id":9895082810,
+            "region_id":85680989
+        }
+    ],
+    "wof:id":9895082810,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Lakamat al \u1e28awb\u0101n\u012b",
+    "wof:parent_id":1091926607,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.38231,
+    13.75252,
+    44.38231,
+    13.75252
+],
+  "geometry": {"coordinates":[44.38231,13.75252],"type":"Point"}
+}

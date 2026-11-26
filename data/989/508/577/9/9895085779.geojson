@@ -1,0 +1,74 @@
+{
+  "id": 9895085779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.80881,15.25818,43.80881,15.25818",
+    "geom:latitude":15.25818,
+    "geom:longitude":43.80881,
+    "iso:country":"YE",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12102319: name \"Az\u0327 Z\u0327ah\u0101r\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12102319"
+        },
+        {
+            "citation":"GeoNames populated place 12102319: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12102319"
+        },
+        {
+            "citation":"GeoNames populated place 12102319: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12102319"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091925615 (Al Haymah Ad Dakhiliyah), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632499,
+        85681021,
+        102191569,
+        1091925615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12102319
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"9ebb8aee8c34bdca5c8e62abacc1ef44",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925615,
+            "locality_id":9895085779,
+            "region_id":85681021
+        }
+    ],
+    "wof:id":9895085779,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Az\u0327 Z\u0327ah\u0101r",
+    "wof:parent_id":1091925615,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.80881,
+    15.25818,
+    43.80881,
+    15.25818
+],
+  "geometry": {"coordinates":[43.80881,15.25818],"type":"Point"}
+}

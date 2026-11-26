@@ -1,0 +1,74 @@
+{
+  "id": 9895066092,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.25366,14.0864,44.25366,14.0864",
+    "geom:latitude":14.0864,
+    "geom:longitude":44.25366,
+    "iso:country":"YE",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11900087: name \"\u1e10ar\u012bm\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11900087"
+        },
+        {
+            "citation":"GeoNames populated place 11900087: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11900087"
+        },
+        {
+            "citation":"GeoNames populated place 11900087: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11900087"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091924377 (Al Makhadir), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632499,
+        85680979,
+        102191569,
+        1091924377
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11900087
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"2a336701ee44fef608639e8cd72b3cfb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924377,
+            "locality_id":9895066092,
+            "region_id":85680979
+        }
+    ],
+    "wof:id":9895066092,
+    "wof:lastmodified":1795734963,
+    "wof:name":"\u1e10ar\u012bm",
+    "wof:parent_id":1091924377,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.25366,
+    14.0864,
+    44.25366,
+    14.0864
+],
+  "geometry": {"coordinates":[44.25366,14.0864],"type":"Point"}
+}

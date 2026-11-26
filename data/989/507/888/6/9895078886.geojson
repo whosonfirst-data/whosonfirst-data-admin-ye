@@ -1,0 +1,74 @@
+{
+  "id": 9895078886,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.6823,15.75314,43.6823,15.75314",
+    "geom:latitude":15.75314,
+    "geom:longitude":43.6823,
+    "iso:country":"YE",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12049840: name \"Al Jurf\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12049840"
+        },
+        {
+            "citation":"GeoNames populated place 12049840: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12049840"
+        },
+        {
+            "citation":"GeoNames populated place 12049840: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12049840"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091924013 (Kuhlan Affar), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632499,
+        85680973,
+        102191569,
+        1091924013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12049840
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"3d892d95e3a13dd133cea1e8de6e7ffd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924013,
+            "locality_id":9895078886,
+            "region_id":85680973
+        }
+    ],
+    "wof:id":9895078886,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Al Jurf",
+    "wof:parent_id":1091924013,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.6823,
+    15.75314,
+    43.6823,
+    15.75314
+],
+  "geometry": {"coordinates":[43.6823,15.75314],"type":"Point"}
+}

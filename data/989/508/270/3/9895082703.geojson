@@ -1,0 +1,74 @@
+{
+  "id": 9895082703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.44405,13.79135,44.44405,13.79135",
+    "geom:latitude":13.79135,
+    "geom:longitude":44.44405,
+    "iso:country":"YE",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12072146: name \"\u1e10awrah\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12072146"
+        },
+        {
+            "citation":"GeoNames populated place 12072146: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12072146"
+        },
+        {
+            "citation":"GeoNames populated place 12072146: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12072146"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091919657 (Al Husha), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632499,
+        85681003,
+        102191569,
+        1091919657
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12072146
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"e47b4ee29df22252fcec66872127c987",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091919657,
+            "locality_id":9895082703,
+            "region_id":85681003
+        }
+    ],
+    "wof:id":9895082703,
+    "wof:lastmodified":1795734963,
+    "wof:name":"\u1e10awrah",
+    "wof:parent_id":1091919657,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.44405,
+    13.79135,
+    44.44405,
+    13.79135
+],
+  "geometry": {"coordinates":[44.44405,13.79135],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 9895073614,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.41255,13.22539,44.41255,13.22539",
+    "geom:latitude":13.22539,
+    "geom:longitude":44.41255,
+    "iso:country":"YE",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11967543: name \"Nukhaylah\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11967543"
+        },
+        {
+            "citation":"GeoNames populated place 11967543: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11967543"
+        },
+        {
+            "citation":"GeoNames populated place 11967543: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11967543"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091924859 (Al Qabbaytah), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632499,
+        85680985,
+        102191569,
+        1091924859
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11967543
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"4667fc40c33f5d9c04075a5937a221c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924859,
+            "locality_id":9895073614,
+            "region_id":85680985
+        }
+    ],
+    "wof:id":9895073614,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Nukhaylah",
+    "wof:parent_id":1091924859,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.41255,
+    13.22539,
+    44.41255,
+    13.22539
+],
+  "geometry": {"coordinates":[44.41255,13.22539],"type":"Point"}
+}

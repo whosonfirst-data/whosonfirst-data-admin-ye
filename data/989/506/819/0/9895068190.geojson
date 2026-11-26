@@ -1,0 +1,74 @@
+{
+  "id": 9895068190,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.51544,13.92133,43.51544,13.92133",
+    "geom:latitude":13.92133,
+    "geom:longitude":43.51544,
+    "iso:country":"YE",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11917213: name \"Ar R\u0101kibah\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11917213"
+        },
+        {
+            "citation":"GeoNames populated place 11917213: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11917213"
+        },
+        {
+            "citation":"GeoNames populated place 11917213: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11917213"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091920423 (Hays), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632499,
+        85680959,
+        102191569,
+        1091920423
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11917213
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"d9bca39f545b0f4d5beeef0a9ae866d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091920423,
+            "locality_id":9895068190,
+            "region_id":85680959
+        }
+    ],
+    "wof:id":9895068190,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Ar R\u0101kibah",
+    "wof:parent_id":1091920423,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.51544,
+    13.92133,
+    43.51544,
+    13.92133
+],
+  "geometry": {"coordinates":[43.51544,13.92133],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 9895086781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.05416,13.80261,44.05416,13.80261",
+    "geom:latitude":13.80261,
+    "geom:longitude":44.05416,
+    "iso:country":"YE",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12138170: name \"A\u1e11 \u1e10arbah\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12138170"
+        },
+        {
+            "citation":"GeoNames populated place 12138170: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12138170"
+        },
+        {
+            "citation":"GeoNames populated place 12138170: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12138170"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091924529 (Dhi As Sufal), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632499,
+        85680979,
+        102191569,
+        1091924529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12138170
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"fc783f9b6c2fe96904b2cd900354520e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924529,
+            "locality_id":9895086781,
+            "region_id":85680979
+        }
+    ],
+    "wof:id":9895086781,
+    "wof:lastmodified":1795734963,
+    "wof:name":"A\u1e11 \u1e10arbah",
+    "wof:parent_id":1091924529,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.05416,
+    13.80261,
+    44.05416,
+    13.80261
+],
+  "geometry": {"coordinates":[44.05416,13.80261],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 9895087271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.04908,15.36803,43.04908,15.36803",
+    "geom:latitude":15.36803,
+    "geom:longitude":43.04908,
+    "iso:country":"YE",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13430760: name \"Mahdal\u012b\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13430760"
+        },
+        {
+            "citation":"GeoNames populated place 13430760: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13430760"
+        },
+        {
+            "citation":"GeoNames populated place 13430760: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13430760"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091920319 (Az Zaydiyah), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632499,
+        85680959,
+        102191569,
+        1091920319
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13430760
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"db65364af4e18c7a595716644c3bdefc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091920319,
+            "locality_id":9895087271,
+            "region_id":85680959
+        }
+    ],
+    "wof:id":9895087271,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Mahdal\u012b",
+    "wof:parent_id":1091920319,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.04908,
+    15.36803,
+    43.04908,
+    15.36803
+],
+  "geometry": {"coordinates":[43.04908,15.36803],"type":"Point"}
+}

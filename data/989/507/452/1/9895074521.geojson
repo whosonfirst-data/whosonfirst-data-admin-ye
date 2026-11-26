@@ -1,0 +1,74 @@
+{
+  "id": 9895074521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.47335,15.1171,44.47335,15.1171",
+    "geom:latitude":15.1171,
+    "geom:longitude":44.47335,
+    "iso:country":"YE",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11971408: name \"Al W\u0101d\u012b\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11971408"
+        },
+        {
+            "citation":"GeoNames populated place 11971408: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11971408"
+        },
+        {
+            "citation":"GeoNames populated place 11971408: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11971408"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091925799 (Jihanah), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632499,
+        85681021,
+        102191569,
+        1091925799
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11971408
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"bf77ddbd07a057a373f936e61365fd54",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925799,
+            "locality_id":9895074521,
+            "region_id":85681021
+        }
+    ],
+    "wof:id":9895074521,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Al W\u0101d\u012b",
+    "wof:parent_id":1091925799,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.47335,
+    15.1171,
+    44.47335,
+    15.1171
+],
+  "geometry": {"coordinates":[44.47335,15.1171],"type":"Point"}
+}

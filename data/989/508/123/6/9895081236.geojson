@@ -1,0 +1,74 @@
+{
+  "id": 9895081236,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.6691,14.67834,43.6691,14.67834",
+    "geom:latitude":14.67834,
+    "geom:longitude":43.6691,
+    "iso:country":"YE",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12063923: name \"Al B\u012br\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12063923"
+        },
+        {
+            "citation":"GeoNames populated place 12063923: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12063923"
+        },
+        {
+            "citation":"GeoNames populated place 12063923: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12063923"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091925303 (Al Jabin), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632499,
+        85681033,
+        102191569,
+        1091925303
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12063923
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"7b35aade8357c01ff61202e418e6e6fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925303,
+            "locality_id":9895081236,
+            "region_id":85681033
+        }
+    ],
+    "wof:id":9895081236,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Al B\u012br",
+    "wof:parent_id":1091925303,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.6691,
+    14.67834,
+    43.6691,
+    14.67834
+],
+  "geometry": {"coordinates":[43.6691,14.67834],"type":"Point"}
+}

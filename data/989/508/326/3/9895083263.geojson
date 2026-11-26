@@ -1,0 +1,74 @@
+{
+  "id": 9895083263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.43509,13.71572,44.43509,13.71572",
+    "geom:latitude":13.71572,
+    "geom:longitude":44.43509,
+    "iso:country":"YE",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12073299: name \"Al Jubayl\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12073299"
+        },
+        {
+            "citation":"GeoNames populated place 12073299: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12073299"
+        },
+        {
+            "citation":"GeoNames populated place 12073299: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12073299"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091919657 (Al Husha), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632499,
+        85681003,
+        102191569,
+        1091919657
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12073299
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"71ecd0812032f72cb885895ac90323a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091919657,
+            "locality_id":9895083263,
+            "region_id":85681003
+        }
+    ],
+    "wof:id":9895083263,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Al Jubayl",
+    "wof:parent_id":1091919657,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.43509,
+    13.71572,
+    44.43509,
+    13.71572
+],
+  "geometry": {"coordinates":[44.43509,13.71572],"type":"Point"}
+}

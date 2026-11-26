@@ -1,0 +1,74 @@
+{
+  "id": 9895079286,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.84901,15.64103,43.84901,15.64103",
+    "geom:latitude":15.64103,
+    "geom:longitude":43.84901,
+    "iso:country":"YE",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12050458: name \"Bayt Sayl\u0101n\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12050458"
+        },
+        {
+            "citation":"GeoNames populated place 12050458: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12050458"
+        },
+        {
+            "citation":"GeoNames populated place 12050458: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12050458"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091921965 (Jabal Iyal Yazid), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632499,
+        85680977,
+        102191569,
+        1091921965
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12050458
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"0b8970ba23f542992f3e6d279917ba8f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091921965,
+            "locality_id":9895079286,
+            "region_id":85680977
+        }
+    ],
+    "wof:id":9895079286,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Bayt Sayl\u0101n",
+    "wof:parent_id":1091921965,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.84901,
+    15.64103,
+    43.84901,
+    15.64103
+],
+  "geometry": {"coordinates":[43.84901,15.64103],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 9895083752,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.63816,13.93728,44.63816,13.93728",
+    "geom:latitude":13.93728,
+    "geom:longitude":44.63816,
+    "iso:country":"YE",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12097752: name \"Qarn ash Shar\u0101\u1e29\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12097752"
+        },
+        {
+            "citation":"GeoNames populated place 12097752: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12097752"
+        },
+        {
+            "citation":"GeoNames populated place 12097752: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12097752"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091919801 (Qa'atabah), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632499,
+        85681003,
+        102191569,
+        1091919801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12097752
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"a7d8287d1e0638fbbcacdad541b8ef3f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091919801,
+            "locality_id":9895083752,
+            "region_id":85681003
+        }
+    ],
+    "wof:id":9895083752,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Qarn ash Shar\u0101\u1e29",
+    "wof:parent_id":1091919801,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.63816,
+    13.93728,
+    44.63816,
+    13.93728
+],
+  "geometry": {"coordinates":[44.63816,13.93728],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 9895070265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.9878,13.55116,43.9878,13.55116",
+    "geom:latitude":13.55116,
+    "geom:longitude":43.9878,
+    "iso:country":"YE",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11949696: name \"Al Mi\u1e29r\u0101q\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11949696"
+        },
+        {
+            "citation":"GeoNames populated place 11949696: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11949696"
+        },
+        {
+            "citation":"GeoNames populated place 11949696: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11949696"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091926589 (Mashra'a Wa Hadnan), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632499,
+        85680989,
+        102191569,
+        1091926589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11949696
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"b78121d8a4e2c0df7e1321d0cc68f741",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091926589,
+            "locality_id":9895070265,
+            "region_id":85680989
+        }
+    ],
+    "wof:id":9895070265,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Al Mi\u1e29r\u0101q",
+    "wof:parent_id":1091926589,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.9878,
+    13.55116,
+    43.9878,
+    13.55116
+],
+  "geometry": {"coordinates":[43.9878,13.55116],"type":"Point"}
+}

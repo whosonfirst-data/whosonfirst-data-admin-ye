@@ -1,0 +1,74 @@
+{
+  "id": 9895084141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.97135,13.89504,43.97135,13.89504",
+    "geom:latitude":13.89504,
+    "geom:longitude":43.97135,
+    "iso:country":"YE",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12098372: name \"Dh\u012b \u1e28\u0101fiz\u0327 Wajashm\u0101n\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12098372"
+        },
+        {
+            "citation":"GeoNames populated place 12098372: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12098372"
+        },
+        {
+            "citation":"GeoNames populated place 12098372: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12098372"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091924675 (Mudhaykhirah), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632499,
+        85680979,
+        102191569,
+        1091924675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12098372
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"10b8b0cdbe9e8da2b10e092047e5bf3f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924675,
+            "locality_id":9895084141,
+            "region_id":85680979
+        }
+    ],
+    "wof:id":9895084141,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Dh\u012b \u1e28\u0101fiz\u0327 Wajashm\u0101n",
+    "wof:parent_id":1091924675,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.97135,
+    13.89504,
+    43.97135,
+    13.89504
+],
+  "geometry": {"coordinates":[43.97135,13.89504],"type":"Point"}
+}

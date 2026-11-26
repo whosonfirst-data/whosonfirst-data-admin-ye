@@ -1,0 +1,74 @@
+{
+  "id": 9895074851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.74459,14.81431,43.74459,14.81431",
+    "geom:latitude":14.81431,
+    "geom:longitude":43.74459,
+    "iso:country":"YE",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12004939: name \"R\u0101shid\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12004939"
+        },
+        {
+            "citation":"GeoNames populated place 12004939: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12004939"
+        },
+        {
+            "citation":"GeoNames populated place 12004939: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12004939"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091925307 (As Salafiyah), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632499,
+        85681033,
+        102191569,
+        1091925307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12004939
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"6e2b321a8e6628e2404d104068018406",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925307,
+            "locality_id":9895074851,
+            "region_id":85681033
+        }
+    ],
+    "wof:id":9895074851,
+    "wof:lastmodified":1795734963,
+    "wof:name":"R\u0101shid",
+    "wof:parent_id":1091925307,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.74459,
+    14.81431,
+    43.74459,
+    14.81431
+],
+  "geometry": {"coordinates":[43.74459,14.81431],"type":"Point"}
+}

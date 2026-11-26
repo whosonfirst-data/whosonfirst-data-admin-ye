@@ -1,0 +1,74 @@
+{
+  "id": 9895078189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.68106,15.95881,43.68106,15.95881",
+    "geom:latitude":15.95881,
+    "geom:longitude":43.68106,
+    "iso:country":"YE",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12048717: name \"\u1e28adabat Ram\u0101dah\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12048717"
+        },
+        {
+            "citation":"GeoNames populated place 12048717: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12048717"
+        },
+        {
+            "citation":"GeoNames populated place 12048717: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12048717"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091923647 (Al Maghrabah), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632499,
+        85680973,
+        102191569,
+        1091923647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12048717
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"4cd7a26883d3a3b22075b162d5f1e52d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091923647,
+            "locality_id":9895078189,
+            "region_id":85680973
+        }
+    ],
+    "wof:id":9895078189,
+    "wof:lastmodified":1795734963,
+    "wof:name":"\u1e28adabat Ram\u0101dah",
+    "wof:parent_id":1091923647,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.68106,
+    15.95881,
+    43.68106,
+    15.95881
+],
+  "geometry": {"coordinates":[43.68106,15.95881],"type":"Point"}
+}

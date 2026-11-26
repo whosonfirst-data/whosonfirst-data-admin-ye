@@ -1,0 +1,74 @@
+{
+  "id": 9895065142,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.97722,14.01204,43.97722,14.01204",
+    "geom:latitude":14.01204,
+    "geom:longitude":43.97722,
+    "iso:country":"YE",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11896742: name \"Al Mat\u0101r\u012bb\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11896742"
+        },
+        {
+            "citation":"GeoNames populated place 11896742: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11896742"
+        },
+        {
+            "citation":"GeoNames populated place 11896742: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11896742"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091924581 (Hazm Al Udayn), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632499,
+        85680979,
+        102191569,
+        1091924581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11896742
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"e4bd81400fd2aaaf716781941da084e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924581,
+            "locality_id":9895065142,
+            "region_id":85680979
+        }
+    ],
+    "wof:id":9895065142,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Al Mat\u0101r\u012bb",
+    "wof:parent_id":1091924581,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.97722,
+    14.01204,
+    43.97722,
+    14.01204
+],
+  "geometry": {"coordinates":[43.97722,14.01204],"type":"Point"}
+}

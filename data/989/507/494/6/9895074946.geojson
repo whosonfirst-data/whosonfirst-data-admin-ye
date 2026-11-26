@@ -1,0 +1,74 @@
+{
+  "id": 9895074946,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.58035,14.7698,43.58035,14.7698",
+    "geom:latitude":14.7698,
+    "geom:longitude":43.58035,
+    "iso:country":"YE",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12005066: name \"Shar\u1e29\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12005066"
+        },
+        {
+            "citation":"GeoNames populated place 12005066: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12005066"
+        },
+        {
+            "citation":"GeoNames populated place 12005066: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12005066"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091925309 (Bilad At Ta'am), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632499,
+        85681033,
+        102191569,
+        1091925309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12005066
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"3503b6bc619ae17d004ab049e2167852",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925309,
+            "locality_id":9895074946,
+            "region_id":85681033
+        }
+    ],
+    "wof:id":9895074946,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Shar\u1e29",
+    "wof:parent_id":1091925309,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.58035,
+    14.7698,
+    43.58035,
+    14.7698
+],
+  "geometry": {"coordinates":[43.58035,14.7698],"type":"Point"}
+}

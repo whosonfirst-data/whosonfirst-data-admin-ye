@@ -1,0 +1,74 @@
+{
+  "id": 9895074966,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.54966,14.7711,43.54966,14.7711",
+    "geom:latitude":14.7711,
+    "geom:longitude":43.54966,
+    "iso:country":"YE",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12005093: name \"Al Mawj\u0101yah\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12005093"
+        },
+        {
+            "citation":"GeoNames populated place 12005093: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12005093"
+        },
+        {
+            "citation":"GeoNames populated place 12005093: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12005093"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091925309 (Bilad At Ta'am), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632499,
+        85681033,
+        102191569,
+        1091925309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12005093
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"3fbbf8655d5d84995c9b63b08a1cfd51",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925309,
+            "locality_id":9895074966,
+            "region_id":85681033
+        }
+    ],
+    "wof:id":9895074966,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Al Mawj\u0101yah",
+    "wof:parent_id":1091925309,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.54966,
+    14.7711,
+    43.54966,
+    14.7711
+],
+  "geometry": {"coordinates":[43.54966,14.7711],"type":"Point"}
+}

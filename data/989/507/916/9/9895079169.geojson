@@ -1,0 +1,74 @@
+{
+  "id": 9895079169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.55651,15.6392,43.55651,15.6392",
+    "geom:latitude":15.6392,
+    "geom:longitude":43.55651,
+    "iso:country":"YE",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12050276: name \"Ar Raj\u0101yim\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12050276"
+        },
+        {
+            "citation":"GeoNames populated place 12050276: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12050276"
+        },
+        {
+            "citation":"GeoNames populated place 12050276: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12050276"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091924177 (Najrah), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632499,
+        85680973,
+        102191569,
+        1091924177
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12050276
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"8f8154e2572c7785cc54ef13f1ebba4d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924177,
+            "locality_id":9895079169,
+            "region_id":85680973
+        }
+    ],
+    "wof:id":9895079169,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Ar Raj\u0101yim",
+    "wof:parent_id":1091924177,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.55651,
+    15.6392,
+    43.55651,
+    15.6392
+],
+  "geometry": {"coordinates":[43.55651,15.6392],"type":"Point"}
+}

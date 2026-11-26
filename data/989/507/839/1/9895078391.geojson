@@ -1,0 +1,74 @@
+{
+  "id": 9895078391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.80684,15.97854,43.80684,15.97854",
+    "geom:latitude":15.97854,
+    "geom:longitude":43.80684,
+    "iso:country":"YE",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12049007: name \"Ath Thajjah\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12049007"
+        },
+        {
+            "citation":"GeoNames populated place 12049007: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12049007"
+        },
+        {
+            "citation":"GeoNames populated place 12049007: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12049007"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091921779 (As Sudah), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632499,
+        85680977,
+        102191569,
+        1091921779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12049007
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"72262fc724c7a2497c1ce6dfff99b7bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091921779,
+            "locality_id":9895078391,
+            "region_id":85680977
+        }
+    ],
+    "wof:id":9895078391,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Ath Thajjah",
+    "wof:parent_id":1091921779,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.80684,
+    15.97854,
+    43.80684,
+    15.97854
+],
+  "geometry": {"coordinates":[43.80684,15.97854],"type":"Point"}
+}

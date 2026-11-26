@@ -1,0 +1,74 @@
+{
+  "id": 9895087115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.26334,16.96832,44.26334,16.96832",
+    "geom:latitude":16.96832,
+    "geom:longitude":44.26334,
+    "iso:country":"YE",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13410201: name \"Al Buy\u016bt\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13410201"
+        },
+        {
+            "citation":"GeoNames populated place 13410201: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13410201"
+        },
+        {
+            "citation":"GeoNames populated place 13410201: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13410201"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091925427 (Kitaf wa Al Boqe'e), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632499,
+        85680955,
+        102191569,
+        1091925427
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13410201
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"cd007756a512abbc7d7dd0c6185c2014",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925427,
+            "locality_id":9895087115,
+            "region_id":85680955
+        }
+    ],
+    "wof:id":9895087115,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Al Buy\u016bt",
+    "wof:parent_id":1091925427,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.26334,
+    16.96832,
+    44.26334,
+    16.96832
+],
+  "geometry": {"coordinates":[44.26334,16.96832],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 9895074639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.53223,14.97364,43.53223,14.97364",
+    "geom:latitude":14.97364,
+    "geom:longitude":43.53223,
+    "iso:country":"YE",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12004649: name \"Ar Ruwaynah\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12004649"
+        },
+        {
+            "citation":"GeoNames populated place 12004649: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12004649"
+        },
+        {
+            "citation":"GeoNames populated place 12004649: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12004649"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091920387 (Bura), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632499,
+        85680959,
+        102191569,
+        1091920387
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12004649
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"8b797fa1a44d52dfa9264ed29d275c1c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091920387,
+            "locality_id":9895074639,
+            "region_id":85680959
+        }
+    ],
+    "wof:id":9895074639,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Ar Ruwaynah",
+    "wof:parent_id":1091920387,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.53223,
+    14.97364,
+    43.53223,
+    14.97364
+],
+  "geometry": {"coordinates":[43.53223,14.97364],"type":"Point"}
+}

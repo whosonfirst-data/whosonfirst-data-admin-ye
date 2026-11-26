@@ -1,0 +1,74 @@
+{
+  "id": 9895079341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.9621,15.98966,43.9621,15.98966",
+    "geom:latitude":15.98966,
+    "geom:longitude":43.9621,
+    "iso:country":"YE",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12050553: name \"Al Mizyanah\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12050553"
+        },
+        {
+            "citation":"GeoNames populated place 12050553: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12050553"
+        },
+        {
+            "citation":"GeoNames populated place 12050553: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12050553"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091921993 (Khamir), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632499,
+        85680977,
+        102191569,
+        1091921993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12050553
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"683e406623975579dbbd995a2fb3d9d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091921993,
+            "locality_id":9895079341,
+            "region_id":85680977
+        }
+    ],
+    "wof:id":9895079341,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Al Mizyanah",
+    "wof:parent_id":1091921993,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.9621,
+    15.98966,
+    43.9621,
+    15.98966
+],
+  "geometry": {"coordinates":[43.9621,15.98966],"type":"Point"}
+}

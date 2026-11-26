@@ -1,0 +1,74 @@
+{
+  "id": 9895080948,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.63799,14.64289,43.63799,14.64289",
+    "geom:latitude":14.64289,
+    "geom:longitude":43.63799,
+    "iso:country":"YE",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12063546: name \"Kharf\u0101n\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12063546"
+        },
+        {
+            "citation":"GeoNames populated place 12063546: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12063546"
+        },
+        {
+            "citation":"GeoNames populated place 12063546: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12063546"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091925345 (Mazhar), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632499,
+        85681033,
+        102191569,
+        1091925345
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12063546
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"e6372d1bc1aaa21aaeac020ff1a1f6d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925345,
+            "locality_id":9895080948,
+            "region_id":85681033
+        }
+    ],
+    "wof:id":9895080948,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Kharf\u0101n",
+    "wof:parent_id":1091925345,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.63799,
+    14.64289,
+    43.63799,
+    14.64289
+],
+  "geometry": {"coordinates":[43.63799,14.64289],"type":"Point"}
+}

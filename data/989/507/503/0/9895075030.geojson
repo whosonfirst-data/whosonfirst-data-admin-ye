@@ -1,0 +1,74 @@
+{
+  "id": 9895075030,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.51034,14.94508,43.51034,14.94508",
+    "geom:latitude":14.94508,
+    "geom:longitude":43.51034,
+    "iso:country":"YE",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12005209: name \"W\u0101d\u012b M\u016bs\u00e1 al Asfal\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12005209"
+        },
+        {
+            "citation":"GeoNames populated place 12005209: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12005209"
+        },
+        {
+            "citation":"GeoNames populated place 12005209: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12005209"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091920387 (Bura), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632499,
+        85680959,
+        102191569,
+        1091920387
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12005209
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"f780e9ec77baef5cfb0326988f8e0d4b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091920387,
+            "locality_id":9895075030,
+            "region_id":85680959
+        }
+    ],
+    "wof:id":9895075030,
+    "wof:lastmodified":1795734963,
+    "wof:name":"W\u0101d\u012b M\u016bs\u00e1 al Asfal",
+    "wof:parent_id":1091920387,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.51034,
+    14.94508,
+    43.51034,
+    14.94508
+],
+  "geometry": {"coordinates":[43.51034,14.94508],"type":"Point"}
+}

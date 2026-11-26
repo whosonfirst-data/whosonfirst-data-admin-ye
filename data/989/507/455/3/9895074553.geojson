@@ -1,0 +1,74 @@
+{
+  "id": 9895074553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.18122,15.22872,44.18122,15.22872",
+    "geom:latitude":15.22872,
+    "geom:longitude":44.18122,
+    "iso:country":"YE",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11971460: name \"Manqazah\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11971460"
+        },
+        {
+            "citation":"GeoNames populated place 11971460: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11971460"
+        },
+        {
+            "citation":"GeoNames populated place 11971460: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11971460"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091925875 (Sanhan), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632499,
+        85681021,
+        102191569,
+        1091925875
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11971460
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"5946dc3bdb38995bb308abd247e18d82",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925875,
+            "locality_id":9895074553,
+            "region_id":85681021
+        }
+    ],
+    "wof:id":9895074553,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Manqazah",
+    "wof:parent_id":1091925875,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.18122,
+    15.22872,
+    44.18122,
+    15.22872
+],
+  "geometry": {"coordinates":[44.18122,15.22872],"type":"Point"}
+}

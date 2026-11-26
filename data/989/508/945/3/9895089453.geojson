@@ -1,0 +1,74 @@
+{
+  "id": 9895089453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.84091,15.29973,43.84091,15.29973",
+    "geom:latitude":15.29973,
+    "geom:longitude":43.84091,
+    "iso:country":"YE",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13447352: name \"Al Qa\u015fabah\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13447352"
+        },
+        {
+            "citation":"GeoNames populated place 13447352: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13447352"
+        },
+        {
+            "citation":"GeoNames populated place 13447352: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13447352"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091925615 (Al Haymah Ad Dakhiliyah), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632499,
+        85681021,
+        102191569,
+        1091925615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13447352
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"d371e2709d8577cf39990c73b8b1c0fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925615,
+            "locality_id":9895089453,
+            "region_id":85681021
+        }
+    ],
+    "wof:id":9895089453,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Al Qa\u015fabah",
+    "wof:parent_id":1091925615,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.84091,
+    15.29973,
+    43.84091,
+    15.29973
+],
+  "geometry": {"coordinates":[43.84091,15.29973],"type":"Point"}
+}

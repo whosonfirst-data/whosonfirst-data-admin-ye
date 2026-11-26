@@ -1,0 +1,74 @@
+{
+  "id": 9895061216,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.00501,14.86103,45.00501,14.86103",
+    "geom:latitude":14.86103,
+    "geom:longitude":45.00501,
+    "iso:country":"YE",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11873015: name \"Fulayyi\u1e29\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11873015"
+        },
+        {
+            "citation":"GeoNames populated place 11873015: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11873015"
+        },
+        {
+            "citation":"GeoNames populated place 11873015: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11873015"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091925277 (Rahabah), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632499,
+        85681015,
+        102191569,
+        1091925277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11873015
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"3d3545e3b61c987978f957e019fdf0d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925277,
+            "locality_id":9895061216,
+            "region_id":85681015
+        }
+    ],
+    "wof:id":9895061216,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Fulayyi\u1e29",
+    "wof:parent_id":1091925277,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.00501,
+    14.86103,
+    45.00501,
+    14.86103
+],
+  "geometry": {"coordinates":[45.00501,14.86103],"type":"Point"}
+}

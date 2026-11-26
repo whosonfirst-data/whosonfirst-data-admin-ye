@@ -1,0 +1,74 @@
+{
+  "id": 9895061630,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.76015,14.12329,44.76015,14.12329",
+    "geom:latitude":14.12329,
+    "geom:longitude":44.76015,
+    "iso:country":"YE",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11879721: name \"Ad Dakm\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11879721"
+        },
+        {
+            "citation":"GeoNames populated place 11879721: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11879721"
+        },
+        {
+            "citation":"GeoNames populated place 11879721: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11879721"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091919725 (Damt), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632499,
+        85681003,
+        102191569,
+        1091919725
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11879721
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"3b8f6df0f43bd2587ef3b5c093be1e84",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091919725,
+            "locality_id":9895061630,
+            "region_id":85681003
+        }
+    ],
+    "wof:id":9895061630,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Ad Dakm",
+    "wof:parent_id":1091919725,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.76015,
+    14.12329,
+    44.76015,
+    14.12329
+],
+  "geometry": {"coordinates":[44.76015,14.12329],"type":"Point"}
+}

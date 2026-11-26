@@ -1,0 +1,74 @@
+{
+  "id": 9895072463,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.06476,13.32517,44.06476,13.32517",
+    "geom:latitude":13.32517,
+    "geom:longitude":44.06476,
+    "iso:country":"YE",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11965030: name \"\u1e10a\u1e29\u012b\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11965030"
+        },
+        {
+            "citation":"GeoNames populated place 11965030: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11965030"
+        },
+        {
+            "citation":"GeoNames populated place 11965030: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11965030"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091926325 (Al Mawasit), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632499,
+        85680989,
+        102191569,
+        1091926325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11965030
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"ad2a13b94176a415d1a0c023d321beb1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091926325,
+            "locality_id":9895072463,
+            "region_id":85680989
+        }
+    ],
+    "wof:id":9895072463,
+    "wof:lastmodified":1795734963,
+    "wof:name":"\u1e10a\u1e29\u012b",
+    "wof:parent_id":1091926325,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.06476,
+    13.32517,
+    44.06476,
+    13.32517
+],
+  "geometry": {"coordinates":[44.06476,13.32517],"type":"Point"}
+}

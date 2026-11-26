@@ -1,0 +1,74 @@
+{
+  "id": 9895080352,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.76617,14.6151,43.76617,14.6151",
+    "geom:latitude":14.6151,
+    "geom:longitude":43.76617,
+    "iso:country":"YE",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12052463: name \"Al Jardam\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12052463"
+        },
+        {
+            "citation":"GeoNames populated place 12052463: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12052463"
+        },
+        {
+            "citation":"GeoNames populated place 12052463: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12052463"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091925345 (Mazhar), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632499,
+        85681033,
+        102191569,
+        1091925345
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12052463
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"3403a152d42c01c2eb3a33ed59cd91d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925345,
+            "locality_id":9895080352,
+            "region_id":85681033
+        }
+    ],
+    "wof:id":9895080352,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Al Jardam",
+    "wof:parent_id":1091925345,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.76617,
+    14.6151,
+    43.76617,
+    14.6151
+],
+  "geometry": {"coordinates":[43.76617,14.6151],"type":"Point"}
+}

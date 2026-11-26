@@ -1,0 +1,74 @@
+{
+  "id": 9895085236,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.22341,14.55995,44.22341,14.55995",
+    "geom:latitude":14.55995,
+    "geom:longitude":44.22341,
+    "iso:country":"YE",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12099948: name \"Maw\u0101jil a\u0163 \u0162\u012bb\u012b\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12099948"
+        },
+        {
+            "citation":"GeoNames populated place 12099948: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12099948"
+        },
+        {
+            "citation":"GeoNames populated place 12099948: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12099948"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091922249 (Anss), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632499,
+        85680969,
+        102191569,
+        1091922249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12099948
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"d9c6bcf5b40d03fb833eeb157dfd6721",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091922249,
+            "locality_id":9895085236,
+            "region_id":85680969
+        }
+    ],
+    "wof:id":9895085236,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Maw\u0101jil a\u0163 \u0162\u012bb\u012b",
+    "wof:parent_id":1091922249,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.22341,
+    14.55995,
+    44.22341,
+    14.55995
+],
+  "geometry": {"coordinates":[44.22341,14.55995],"type":"Point"}
+}

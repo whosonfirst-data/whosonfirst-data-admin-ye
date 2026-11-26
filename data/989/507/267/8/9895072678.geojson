@@ -1,0 +1,74 @@
+{
+  "id": 9895072678,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.11219,13.27448,44.11219,13.27448",
+    "geom:latitude":13.27448,
+    "geom:longitude":44.11219,
+    "iso:country":"YE",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11965374: name \"Hawb al Maqr\u016b\u1e11\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11965374"
+        },
+        {
+            "citation":"GeoNames populated place 11965374: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11965374"
+        },
+        {
+            "citation":"GeoNames populated place 11965374: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11965374"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091926325 (Al Mawasit), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632499,
+        85680989,
+        102191569,
+        1091926325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11965374
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"f584facbea43998ce11706937a7b4f1c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091926325,
+            "locality_id":9895072678,
+            "region_id":85680989
+        }
+    ],
+    "wof:id":9895072678,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Hawb al Maqr\u016b\u1e11",
+    "wof:parent_id":1091926325,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.11219,
+    13.27448,
+    44.11219,
+    13.27448
+],
+  "geometry": {"coordinates":[44.11219,13.27448],"type":"Point"}
+}

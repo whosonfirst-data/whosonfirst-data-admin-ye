@@ -1,0 +1,74 @@
+{
+  "id": 9895079861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.7606,14.80354,43.7606,14.80354",
+    "geom:latitude":14.80354,
+    "geom:longitude":43.7606,
+    "iso:country":"YE",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12051703: name \"Man\u0101khah\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12051703"
+        },
+        {
+            "citation":"GeoNames populated place 12051703: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12051703"
+        },
+        {
+            "citation":"GeoNames populated place 12051703: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12051703"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091925307 (As Salafiyah), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632499,
+        85681033,
+        102191569,
+        1091925307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12051703
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"b3351c98db69e4ae3944684ec9d01343",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925307,
+            "locality_id":9895079861,
+            "region_id":85681033
+        }
+    ],
+    "wof:id":9895079861,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Man\u0101khah",
+    "wof:parent_id":1091925307,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.7606,
+    14.80354,
+    43.7606,
+    14.80354
+],
+  "geometry": {"coordinates":[43.7606,14.80354],"type":"Point"}
+}

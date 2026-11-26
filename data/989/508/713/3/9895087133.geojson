@@ -1,0 +1,74 @@
+{
+  "id": 9895087133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.38987,16.80152,43.38987,16.80152",
+    "geom:latitude":16.80152,
+    "geom:longitude":43.38987,
+    "iso:country":"YE",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13410873: name \"Al Balaq\u012b\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13410873"
+        },
+        {
+            "citation":"GeoNames populated place 13410873: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13410873"
+        },
+        {
+            "citation":"GeoNames populated place 13410873: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13410873"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091925425 (Haydan), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632499,
+        85680955,
+        102191569,
+        1091925425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13410873
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"8c66aeff9dcf8e96a83d0f19a44ed3b6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925425,
+            "locality_id":9895087133,
+            "region_id":85680955
+        }
+    ],
+    "wof:id":9895087133,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Al Balaq\u012b",
+    "wof:parent_id":1091925425,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.38987,
+    16.80152,
+    43.38987,
+    16.80152
+],
+  "geometry": {"coordinates":[43.38987,16.80152],"type":"Point"}
+}

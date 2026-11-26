@@ -1,0 +1,74 @@
+{
+  "id": 9895081899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.18275,13.98462,44.18275,13.98462",
+    "geom:latitude":13.98462,
+    "geom:longitude":44.18275,
+    "iso:country":"YE",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12065404: name \"Adh Dhuh\u016bb\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12065404"
+        },
+        {
+            "citation":"GeoNames populated place 12065404: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12065404"
+        },
+        {
+            "citation":"GeoNames populated place 12065404: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12065404"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091924353 (Al Dhihar), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632499,
+        85680979,
+        102191569,
+        1091924353
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12065404
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"55feba4a99fff102104c51badcc5ecdf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924353,
+            "locality_id":9895081899,
+            "region_id":85680979
+        }
+    ],
+    "wof:id":9895081899,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Adh Dhuh\u016bb",
+    "wof:parent_id":1091924353,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.18275,
+    13.98462,
+    44.18275,
+    13.98462
+],
+  "geometry": {"coordinates":[44.18275,13.98462],"type":"Point"}
+}

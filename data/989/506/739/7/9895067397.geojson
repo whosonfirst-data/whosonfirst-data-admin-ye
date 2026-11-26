@@ -1,0 +1,74 @@
+{
+  "id": 9895067397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.108,14.11572,44.108,14.11572",
+    "geom:latitude":14.11572,
+    "geom:longitude":44.108,
+    "iso:country":"YE",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11914396: name \"Karsh\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11914396"
+        },
+        {
+            "citation":"GeoNames populated place 11914396: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11914396"
+        },
+        {
+            "citation":"GeoNames populated place 11914396: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11914396"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091924597 (Hubaysh), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632499,
+        85680979,
+        102191569,
+        1091924597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11914396
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"93c8404e3c0895c792ca40d0f4d89ee8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924597,
+            "locality_id":9895067397,
+            "region_id":85680979
+        }
+    ],
+    "wof:id":9895067397,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Karsh",
+    "wof:parent_id":1091924597,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.108,
+    14.11572,
+    44.108,
+    14.11572
+],
+  "geometry": {"coordinates":[44.108,14.11572],"type":"Point"}
+}

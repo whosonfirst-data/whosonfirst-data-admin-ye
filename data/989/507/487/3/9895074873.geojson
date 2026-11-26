@@ -1,0 +1,74 @@
+{
+  "id": 9895074873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.58261,14.78684,43.58261,14.78684",
+    "geom:latitude":14.78684,
+    "geom:longitude":43.58261,
+    "iso:country":"YE",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12004966: name \"Maghribat S\u0101lim\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12004966"
+        },
+        {
+            "citation":"GeoNames populated place 12004966: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12004966"
+        },
+        {
+            "citation":"GeoNames populated place 12004966: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12004966"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091925309 (Bilad At Ta'am), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632499,
+        85681033,
+        102191569,
+        1091925309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12004966
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"32117f4120c0e6429bc3a62554bf9cd8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925309,
+            "locality_id":9895074873,
+            "region_id":85681033
+        }
+    ],
+    "wof:id":9895074873,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Maghribat S\u0101lim",
+    "wof:parent_id":1091925309,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.58261,
+    14.78684,
+    43.58261,
+    14.78684
+],
+  "geometry": {"coordinates":[43.58261,14.78684],"type":"Point"}
+}

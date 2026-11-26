@@ -1,0 +1,74 @@
+{
+  "id": 9895065245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.54282,14.00797,43.54282,14.00797",
+    "geom:latitude":14.00797,
+    "geom:longitude":43.54282,
+    "iso:country":"YE",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11897068: name \"Al Muqay\u0163ir\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11897068"
+        },
+        {
+            "citation":"GeoNames populated place 11897068: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11897068"
+        },
+        {
+            "citation":"GeoNames populated place 11897068: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11897068"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091920423 (Hays), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632499,
+        85680959,
+        102191569,
+        1091920423
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11897068
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"3a80c0dc5405f3a7bbdb0b0014cb5c18",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091920423,
+            "locality_id":9895065245,
+            "region_id":85680959
+        }
+    ],
+    "wof:id":9895065245,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Al Muqay\u0163ir",
+    "wof:parent_id":1091920423,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.54282,
+    14.00797,
+    43.54282,
+    14.00797
+],
+  "geometry": {"coordinates":[43.54282,14.00797],"type":"Point"}
+}

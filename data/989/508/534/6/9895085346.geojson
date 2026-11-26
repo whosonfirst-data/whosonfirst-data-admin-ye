@@ -1,0 +1,74 @@
+{
+  "id": 9895085346,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.1636,14.77879,44.1636,14.77879",
+    "geom:latitude":14.77879,
+    "geom:longitude":44.1636,
+    "iso:country":"YE",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12100119: name \"Bayt \u1e28usayn Mu\u1e29ammad\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12100119"
+        },
+        {
+            "citation":"GeoNames populated place 12100119: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12100119"
+        },
+        {
+            "citation":"GeoNames populated place 12100119: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12100119"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091922277 (Dawran Aness), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632499,
+        85680969,
+        102191569,
+        1091922277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12100119
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"48498eae50de4cf9b4baca33c869fe99",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091922277,
+            "locality_id":9895085346,
+            "region_id":85680969
+        }
+    ],
+    "wof:id":9895085346,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Bayt \u1e28usayn Mu\u1e29ammad",
+    "wof:parent_id":1091922277,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.1636,
+    14.77879,
+    44.1636,
+    14.77879
+],
+  "geometry": {"coordinates":[44.1636,14.77879],"type":"Point"}
+}

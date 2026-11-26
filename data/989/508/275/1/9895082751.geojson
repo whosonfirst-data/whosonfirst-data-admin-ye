@@ -1,0 +1,74 @@
+{
+  "id": 9895082751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.44464,13.9965,44.44464,13.9965",
+    "geom:latitude":13.9965,
+    "geom:longitude":44.44464,
+    "iso:country":"YE",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12072220: name \"D\u0101r al \u1e28\u0101lim\u012b\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12072220"
+        },
+        {
+            "citation":"GeoNames populated place 12072220: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12072220"
+        },
+        {
+            "citation":"GeoNames populated place 12072220: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12072220"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091924467 (An Nadirah), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632499,
+        85680979,
+        102191569,
+        1091924467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12072220
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"e36c63ca71c6ae27881436c4972120a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924467,
+            "locality_id":9895082751,
+            "region_id":85680979
+        }
+    ],
+    "wof:id":9895082751,
+    "wof:lastmodified":1795734963,
+    "wof:name":"D\u0101r al \u1e28\u0101lim\u012b",
+    "wof:parent_id":1091924467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.44464,
+    13.9965,
+    44.44464,
+    13.9965
+],
+  "geometry": {"coordinates":[44.44464,13.9965],"type":"Point"}
+}

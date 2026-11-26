@@ -1,0 +1,74 @@
+{
+  "id": 9895086476,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.62455,14.61762,43.62455,14.61762",
+    "geom:latitude":14.61762,
+    "geom:longitude":43.62455,
+    "iso:country":"YE",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12118881: name \"At Tabr\u012bt\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12118881"
+        },
+        {
+            "citation":"GeoNames populated place 12118881: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12118881"
+        },
+        {
+            "citation":"GeoNames populated place 12118881: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12118881"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091925331 (Kusmah), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632499,
+        85681033,
+        102191569,
+        1091925331
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12118881
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"3f52f6b4e949682b90155e6d165acc61",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925331,
+            "locality_id":9895086476,
+            "region_id":85681033
+        }
+    ],
+    "wof:id":9895086476,
+    "wof:lastmodified":1795734963,
+    "wof:name":"At Tabr\u012bt",
+    "wof:parent_id":1091925331,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.62455,
+    14.61762,
+    43.62455,
+    14.61762
+],
+  "geometry": {"coordinates":[43.62455,14.61762],"type":"Point"}
+}

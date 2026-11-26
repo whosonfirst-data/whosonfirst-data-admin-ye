@@ -1,0 +1,74 @@
+{
+  "id": 9895066780,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.07306,14.19944,44.07306,14.19944",
+    "geom:latitude":14.19944,
+    "geom:longitude":44.07306,
+    "iso:country":"YE",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11911607: name \"Al Khar\u016bjah\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11911607"
+        },
+        {
+            "citation":"GeoNames populated place 11911607: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11911607"
+        },
+        {
+            "citation":"GeoNames populated place 11911607: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11911607"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091924597 (Hubaysh), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632499,
+        85680979,
+        102191569,
+        1091924597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11911607
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"96ad21428e199bb1fce2018539e32c89",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924597,
+            "locality_id":9895066780,
+            "region_id":85680979
+        }
+    ],
+    "wof:id":9895066780,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Al Khar\u016bjah",
+    "wof:parent_id":1091924597,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.07306,
+    14.19944,
+    44.07306,
+    14.19944
+],
+  "geometry": {"coordinates":[44.07306,14.19944],"type":"Point"}
+}

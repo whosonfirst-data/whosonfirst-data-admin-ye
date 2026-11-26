@@ -1,0 +1,74 @@
+{
+  "id": 9895087580,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.28417,14.07591,44.28417,14.07591",
+    "geom:latitude":14.07591,
+    "geom:longitude":44.28417,
+    "iso:country":"YE",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13442475: name \"D\u016br\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13442475"
+        },
+        {
+            "citation":"GeoNames populated place 13442475: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13442475"
+        },
+        {
+            "citation":"GeoNames populated place 13442475: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13442475"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091924511 (Ash Sha'ir), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632499,
+        85680979,
+        102191569,
+        1091924511
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13442475
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"f1a7b576a5b41886c6579e84c6d34cce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924511,
+            "locality_id":9895087580,
+            "region_id":85680979
+        }
+    ],
+    "wof:id":9895087580,
+    "wof:lastmodified":1795734963,
+    "wof:name":"D\u016br",
+    "wof:parent_id":1091924511,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.28417,
+    14.07591,
+    44.28417,
+    14.07591
+],
+  "geometry": {"coordinates":[44.28417,14.07591],"type":"Point"}
+}

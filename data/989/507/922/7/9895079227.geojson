@@ -1,0 +1,74 @@
+{
+  "id": 9895079227,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.78405,15.83142,43.78405,15.83142",
+    "geom:latitude":15.83142,
+    "geom:longitude":43.78405,
+    "iso:country":"YE",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12050365: name \"Az\u0327 Z\u0327\u0101hirah\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12050365"
+        },
+        {
+            "citation":"GeoNames populated place 12050365: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12050365"
+        },
+        {
+            "citation":"GeoNames populated place 12050365: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12050365"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091921745 (As Sawd), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632499,
+        85680977,
+        102191569,
+        1091921745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12050365
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"9d54b7bc21c32a85ca1d00cd54386d71",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091921745,
+            "locality_id":9895079227,
+            "region_id":85680977
+        }
+    ],
+    "wof:id":9895079227,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Az\u0327 Z\u0327\u0101hirah",
+    "wof:parent_id":1091921745,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.78405,
+    15.83142,
+    43.78405,
+    15.83142
+],
+  "geometry": {"coordinates":[43.78405,15.83142],"type":"Point"}
+}

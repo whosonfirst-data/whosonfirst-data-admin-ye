@@ -1,0 +1,74 @@
+{
+  "id": 9895074441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.04089,15.12534,44.04089,15.12534",
+    "geom:latitude":15.12534,
+    "geom:longitude":44.04089,
+    "iso:country":"YE",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11971296: name \"Al Maq\u1e11a\u1e11\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11971296"
+        },
+        {
+            "citation":"GeoNames populated place 11971296: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11971296"
+        },
+        {
+            "citation":"GeoNames populated place 11971296: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11971296"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091925787 (Bani Matar), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632499,
+        85681021,
+        102191569,
+        1091925787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11971296
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"7f899b1cf446ddd94056c84eb4df5e8f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925787,
+            "locality_id":9895074441,
+            "region_id":85681021
+        }
+    ],
+    "wof:id":9895074441,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Al Maq\u1e11a\u1e11",
+    "wof:parent_id":1091925787,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.04089,
+    15.12534,
+    44.04089,
+    15.12534
+],
+  "geometry": {"coordinates":[44.04089,15.12534],"type":"Point"}
+}

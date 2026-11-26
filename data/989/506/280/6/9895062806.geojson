@@ -1,0 +1,74 @@
+{
+  "id": 9895062806,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.81152,14.3908,43.81152,14.3908",
+    "geom:latitude":14.3908,
+    "geom:longitude":43.81152,
+    "iso:country":"YE",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11882490: name \"Dawhab\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11882490"
+        },
+        {
+            "citation":"GeoNames populated place 11882490: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11882490"
+        },
+        {
+            "citation":"GeoNames populated place 11882490: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11882490"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091922499 (Wusab Al Ali), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632499,
+        85680969,
+        102191569,
+        1091922499
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11882490
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"4e574394e3f1bc5a2d996fa307aaecf6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091922499,
+            "locality_id":9895062806,
+            "region_id":85680969
+        }
+    ],
+    "wof:id":9895062806,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Dawhab",
+    "wof:parent_id":1091922499,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.81152,
+    14.3908,
+    43.81152,
+    14.3908
+],
+  "geometry": {"coordinates":[43.81152,14.3908],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 9895087141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.3462,16.90747,43.3462,16.90747",
+    "geom:latitude":16.90747,
+    "geom:longitude":43.3462,
+    "iso:country":"YE",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13411004: name \"Buhaymah\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13411004"
+        },
+        {
+            "citation":"GeoNames populated place 13411004: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13411004"
+        },
+        {
+            "citation":"GeoNames populated place 13411004: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13411004"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091925419 (Ghamr), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632499,
+        85680955,
+        102191569,
+        1091925419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13411004
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"1011ab8c0786e574b0b89868c29d976b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925419,
+            "locality_id":9895087141,
+            "region_id":85680955
+        }
+    ],
+    "wof:id":9895087141,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Buhaymah",
+    "wof:parent_id":1091925419,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.3462,
+    16.90747,
+    43.3462,
+    16.90747
+],
+  "geometry": {"coordinates":[43.3462,16.90747],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 9895074361,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.22602,15.02866,44.22602,15.02866",
+    "geom:latitude":15.02866,
+    "geom:longitude":44.22602,
+    "iso:country":"YE",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11971167: name \"Bayt al Qafr\u012b\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11971167"
+        },
+        {
+            "citation":"GeoNames populated place 11971167: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11971167"
+        },
+        {
+            "citation":"GeoNames populated place 11971167: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11971167"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091925795 (Bilad Ar Rus), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632499,
+        85681021,
+        102191569,
+        1091925795
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11971167
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"61d495b05591c0050784f569c3a6e796",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925795,
+            "locality_id":9895074361,
+            "region_id":85681021
+        }
+    ],
+    "wof:id":9895074361,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Bayt al Qafr\u012b",
+    "wof:parent_id":1091925795,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.22602,
+    15.02866,
+    44.22602,
+    15.02866
+],
+  "geometry": {"coordinates":[44.22602,15.02866],"type":"Point"}
+}

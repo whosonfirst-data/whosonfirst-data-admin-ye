@@ -1,0 +1,74 @@
+{
+  "id": 9895074327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.45156,14.54437,44.45156,14.54437",
+    "geom:latitude":14.54437,
+    "geom:longitude":44.45156,
+    "iso:country":"YE",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11970549: name \"Hudad\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11970549"
+        },
+        {
+            "citation":"GeoNames populated place 11970549: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11970549"
+        },
+        {
+            "citation":"GeoNames populated place 11970549: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11970549"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091922249 (Anss), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632499,
+        85680969,
+        102191569,
+        1091922249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11970549
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"187db4b06c8f7cae3578f6589532088b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091922249,
+            "locality_id":9895074327,
+            "region_id":85680969
+        }
+    ],
+    "wof:id":9895074327,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Hudad",
+    "wof:parent_id":1091922249,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.45156,
+    14.54437,
+    44.45156,
+    14.54437
+],
+  "geometry": {"coordinates":[44.45156,14.54437],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 9895061520,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.54035,14.00204,44.54035,14.00204",
+    "geom:latitude":14.00204,
+    "geom:longitude":44.54035,
+    "iso:country":"YE",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11879553: name \"Dhal\u012bs\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11879553"
+        },
+        {
+            "citation":"GeoNames populated place 11879553: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11879553"
+        },
+        {
+            "citation":"GeoNames populated place 11879553: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11879553"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091924467 (An Nadirah), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632499,
+        85680979,
+        102191569,
+        1091924467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11879553
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"05c989f3b745230cd41466814c8f17ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924467,
+            "locality_id":9895061520,
+            "region_id":85680979
+        }
+    ],
+    "wof:id":9895061520,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Dhal\u012bs",
+    "wof:parent_id":1091924467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.54035,
+    14.00204,
+    44.54035,
+    14.00204
+],
+  "geometry": {"coordinates":[44.54035,14.00204],"type":"Point"}
+}

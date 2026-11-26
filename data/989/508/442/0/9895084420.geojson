@@ -1,0 +1,74 @@
+{
+  "id": 9895084420,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.0392,13.12573,44.0392,13.12573",
+    "geom:latitude":13.12573,
+    "geom:longitude":44.0392,
+    "iso:country":"YE",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12098798: name \"Al Mirq\u0101\u015f\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12098798"
+        },
+        {
+            "citation":"GeoNames populated place 12098798: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12098798"
+        },
+        {
+            "citation":"GeoNames populated place 12098798: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12098798"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091926463 (Ash Shamayatayn), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632499,
+        85680989,
+        102191569,
+        1091926463
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12098798
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"3c16819421fe34d2d166bdde00d26c1f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091926463,
+            "locality_id":9895084420,
+            "region_id":85680989
+        }
+    ],
+    "wof:id":9895084420,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Al Mirq\u0101\u015f",
+    "wof:parent_id":1091926463,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.0392,
+    13.12573,
+    44.0392,
+    13.12573
+],
+  "geometry": {"coordinates":[44.0392,13.12573],"type":"Point"}
+}

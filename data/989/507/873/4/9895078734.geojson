@@ -1,0 +1,74 @@
+{
+  "id": 9895078734,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.56127,15.69456,43.56127,15.69456",
+    "geom:latitude":15.69456,
+    "geom:longitude":43.56127,
+    "iso:country":"YE",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12049607: name \"Ash Shanz\u0327af\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12049607"
+        },
+        {
+            "citation":"GeoNames populated place 12049607: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12049607"
+        },
+        {
+            "citation":"GeoNames populated place 12049607: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12049607"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091923885 (Hajjah City), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632499,
+        85680973,
+        102191569,
+        1091923885
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12049607
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"fa6e7f26003455401a362cdf11611072",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091923885,
+            "locality_id":9895078734,
+            "region_id":85680973
+        }
+    ],
+    "wof:id":9895078734,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Ash Shanz\u0327af",
+    "wof:parent_id":1091923885,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.56127,
+    15.69456,
+    43.56127,
+    15.69456
+],
+  "geometry": {"coordinates":[43.56127,15.69456],"type":"Point"}
+}

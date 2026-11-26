@@ -1,0 +1,74 @@
+{
+  "id": 9895074518,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.42006,15.38165,44.42006,15.38165",
+    "geom:latitude":15.38165,
+    "geom:longitude":44.42006,
+    "iso:country":"YE",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11971403: name \"Mashankh\u016bl\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11971403"
+        },
+        {
+            "citation":"GeoNames populated place 11971403: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11971403"
+        },
+        {
+            "citation":"GeoNames populated place 11971403: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11971403"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091925719 (Attyal), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632499,
+        85681021,
+        102191569,
+        1091925719
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11971403
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"09980237455b5d6623fdf5845da05020",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925719,
+            "locality_id":9895074518,
+            "region_id":85681021
+        }
+    ],
+    "wof:id":9895074518,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Mashankh\u016bl",
+    "wof:parent_id":1091925719,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.42006,
+    15.38165,
+    44.42006,
+    15.38165
+],
+  "geometry": {"coordinates":[44.42006,15.38165],"type":"Point"}
+}

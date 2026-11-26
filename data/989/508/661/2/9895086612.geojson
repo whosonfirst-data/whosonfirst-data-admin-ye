@@ -1,0 +1,74 @@
+{
+  "id": 9895086612,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.02471,15.43541,44.02471,15.43541",
+    "geom:latitude":15.43541,
+    "geom:longitude":44.02471,
+    "iso:country":"YE",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12120363: name \"Al Jan\u0101\u1e29\u012b\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12120363"
+        },
+        {
+            "citation":"GeoNames populated place 12120363: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12120363"
+        },
+        {
+            "citation":"GeoNames populated place 12120363: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12120363"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091925797 (Hamdan), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632499,
+        85681021,
+        102191569,
+        1091925797
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12120363
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"5a146f0c7d62d97dd288bb9ec161c626",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925797,
+            "locality_id":9895086612,
+            "region_id":85681021
+        }
+    ],
+    "wof:id":9895086612,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Al Jan\u0101\u1e29\u012b",
+    "wof:parent_id":1091925797,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.02471,
+    15.43541,
+    44.02471,
+    15.43541
+],
+  "geometry": {"coordinates":[44.02471,15.43541],"type":"Point"}
+}

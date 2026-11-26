@@ -1,0 +1,74 @@
+{
+  "id": 9895074110,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.65093,15.11193,43.65093,15.11193",
+    "geom:latitude":15.11193,
+    "geom:longitude":43.65093,
+    "iso:country":"YE",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11968630: name \"Az\u0327 Z\u0327ahrah\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11968630"
+        },
+        {
+            "citation":"GeoNames populated place 11968630: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11968630"
+        },
+        {
+            "citation":"GeoNames populated place 11968630: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11968630"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091925811 (Manakhah), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632499,
+        85681021,
+        102191569,
+        1091925811
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11968630
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"ae8ed9185c37ca0ff8ea7f725bf10c7c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925811,
+            "locality_id":9895074110,
+            "region_id":85681021
+        }
+    ],
+    "wof:id":9895074110,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Az\u0327 Z\u0327ahrah",
+    "wof:parent_id":1091925811,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.65093,
+    15.11193,
+    43.65093,
+    15.11193
+],
+  "geometry": {"coordinates":[43.65093,15.11193],"type":"Point"}
+}

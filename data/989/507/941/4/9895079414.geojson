@@ -1,0 +1,74 @@
+{
+  "id": 9895079414,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.70108,15.99769,43.70108,15.99769",
+    "geom:latitude":15.99769,
+    "geom:longitude":43.70108,
+    "iso:country":"YE",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12050680: name \"B\u0101b al Maksab\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12050680"
+        },
+        {
+            "citation":"GeoNames populated place 12050680: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12050680"
+        },
+        {
+            "citation":"GeoNames populated place 12050680: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12050680"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091921861 (Habur Zulaymah), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632499,
+        85680977,
+        102191569,
+        1091921861
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12050680
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"1acb6b83d7a7318cc970c09b9b701562",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091921861,
+            "locality_id":9895079414,
+            "region_id":85680977
+        }
+    ],
+    "wof:id":9895079414,
+    "wof:lastmodified":1795734963,
+    "wof:name":"B\u0101b al Maksab",
+    "wof:parent_id":1091921861,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.70108,
+    15.99769,
+    43.70108,
+    15.99769
+],
+  "geometry": {"coordinates":[43.70108,15.99769],"type":"Point"}
+}

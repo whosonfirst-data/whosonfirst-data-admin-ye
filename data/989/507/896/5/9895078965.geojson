@@ -1,0 +1,74 @@
+{
+  "id": 9895078965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.59411,15.72235,43.59411,15.72235",
+    "geom:latitude":15.72235,
+    "geom:longitude":43.59411,
+    "iso:country":"YE",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12049956: name \"Ar Raydah\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12049956"
+        },
+        {
+            "citation":"GeoNames populated place 12049956: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12049956"
+        },
+        {
+            "citation":"GeoNames populated place 12049956: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12049956"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091924089 (Mabyan), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632499,
+        85680973,
+        102191569,
+        1091924089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12049956
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"236b54e3f8d3b683429193aec11fc762",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924089,
+            "locality_id":9895078965,
+            "region_id":85680973
+        }
+    ],
+    "wof:id":9895078965,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Ar Raydah",
+    "wof:parent_id":1091924089,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.59411,
+    15.72235,
+    43.59411,
+    15.72235
+],
+  "geometry": {"coordinates":[43.59411,15.72235],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 9895088369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.081,13.98496,44.081,13.98496",
+    "geom:latitude":13.98496,
+    "geom:longitude":44.081,
+    "iso:country":"YE",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13444153: name \"Dh\u012b Kurayb\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13444153"
+        },
+        {
+            "citation":"GeoNames populated place 13444153: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13444153"
+        },
+        {
+            "citation":"GeoNames populated place 13444153: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13444153"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091924621 (Ibb), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632499,
+        85680979,
+        102191569,
+        1091924621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13444153
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"6d5a02b0966e033d04b27cdcebe64796",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924621,
+            "locality_id":9895088369,
+            "region_id":85680979
+        }
+    ],
+    "wof:id":9895088369,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Dh\u012b Kurayb",
+    "wof:parent_id":1091924621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.081,
+    13.98496,
+    44.081,
+    13.98496
+],
+  "geometry": {"coordinates":[44.081,13.98496],"type":"Point"}
+}

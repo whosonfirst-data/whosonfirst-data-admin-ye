@@ -1,0 +1,74 @@
+{
+  "id": 9895075001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.66369,14.93899,43.66369,14.93899",
+    "geom:latitude":14.93899,
+    "geom:longitude":43.66369,
+    "iso:country":"YE",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12005157: name \"\u0162amm\u0101\u1e29\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12005157"
+        },
+        {
+            "citation":"GeoNames populated place 12005157: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12005157"
+        },
+        {
+            "citation":"GeoNames populated place 12005157: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12005157"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091925811 (Manakhah), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632499,
+        85681021,
+        102191569,
+        1091925811
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12005157
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"e747d1f7116bdec902bd6f4e5904b227",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925811,
+            "locality_id":9895075001,
+            "region_id":85681021
+        }
+    ],
+    "wof:id":9895075001,
+    "wof:lastmodified":1795734963,
+    "wof:name":"\u0162amm\u0101\u1e29",
+    "wof:parent_id":1091925811,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.66369,
+    14.93899,
+    43.66369,
+    14.93899
+],
+  "geometry": {"coordinates":[43.66369,14.93899],"type":"Point"}
+}

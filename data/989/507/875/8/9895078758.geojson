@@ -1,0 +1,74 @@
+{
+  "id": 9895078758,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.63311,15.77107,43.63311,15.77107",
+    "geom:latitude":15.77107,
+    "geom:longitude":43.63311,
+    "iso:country":"YE",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12049646: name \"Al Mujarrab al Aghbar\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12049646"
+        },
+        {
+            "citation":"GeoNames populated place 12049646: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12049646"
+        },
+        {
+            "citation":"GeoNames populated place 12049646: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12049646"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091924267 (Sharas), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632499,
+        85680973,
+        102191569,
+        1091924267
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12049646
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"8e1899901ba5f19363c8eb0350becfdc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924267,
+            "locality_id":9895078758,
+            "region_id":85680973
+        }
+    ],
+    "wof:id":9895078758,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Al Mujarrab al Aghbar",
+    "wof:parent_id":1091924267,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.63311,
+    15.77107,
+    43.63311,
+    15.77107
+],
+  "geometry": {"coordinates":[43.63311,15.77107],"type":"Point"}
+}

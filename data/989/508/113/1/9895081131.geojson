@@ -1,0 +1,74 @@
+{
+  "id": 9895081131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.69787,14.6478,43.69787,14.6478",
+    "geom:latitude":14.6478,
+    "geom:longitude":43.69787,
+    "iso:country":"YE",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12063789: name \"An Najd\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12063789"
+        },
+        {
+            "citation":"GeoNames populated place 12063789: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12063789"
+        },
+        {
+            "citation":"GeoNames populated place 12063789: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12063789"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091925345 (Mazhar), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632499,
+        85681033,
+        102191569,
+        1091925345
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12063789
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"4eb06120d07487f683773ae430ee3e13",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925345,
+            "locality_id":9895081131,
+            "region_id":85681033
+        }
+    ],
+    "wof:id":9895081131,
+    "wof:lastmodified":1795734963,
+    "wof:name":"An Najd",
+    "wof:parent_id":1091925345,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.69787,
+    14.6478,
+    43.69787,
+    14.6478
+],
+  "geometry": {"coordinates":[43.69787,14.6478],"type":"Point"}
+}

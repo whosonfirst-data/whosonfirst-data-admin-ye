@@ -1,0 +1,74 @@
+{
+  "id": 9895069583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.85636,13.67488,43.85636,13.67488",
+    "geom:latitude":13.67488,
+    "geom:longitude":43.85636,
+    "iso:country":"YE",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11948333: name \"Al Jabal\u012byah\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11948333"
+        },
+        {
+            "citation":"GeoNames populated place 11948333: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11948333"
+        },
+        {
+            "citation":"GeoNames populated place 11948333: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11948333"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091926479 (At Ta'iziyah), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632499,
+        85680989,
+        102191569,
+        1091926479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11948333
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"95325ff773a0481df0dfc1f2be4a64ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091926479,
+            "locality_id":9895069583,
+            "region_id":85680989
+        }
+    ],
+    "wof:id":9895069583,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Al Jabal\u012byah",
+    "wof:parent_id":1091926479,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.85636,
+    13.67488,
+    43.85636,
+    13.67488
+],
+  "geometry": {"coordinates":[43.85636,13.67488],"type":"Point"}
+}

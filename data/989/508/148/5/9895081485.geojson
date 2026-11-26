@@ -1,0 +1,74 @@
+{
+  "id": 9895081485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.6436,14.51219,43.6436,14.51219",
+    "geom:latitude":14.51219,
+    "geom:longitude":43.6436,
+    "iso:country":"YE",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12064264: name \"Al Mawz\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12064264"
+        },
+        {
+            "citation":"GeoNames populated place 12064264: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12064264"
+        },
+        {
+            "citation":"GeoNames populated place 12064264: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12064264"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091925331 (Kusmah), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632499,
+        85681033,
+        102191569,
+        1091925331
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12064264
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"827bd8e2ad5d54ac5c663bc96e1af266",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925331,
+            "locality_id":9895081485,
+            "region_id":85681033
+        }
+    ],
+    "wof:id":9895081485,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Al Mawz",
+    "wof:parent_id":1091925331,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.6436,
+    14.51219,
+    43.6436,
+    14.51219
+],
+  "geometry": {"coordinates":[43.6436,14.51219],"type":"Point"}
+}

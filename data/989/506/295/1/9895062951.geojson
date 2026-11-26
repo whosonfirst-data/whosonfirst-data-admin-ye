@@ -1,0 +1,74 @@
+{
+  "id": 9895062951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.98514,14.48183,43.98514,14.48183",
+    "geom:latitude":14.48183,
+    "geom:longitude":43.98514,
+    "iso:country":"YE",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11883622: name \"Sakhab\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11883622"
+        },
+        {
+            "citation":"GeoNames populated place 11883622: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11883622"
+        },
+        {
+            "citation":"GeoNames populated place 11883622: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11883622"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091922467 (Utmah), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632499,
+        85680969,
+        102191569,
+        1091922467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11883622
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"4f569c096d45c85262b935004899db73",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091922467,
+            "locality_id":9895062951,
+            "region_id":85680969
+        }
+    ],
+    "wof:id":9895062951,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Sakhab",
+    "wof:parent_id":1091922467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.98514,
+    14.48183,
+    43.98514,
+    14.48183
+],
+  "geometry": {"coordinates":[43.98514,14.48183],"type":"Point"}
+}

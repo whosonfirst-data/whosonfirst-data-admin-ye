@@ -1,0 +1,74 @@
+{
+  "id": 9895071435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.15237,13.45918,44.15237,13.45918",
+    "geom:latitude":13.45918,
+    "geom:longitude":44.15237,
+    "iso:country":"YE",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11956611: name \"Al \u1e28a\u1e11\u012b\u1e11\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11956611"
+        },
+        {
+            "citation":"GeoNames populated place 11956611: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11956611"
+        },
+        {
+            "citation":"GeoNames populated place 11956611: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11956611"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091926525 (Dimnat Khadir), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632499,
+        85680989,
+        102191569,
+        1091926525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11956611
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"fa415505b4831f7d44d62075db2a5c22",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091926525,
+            "locality_id":9895071435,
+            "region_id":85680989
+        }
+    ],
+    "wof:id":9895071435,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Al \u1e28a\u1e11\u012b\u1e11",
+    "wof:parent_id":1091926525,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.15237,
+    13.45918,
+    44.15237,
+    13.45918
+],
+  "geometry": {"coordinates":[44.15237,13.45918],"type":"Point"}
+}

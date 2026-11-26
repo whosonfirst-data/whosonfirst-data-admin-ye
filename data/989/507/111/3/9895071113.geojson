@@ -1,0 +1,74 @@
+{
+  "id": 9895071113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.07438,13.40924,44.07438,13.40924",
+    "geom:latitude":13.40924,
+    "geom:longitude":44.07438,
+    "iso:country":"YE",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11955559: name \"Al Muhayrah\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11955559"
+        },
+        {
+            "citation":"GeoNames populated place 11955559: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11955559"
+        },
+        {
+            "citation":"GeoNames populated place 11955559: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11955559"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091926655 (Sama), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632499,
+        85680989,
+        102191569,
+        1091926655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11955559
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"0bcc206524cf5d8c5377817c5cce730d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091926655,
+            "locality_id":9895071113,
+            "region_id":85680989
+        }
+    ],
+    "wof:id":9895071113,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Al Muhayrah",
+    "wof:parent_id":1091926655,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.07438,
+    13.40924,
+    44.07438,
+    13.40924
+],
+  "geometry": {"coordinates":[44.07438,13.40924],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 9895061211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.987,14.897,44.987,14.897",
+    "geom:latitude":14.897,
+    "geom:longitude":44.987,
+    "iso:country":"YE",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11873007: name \"Al Kawlah\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11873007"
+        },
+        {
+            "citation":"GeoNames populated place 11873007: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11873007"
+        },
+        {
+            "citation":"GeoNames populated place 11873007: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11873007"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091925277 (Rahabah), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632499,
+        85681015,
+        102191569,
+        1091925277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11873007
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"f595ca3bdc90606438c9d6215329bf39",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925277,
+            "locality_id":9895061211,
+            "region_id":85681015
+        }
+    ],
+    "wof:id":9895061211,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Al Kawlah",
+    "wof:parent_id":1091925277,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.987,
+    14.897,
+    44.987,
+    14.897
+],
+  "geometry": {"coordinates":[44.987,14.897],"type":"Point"}
+}

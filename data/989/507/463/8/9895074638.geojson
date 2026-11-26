@@ -1,0 +1,74 @@
+{
+  "id": 9895074638,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.51932,14.89791,43.51932,14.89791",
+    "geom:latitude":14.89791,
+    "geom:longitude":43.51932,
+    "iso:country":"YE",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12004648: name \"Bayt al Ma\u1e11\u1e29\u00e1\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12004648"
+        },
+        {
+            "citation":"GeoNames populated place 12004648: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12004648"
+        },
+        {
+            "citation":"GeoNames populated place 12004648: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12004648"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091920387 (Bura), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632499,
+        85680959,
+        102191569,
+        1091920387
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12004648
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"c7b57fe766d71b936b3c6ed23c5c18e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091920387,
+            "locality_id":9895074638,
+            "region_id":85680959
+        }
+    ],
+    "wof:id":9895074638,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Bayt al Ma\u1e11\u1e29\u00e1",
+    "wof:parent_id":1091920387,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.51932,
+    14.89791,
+    43.51932,
+    14.89791
+],
+  "geometry": {"coordinates":[43.51932,14.89791],"type":"Point"}
+}
