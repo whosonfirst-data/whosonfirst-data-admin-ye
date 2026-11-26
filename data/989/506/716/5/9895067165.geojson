@@ -1,0 +1,74 @@
+{
+  "id": 9895067165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.19857,14.03476,44.19857,14.03476",
+    "geom:latitude":14.03476,
+    "geom:longitude":44.19857,
+    "iso:country":"YE",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11912386: name \"Al Minjarah\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11912386"
+        },
+        {
+            "citation":"GeoNames populated place 11912386: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11912386"
+        },
+        {
+            "citation":"GeoNames populated place 11912386: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11912386"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091924621 (Ibb), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632499,
+        85680979,
+        102191569,
+        1091924621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11912386
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"5f3f784cda3ede746803950f5a80f5ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924621,
+            "locality_id":9895067165,
+            "region_id":85680979
+        }
+    ],
+    "wof:id":9895067165,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Al Minjarah",
+    "wof:parent_id":1091924621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.19857,
+    14.03476,
+    44.19857,
+    14.03476
+],
+  "geometry": {"coordinates":[44.19857,14.03476],"type":"Point"}
+}

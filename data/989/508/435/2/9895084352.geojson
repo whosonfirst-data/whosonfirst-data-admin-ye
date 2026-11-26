@@ -1,0 +1,74 @@
+{
+  "id": 9895084352,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.10692,13.17825,44.10692,13.17825",
+    "geom:latitude":13.17825,
+    "geom:longitude":44.10692,
+    "iso:country":"YE",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12098697: name \"Al Kadsh\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12098697"
+        },
+        {
+            "citation":"GeoNames populated place 12098697: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12098697"
+        },
+        {
+            "citation":"GeoNames populated place 12098697: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12098697"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091926463 (Ash Shamayatayn), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632499,
+        85680989,
+        102191569,
+        1091926463
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12098697
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"5db8e0de9d704208de4008ff4b704a81",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091926463,
+            "locality_id":9895084352,
+            "region_id":85680989
+        }
+    ],
+    "wof:id":9895084352,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Al Kadsh",
+    "wof:parent_id":1091926463,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.10692,
+    13.17825,
+    44.10692,
+    13.17825
+],
+  "geometry": {"coordinates":[44.10692,13.17825],"type":"Point"}
+}

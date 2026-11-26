@@ -1,0 +1,74 @@
+{
+  "id": 9895077900,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.49618,15.68284,43.49618,15.68284",
+    "geom:latitude":15.68284,
+    "geom:longitude":43.49618,
+    "iso:country":"YE",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12029348: name \"Z\u0327ahr at Turbah\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12029348"
+        },
+        {
+            "citation":"GeoNames populated place 12029348: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12029348"
+        },
+        {
+            "citation":"GeoNames populated place 12029348: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12029348"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091923859 (Hajjah), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632499,
+        85680973,
+        102191569,
+        1091923859
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12029348
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"29a7b8a79d28f64ede1e9c0417b01b75",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091923859,
+            "locality_id":9895077900,
+            "region_id":85680973
+        }
+    ],
+    "wof:id":9895077900,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Z\u0327ahr at Turbah",
+    "wof:parent_id":1091923859,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.49618,
+    15.68284,
+    43.49618,
+    15.68284
+],
+  "geometry": {"coordinates":[43.49618,15.68284],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 9895068951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.90982,13.82478,43.90982,13.82478",
+    "geom:latitude":13.82478,
+    "geom:longitude":43.90982,
+    "iso:country":"YE",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11918972: name \"Az Zan\u1e29\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11918972"
+        },
+        {
+            "citation":"GeoNames populated place 11918972: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11918972"
+        },
+        {
+            "citation":"GeoNames populated place 11918972: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11918972"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091926691 (Shara'b As Salam), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632499,
+        85680989,
+        102191569,
+        1091926691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11918972
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"6fc0f2928688a2a73bddfaa594cfc0a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091926691,
+            "locality_id":9895068951,
+            "region_id":85680989
+        }
+    ],
+    "wof:id":9895068951,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Az Zan\u1e29",
+    "wof:parent_id":1091926691,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.90982,
+    13.82478,
+    43.90982,
+    13.82478
+],
+  "geometry": {"coordinates":[43.90982,13.82478],"type":"Point"}
+}

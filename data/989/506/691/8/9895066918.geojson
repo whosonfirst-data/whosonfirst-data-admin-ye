@@ -1,0 +1,74 @@
+{
+  "id": 9895066918,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.18843,14.01972,44.18843,14.01972",
+    "geom:latitude":14.01972,
+    "geom:longitude":44.18843,
+    "iso:country":"YE",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11911994: name \"Khashwah\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11911994"
+        },
+        {
+            "citation":"GeoNames populated place 11911994: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11911994"
+        },
+        {
+            "citation":"GeoNames populated place 11911994: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11911994"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091924621 (Ibb), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632499,
+        85680979,
+        102191569,
+        1091924621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11911994
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"1ece0f63bffe2b0128914ada1d18889e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924621,
+            "locality_id":9895066918,
+            "region_id":85680979
+        }
+    ],
+    "wof:id":9895066918,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Khashwah",
+    "wof:parent_id":1091924621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.18843,
+    14.01972,
+    44.18843,
+    14.01972
+],
+  "geometry": {"coordinates":[44.18843,14.01972],"type":"Point"}
+}

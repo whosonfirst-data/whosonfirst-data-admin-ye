@@ -1,0 +1,74 @@
+{
+  "id": 9895085826,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.7995,15.14747,43.7995,15.14747",
+    "geom:latitude":15.14747,
+    "geom:longitude":43.7995,
+    "iso:country":"YE",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12102386: name \"Al Ghad\u016br\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12102386"
+        },
+        {
+            "citation":"GeoNames populated place 12102386: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12102386"
+        },
+        {
+            "citation":"GeoNames populated place 12102386: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12102386"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091925811 (Manakhah), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632499,
+        85681021,
+        102191569,
+        1091925811
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12102386
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"dde002f50486282db08fbf7f72a0d49b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925811,
+            "locality_id":9895085826,
+            "region_id":85681021
+        }
+    ],
+    "wof:id":9895085826,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Al Ghad\u016br",
+    "wof:parent_id":1091925811,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.7995,
+    15.14747,
+    43.7995,
+    15.14747
+],
+  "geometry": {"coordinates":[43.7995,15.14747],"type":"Point"}
+}

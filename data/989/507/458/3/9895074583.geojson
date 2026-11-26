@@ -1,0 +1,74 @@
+{
+  "id": 9895074583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.56959,14.98881,43.56959,14.98881",
+    "geom:latitude":14.98881,
+    "geom:longitude":43.56959,
+    "iso:country":"YE",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12004573: name \"Ma\u1e29all Ghad\u0101qah\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12004573"
+        },
+        {
+            "citation":"GeoNames populated place 12004573: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12004573"
+        },
+        {
+            "citation":"GeoNames populated place 12004573: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12004573"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091919927 (Al Hajjaylah), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632499,
+        85680959,
+        102191569,
+        1091919927
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12004573
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"32969470a9c8b8ceb6f2a7dabc8a9847",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091919927,
+            "locality_id":9895074583,
+            "region_id":85680959
+        }
+    ],
+    "wof:id":9895074583,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Ma\u1e29all Ghad\u0101qah",
+    "wof:parent_id":1091919927,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.56959,
+    14.98881,
+    43.56959,
+    14.98881
+],
+  "geometry": {"coordinates":[43.56959,14.98881],"type":"Point"}
+}

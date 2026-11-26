@@ -1,0 +1,74 @@
+{
+  "id": 9895078261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.80812,15.92327,43.80812,15.92327",
+    "geom:latitude":15.92327,
+    "geom:longitude":43.80812,
+    "iso:country":"YE",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12048817: name \"Naqam\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12048817"
+        },
+        {
+            "citation":"GeoNames populated place 12048817: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12048817"
+        },
+        {
+            "citation":"GeoNames populated place 12048817: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12048817"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091921779 (As Sudah), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632499,
+        85680977,
+        102191569,
+        1091921779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12048817
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"a784567fd87bcf2c61a5a470e177d1a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091921779,
+            "locality_id":9895078261,
+            "region_id":85680977
+        }
+    ],
+    "wof:id":9895078261,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Naqam",
+    "wof:parent_id":1091921779,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.80812,
+    15.92327,
+    43.80812,
+    15.92327
+],
+  "geometry": {"coordinates":[43.80812,15.92327],"type":"Point"}
+}

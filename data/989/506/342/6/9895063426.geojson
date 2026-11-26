@@ -1,0 +1,74 @@
+{
+  "id": 9895063426,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.91594,14.46002,43.91594,14.46002",
+    "geom:latitude":14.46002,
+    "geom:longitude":43.91594,
+    "iso:country":"YE",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11884307: name \"Nib\u0101\u1e29 al A\u1e29\u015f\u00e1 Shan\u0101mah\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11884307"
+        },
+        {
+            "citation":"GeoNames populated place 11884307: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11884307"
+        },
+        {
+            "citation":"GeoNames populated place 11884307: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11884307"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091922467 (Utmah), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632499,
+        85680969,
+        102191569,
+        1091922467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11884307
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"9ac28a6c67381b257734d874933886de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091922467,
+            "locality_id":9895063426,
+            "region_id":85680969
+        }
+    ],
+    "wof:id":9895063426,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Nib\u0101\u1e29 al A\u1e29\u015f\u00e1 Shan\u0101mah",
+    "wof:parent_id":1091922467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.91594,
+    14.46002,
+    43.91594,
+    14.46002
+],
+  "geometry": {"coordinates":[43.91594,14.46002],"type":"Point"}
+}

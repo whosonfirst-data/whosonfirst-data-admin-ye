@@ -1,0 +1,74 @@
+{
+  "id": 9895076812,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.38721,15.67808,43.38721,15.67808",
+    "geom:latitude":15.67808,
+    "geom:longitude":43.38721,
+    "iso:country":"YE",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12027754: name \"Al Malkadah\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12027754"
+        },
+        {
+            "citation":"GeoNames populated place 12027754: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12027754"
+        },
+        {
+            "citation":"GeoNames populated place 12027754: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12027754"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091923827 (Bani Qa'is), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632499,
+        85680973,
+        102191569,
+        1091923827
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12027754
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"ea0e18bcc9b69ecf2de3e10335523a43",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091923827,
+            "locality_id":9895076812,
+            "region_id":85680973
+        }
+    ],
+    "wof:id":9895076812,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Al Malkadah",
+    "wof:parent_id":1091923827,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.38721,
+    15.67808,
+    43.38721,
+    15.67808
+],
+  "geometry": {"coordinates":[43.38721,15.67808],"type":"Point"}
+}

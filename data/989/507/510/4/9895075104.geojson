@@ -1,0 +1,74 @@
+{
+  "id": 9895075104,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.08481,13.96832,44.08481,13.96832",
+    "geom:latitude":13.96832,
+    "geom:longitude":44.08481,
+    "iso:country":"YE",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12005871: name \"Shuhrah\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12005871"
+        },
+        {
+            "citation":"GeoNames populated place 12005871: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12005871"
+        },
+        {
+            "citation":"GeoNames populated place 12005871: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12005871"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091924621 (Ibb), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632499,
+        85680979,
+        102191569,
+        1091924621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12005871
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"39b0f947fa55d2f361ac2bff8d8e6799",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924621,
+            "locality_id":9895075104,
+            "region_id":85680979
+        }
+    ],
+    "wof:id":9895075104,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Shuhrah",
+    "wof:parent_id":1091924621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.08481,
+    13.96832,
+    44.08481,
+    13.96832
+],
+  "geometry": {"coordinates":[44.08481,13.96832],"type":"Point"}
+}

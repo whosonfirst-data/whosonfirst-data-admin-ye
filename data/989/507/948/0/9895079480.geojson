@@ -1,0 +1,74 @@
+{
+  "id": 9895079480,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.94026,15.66604,43.94026,15.66604",
+    "geom:latitude":15.66604,
+    "geom:longitude":43.94026,
+    "iso:country":"YE",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12050793: name \"B\u012br al Q\u0101\u1e11\u012b\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12050793"
+        },
+        {
+            "citation":"GeoNames populated place 12050793: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12050793"
+        },
+        {
+            "citation":"GeoNames populated place 12050793: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12050793"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091921709 (Amran), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632499,
+        85680977,
+        102191569,
+        1091921709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12050793
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"49378bf65567c2dd784915d5e1fa2a78",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091921709,
+            "locality_id":9895079480,
+            "region_id":85680977
+        }
+    ],
+    "wof:id":9895079480,
+    "wof:lastmodified":1795734963,
+    "wof:name":"B\u012br al Q\u0101\u1e11\u012b",
+    "wof:parent_id":1091921709,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.94026,
+    15.66604,
+    43.94026,
+    15.66604
+],
+  "geometry": {"coordinates":[43.94026,15.66604],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 9895073135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.34464,13.4978,44.34464,13.4978",
+    "geom:latitude":13.4978,
+    "geom:longitude":44.34464,
+    "iso:country":"YE",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11966649: name \"Jurayjir\u0101n\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11966649"
+        },
+        {
+            "citation":"GeoNames populated place 11966649: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11966649"
+        },
+        {
+            "citation":"GeoNames populated place 11966649: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11966649"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091926607 (Mawiyah), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632499,
+        85680989,
+        102191569,
+        1091926607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11966649
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"61848e730296ca73783e0d967e3d337a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091926607,
+            "locality_id":9895073135,
+            "region_id":85680989
+        }
+    ],
+    "wof:id":9895073135,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Jurayjir\u0101n",
+    "wof:parent_id":1091926607,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.34464,
+    13.4978,
+    44.34464,
+    13.4978
+],
+  "geometry": {"coordinates":[44.34464,13.4978],"type":"Point"}
+}

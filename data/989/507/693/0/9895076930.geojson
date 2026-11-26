@@ -1,0 +1,74 @@
+{
+  "id": 9895076930,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.43612,15.95732,43.43612,15.95732",
+    "geom:latitude":15.95732,
+    "geom:longitude":43.43612,
+    "iso:country":"YE",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12027927: name \"Al Ma\u1e29\u0101jin ash Sham\u0101l\u012byah\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12027927"
+        },
+        {
+            "citation":"GeoNames populated place 12027927: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12027927"
+        },
+        {
+            "citation":"GeoNames populated place 12027927: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12027927"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091923675 (Al Mahabishah), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632499,
+        85680973,
+        102191569,
+        1091923675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12027927
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"1ef264ace06f308d454c0f5e7ea5072b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091923675,
+            "locality_id":9895076930,
+            "region_id":85680973
+        }
+    ],
+    "wof:id":9895076930,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Al Ma\u1e29\u0101jin ash Sham\u0101l\u012byah",
+    "wof:parent_id":1091923675,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.43612,
+    15.95732,
+    43.43612,
+    15.95732
+],
+  "geometry": {"coordinates":[43.43612,15.95732],"type":"Point"}
+}

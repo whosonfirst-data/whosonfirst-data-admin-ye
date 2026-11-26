@@ -1,0 +1,74 @@
+{
+  "id": 9895071278,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.13876,13.37842,44.13876,13.37842",
+    "geom:latitude":13.37842,
+    "geom:longitude":44.13876,
+    "iso:country":"YE",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11956359: name \"Al Ma\u1e29\u0101firah\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11956359"
+        },
+        {
+            "citation":"GeoNames populated place 11956359: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11956359"
+        },
+        {
+            "citation":"GeoNames populated place 11956359: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11956359"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091926655 (Sama), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632499,
+        85680989,
+        102191569,
+        1091926655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11956359
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"c9d50a588f8c5bd853a483f5cc601e62",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091926655,
+            "locality_id":9895071278,
+            "region_id":85680989
+        }
+    ],
+    "wof:id":9895071278,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Al Ma\u1e29\u0101firah",
+    "wof:parent_id":1091926655,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.13876,
+    13.37842,
+    44.13876,
+    13.37842
+],
+  "geometry": {"coordinates":[44.13876,13.37842],"type":"Point"}
+}

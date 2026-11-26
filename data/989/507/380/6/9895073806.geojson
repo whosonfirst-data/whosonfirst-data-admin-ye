@@ -1,0 +1,74 @@
+{
+  "id": 9895073806,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.63236,15.02999,43.63236,15.02999",
+    "geom:latitude":15.02999,
+    "geom:longitude":43.63236,
+    "iso:country":"YE",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11968155: name \"A\u015f \u015e\u0101fi\u1e29\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11968155"
+        },
+        {
+            "citation":"GeoNames populated place 11968155: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11968155"
+        },
+        {
+            "citation":"GeoNames populated place 11968155: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11968155"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091925849 (Sa'fan), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632499,
+        85681021,
+        102191569,
+        1091925849
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11968155
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"7494cbcb5c8a20f9117aabe7aa0ade6b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925849,
+            "locality_id":9895073806,
+            "region_id":85681021
+        }
+    ],
+    "wof:id":9895073806,
+    "wof:lastmodified":1795734963,
+    "wof:name":"A\u015f \u015e\u0101fi\u1e29",
+    "wof:parent_id":1091925849,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.63236,
+    15.02999,
+    43.63236,
+    15.02999
+],
+  "geometry": {"coordinates":[43.63236,15.02999],"type":"Point"}
+}

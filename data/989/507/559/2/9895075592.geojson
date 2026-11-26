@@ -1,0 +1,74 @@
+{
+  "id": 9895075592,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.02894,13.87617,44.02894,13.87617",
+    "geom:latitude":13.87617,
+    "geom:longitude":44.02894,
+    "iso:country":"YE",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12006637: name \"Bayt al Kar\u0101m\u012b\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12006637"
+        },
+        {
+            "citation":"GeoNames populated place 12006637: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12006637"
+        },
+        {
+            "citation":"GeoNames populated place 12006637: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12006637"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091924529 (Dhi As Sufal), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632499,
+        85680979,
+        102191569,
+        1091924529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12006637
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"700b08c75acabc7a91eb00b3f0447246",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924529,
+            "locality_id":9895075592,
+            "region_id":85680979
+        }
+    ],
+    "wof:id":9895075592,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Bayt al Kar\u0101m\u012b",
+    "wof:parent_id":1091924529,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.02894,
+    13.87617,
+    44.02894,
+    13.87617
+],
+  "geometry": {"coordinates":[44.02894,13.87617],"type":"Point"}
+}

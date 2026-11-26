@@ -1,0 +1,74 @@
+{
+  "id": 9895066158,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.30175,14.04779,44.30175,14.04779",
+    "geom:latitude":14.04779,
+    "geom:longitude":44.30175,
+    "iso:country":"YE",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11900197: name \"Dh\u012b W\u0101simah\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11900197"
+        },
+        {
+            "citation":"GeoNames populated place 11900197: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11900197"
+        },
+        {
+            "citation":"GeoNames populated place 11900197: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11900197"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091924513 (Ba'dan), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632499,
+        85680979,
+        102191569,
+        1091924513
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11900197
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"243869088b26349147d929e98d9f8287",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924513,
+            "locality_id":9895066158,
+            "region_id":85680979
+        }
+    ],
+    "wof:id":9895066158,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Dh\u012b W\u0101simah",
+    "wof:parent_id":1091924513,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.30175,
+    14.04779,
+    44.30175,
+    14.04779
+],
+  "geometry": {"coordinates":[44.30175,14.04779],"type":"Point"}
+}

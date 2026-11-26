@@ -1,0 +1,74 @@
+{
+  "id": 9895072262,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.32456,13.23274,43.32456,13.23274",
+    "geom:latitude":13.23274,
+    "geom:longitude":43.32456,
+    "iso:country":"YE",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11963919: name \"As Sab\u012bl\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11963919"
+        },
+        {
+            "citation":"GeoNames populated place 11963919: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11963919"
+        },
+        {
+            "citation":"GeoNames populated place 11963919: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11963919"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091926505 (Dhubab), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632499,
+        85680989,
+        102191569,
+        1091926505
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11963919
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"ae66cacc022cb029ed5db0bc8211aec9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091926505,
+            "locality_id":9895072262,
+            "region_id":85680989
+        }
+    ],
+    "wof:id":9895072262,
+    "wof:lastmodified":1795734963,
+    "wof:name":"As Sab\u012bl",
+    "wof:parent_id":1091926505,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.32456,
+    13.23274,
+    43.32456,
+    13.23274
+],
+  "geometry": {"coordinates":[43.32456,13.23274],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 9895085733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.783,15.24945,43.783,15.24945",
+    "geom:latitude":15.24945,
+    "geom:longitude":43.783,
+    "iso:country":"YE",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12102238: name \"Ash Shurf\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12102238"
+        },
+        {
+            "citation":"GeoNames populated place 12102238: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12102238"
+        },
+        {
+            "citation":"GeoNames populated place 12102238: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12102238"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091925615 (Al Haymah Ad Dakhiliyah), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632499,
+        85681021,
+        102191569,
+        1091925615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12102238
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"22e000df549ab8781c8a8e429cc5fc1c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925615,
+            "locality_id":9895085733,
+            "region_id":85681021
+        }
+    ],
+    "wof:id":9895085733,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Ash Shurf",
+    "wof:parent_id":1091925615,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.783,
+    15.24945,
+    43.783,
+    15.24945
+],
+  "geometry": {"coordinates":[43.783,15.24945],"type":"Point"}
+}

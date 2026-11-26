@@ -1,0 +1,74 @@
+{
+  "id": 9895074240,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.33256,14.74535,44.33256,14.74535",
+    "geom:latitude":14.74535,
+    "geom:longitude":44.33256,
+    "iso:country":"YE",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11970394: name \"Al Gh\u0101milah\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11970394"
+        },
+        {
+            "citation":"GeoNames populated place 11970394: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11970394"
+        },
+        {
+            "citation":"GeoNames populated place 11970394: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11970394"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091922371 (Jahran), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632499,
+        85680969,
+        102191569,
+        1091922371
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11970394
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"2c534d8ee14b019a1853f3ec1820cbcd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091922371,
+            "locality_id":9895074240,
+            "region_id":85680969
+        }
+    ],
+    "wof:id":9895074240,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Al Gh\u0101milah",
+    "wof:parent_id":1091922371,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.33256,
+    14.74535,
+    44.33256,
+    14.74535
+],
+  "geometry": {"coordinates":[44.33256,14.74535],"type":"Point"}
+}

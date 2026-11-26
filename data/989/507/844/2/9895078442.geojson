@@ -1,0 +1,74 @@
+{
+  "id": 9895078442,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.5592,15.62518,43.5592,15.62518",
+    "geom:latitude":15.62518,
+    "geom:longitude":43.5592,
+    "iso:country":"YE",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12049071: name \"Bayt a\u015f \u015eu\u1e29ayb\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12049071"
+        },
+        {
+            "citation":"GeoNames populated place 12049071: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12049071"
+        },
+        {
+            "citation":"GeoNames populated place 12049071: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12049071"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091924177 (Najrah), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632499,
+        85680973,
+        102191569,
+        1091924177
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12049071
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"d9f39d2eca48b9a57a9dbf28879aa4ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924177,
+            "locality_id":9895078442,
+            "region_id":85680973
+        }
+    ],
+    "wof:id":9895078442,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Bayt a\u015f \u015eu\u1e29ayb",
+    "wof:parent_id":1091924177,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.5592,
+    15.62518,
+    43.5592,
+    15.62518
+],
+  "geometry": {"coordinates":[43.5592,15.62518],"type":"Point"}
+}

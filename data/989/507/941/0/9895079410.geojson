@@ -1,0 +1,74 @@
+{
+  "id": 9895079410,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.6993,15.99187,43.6993,15.99187",
+    "geom:latitude":15.99187,
+    "geom:longitude":43.6993,
+    "iso:country":"YE",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12050674: name \"B\u0101b Milq\u0101\u0163ah\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12050674"
+        },
+        {
+            "citation":"GeoNames populated place 12050674: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12050674"
+        },
+        {
+            "citation":"GeoNames populated place 12050674: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12050674"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091921861 (Habur Zulaymah), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632499,
+        85680977,
+        102191569,
+        1091921861
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12050674
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"19f22e4e1aba5f16b88fee53676e8cae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091921861,
+            "locality_id":9895079410,
+            "region_id":85680977
+        }
+    ],
+    "wof:id":9895079410,
+    "wof:lastmodified":1795734963,
+    "wof:name":"B\u0101b Milq\u0101\u0163ah",
+    "wof:parent_id":1091921861,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.6993,
+    15.99187,
+    43.6993,
+    15.99187
+],
+  "geometry": {"coordinates":[43.6993,15.99187],"type":"Point"}
+}

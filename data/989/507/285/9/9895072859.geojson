@@ -1,0 +1,74 @@
+{
+  "id": 9895072859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.27381,13.32689,44.27381,13.32689",
+    "geom:latitude":13.32689,
+    "geom:longitude":44.27381,
+    "iso:country":"YE",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11966250: name \"Al Mi\u1e29jar\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11966250"
+        },
+        {
+            "citation":"GeoNames populated place 11966250: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11966250"
+        },
+        {
+            "citation":"GeoNames populated place 11966250: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11966250"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091926543 (Hayfan), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632499,
+        85680989,
+        102191569,
+        1091926543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11966250
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"034e49914d9a934a9e459b21fdb4ffe8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091926543,
+            "locality_id":9895072859,
+            "region_id":85680989
+        }
+    ],
+    "wof:id":9895072859,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Al Mi\u1e29jar",
+    "wof:parent_id":1091926543,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.27381,
+    13.32689,
+    44.27381,
+    13.32689
+],
+  "geometry": {"coordinates":[44.27381,13.32689],"type":"Point"}
+}

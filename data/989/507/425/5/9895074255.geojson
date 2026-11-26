@@ -1,0 +1,74 @@
+{
+  "id": 9895074255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.34377,14.71865,44.34377,14.71865",
+    "geom:latitude":14.71865,
+    "geom:longitude":44.34377,
+    "iso:country":"YE",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11970443: name \"Mu\u1e29ammad Q\u0101sim al Ashqar\u012b\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11970443"
+        },
+        {
+            "citation":"GeoNames populated place 11970443: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11970443"
+        },
+        {
+            "citation":"GeoNames populated place 11970443: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11970443"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091922371 (Jahran), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632499,
+        85680969,
+        102191569,
+        1091922371
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11970443
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"c9419b96707c6e87cc71889f0b5905c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091922371,
+            "locality_id":9895074255,
+            "region_id":85680969
+        }
+    ],
+    "wof:id":9895074255,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Mu\u1e29ammad Q\u0101sim al Ashqar\u012b",
+    "wof:parent_id":1091922371,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.34377,
+    14.71865,
+    44.34377,
+    14.71865
+],
+  "geometry": {"coordinates":[44.34377,14.71865],"type":"Point"}
+}

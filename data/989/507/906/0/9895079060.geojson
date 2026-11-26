@@ -1,0 +1,74 @@
+{
+  "id": 9895079060,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.56112,15.72076,43.56112,15.72076",
+    "geom:latitude":15.72076,
+    "geom:longitude":43.56112,
+    "iso:country":"YE",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12050115: name \"Al Khirj\u0101n\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12050115"
+        },
+        {
+            "citation":"GeoNames populated place 12050115: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12050115"
+        },
+        {
+            "citation":"GeoNames populated place 12050115: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12050115"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091924089 (Mabyan), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632499,
+        85680973,
+        102191569,
+        1091924089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12050115
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"13aa4f7d590083ebbe414f6537cd24e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924089,
+            "locality_id":9895079060,
+            "region_id":85680973
+        }
+    ],
+    "wof:id":9895079060,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Al Khirj\u0101n",
+    "wof:parent_id":1091924089,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.56112,
+    15.72076,
+    43.56112,
+    15.72076
+],
+  "geometry": {"coordinates":[43.56112,15.72076],"type":"Point"}
+}

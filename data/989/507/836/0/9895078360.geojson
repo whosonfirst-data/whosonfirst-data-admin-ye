@@ -1,0 +1,74 @@
+{
+  "id": 9895078360,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.79217,15.58655,43.79217,15.58655",
+    "geom:latitude":15.58655,
+    "geom:longitude":43.79217,
+    "iso:country":"YE",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12048959: name \"Bayt al Bakr\u012b\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12048959"
+        },
+        {
+            "citation":"GeoNames populated place 12048959: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12048959"
+        },
+        {
+            "citation":"GeoNames populated place 12048959: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12048959"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091922171 (Thula), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632499,
+        85680977,
+        102191569,
+        1091922171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12048959
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"532a0a26986ca2e755f9f49b99bd308c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091922171,
+            "locality_id":9895078360,
+            "region_id":85680977
+        }
+    ],
+    "wof:id":9895078360,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Bayt al Bakr\u012b",
+    "wof:parent_id":1091922171,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.79217,
+    15.58655,
+    43.79217,
+    15.58655
+],
+  "geometry": {"coordinates":[43.79217,15.58655],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 9895080031,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.9853,14.52205,43.9853,14.52205",
+    "geom:latitude":14.52205,
+    "geom:longitude":43.9853,
+    "iso:country":"YE",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12052044: name \"\u1e28i\u015fn Najmayn\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12052044"
+        },
+        {
+            "citation":"GeoNames populated place 12052044: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12052044"
+        },
+        {
+            "citation":"GeoNames populated place 12052044: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12052044"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091922467 (Utmah), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632499,
+        85680969,
+        102191569,
+        1091922467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12052044
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"b15861f3cc33d866fc75925902747861",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091922467,
+            "locality_id":9895080031,
+            "region_id":85680969
+        }
+    ],
+    "wof:id":9895080031,
+    "wof:lastmodified":1795734963,
+    "wof:name":"\u1e28i\u015fn Najmayn",
+    "wof:parent_id":1091922467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.9853,
+    14.52205,
+    43.9853,
+    14.52205
+],
+  "geometry": {"coordinates":[43.9853,14.52205],"type":"Point"}
+}

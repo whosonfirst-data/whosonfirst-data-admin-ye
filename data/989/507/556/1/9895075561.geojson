@@ -1,0 +1,74 @@
+{
+  "id": 9895075561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.03905,13.88496,44.03905,13.88496",
+    "geom:latitude":13.88496,
+    "geom:longitude":44.03905,
+    "iso:country":"YE",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12006592: name \"Al Qadmah\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12006592"
+        },
+        {
+            "citation":"GeoNames populated place 12006592: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12006592"
+        },
+        {
+            "citation":"GeoNames populated place 12006592: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12006592"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091924529 (Dhi As Sufal), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632499,
+        85680979,
+        102191569,
+        1091924529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12006592
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"0a9f62fb4e733e5dda67aaae73e5a671",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924529,
+            "locality_id":9895075561,
+            "region_id":85680979
+        }
+    ],
+    "wof:id":9895075561,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Al Qadmah",
+    "wof:parent_id":1091924529,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.03905,
+    13.88496,
+    44.03905,
+    13.88496
+],
+  "geometry": {"coordinates":[44.03905,13.88496],"type":"Point"}
+}

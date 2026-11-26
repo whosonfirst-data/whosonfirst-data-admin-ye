@@ -1,0 +1,74 @@
+{
+  "id": 9895079190,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.76616,15.8048,43.76616,15.8048",
+    "geom:latitude":15.8048,
+    "geom:longitude":43.76616,
+    "iso:country":"YE",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12050306: name \"Samrah\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12050306"
+        },
+        {
+            "citation":"GeoNames populated place 12050306: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12050306"
+        },
+        {
+            "citation":"GeoNames populated place 12050306: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12050306"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091921745 (As Sawd), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632499,
+        85680977,
+        102191569,
+        1091921745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12050306
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"00df9b4cf0cfe0194ec3bc07a169d2e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091921745,
+            "locality_id":9895079190,
+            "region_id":85680977
+        }
+    ],
+    "wof:id":9895079190,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Samrah",
+    "wof:parent_id":1091921745,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.76616,
+    15.8048,
+    43.76616,
+    15.8048
+],
+  "geometry": {"coordinates":[43.76616,15.8048],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 9895087505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.63927,14.22646,43.63927,14.22646",
+    "geom:latitude":14.22646,
+    "geom:longitude":43.63927,
+    "iso:country":"YE",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13442354: name \"Bayt \u015e\u0101li\u1e29\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13442354"
+        },
+        {
+            "citation":"GeoNames populated place 13442354: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13442354"
+        },
+        {
+            "citation":"GeoNames populated place 13442354: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13442354"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091922519 (Wusab As Safil), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632499,
+        85680969,
+        102191569,
+        1091922519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13442354
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"0a95e5567d0030ec93d785c666e9e8a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091922519,
+            "locality_id":9895087505,
+            "region_id":85680969
+        }
+    ],
+    "wof:id":9895087505,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Bayt \u015e\u0101li\u1e29",
+    "wof:parent_id":1091922519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.63927,
+    14.22646,
+    43.63927,
+    14.22646
+],
+  "geometry": {"coordinates":[43.63927,14.22646],"type":"Point"}
+}

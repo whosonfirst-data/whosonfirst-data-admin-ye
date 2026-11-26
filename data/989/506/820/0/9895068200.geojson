@@ -1,0 +1,74 @@
+{
+  "id": 9895068200,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.51172,13.97115,43.51172,13.97115",
+    "geom:latitude":13.97115,
+    "geom:longitude":43.51172,
+    "iso:country":"YE",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11917229: name \"Al \u1e28aq\u0101r\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11917229"
+        },
+        {
+            "citation":"GeoNames populated place 11917229: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11917229"
+        },
+        {
+            "citation":"GeoNames populated place 11917229: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11917229"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091920423 (Hays), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632499,
+        85680959,
+        102191569,
+        1091920423
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11917229
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"80f29744ea3cec18133c6bb29bb16b96",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091920423,
+            "locality_id":9895068200,
+            "region_id":85680959
+        }
+    ],
+    "wof:id":9895068200,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Al \u1e28aq\u0101r",
+    "wof:parent_id":1091920423,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.51172,
+    13.97115,
+    43.51172,
+    13.97115
+],
+  "geometry": {"coordinates":[43.51172,13.97115],"type":"Point"}
+}

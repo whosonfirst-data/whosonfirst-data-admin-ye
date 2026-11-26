@@ -1,0 +1,74 @@
+{
+  "id": 9895069927,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.98213,13.58095,43.98213,13.58095",
+    "geom:latitude":13.58095,
+    "geom:longitude":43.98213,
+    "iso:country":"YE",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11949195: name \"\u0162ar\u012bq a\u1e11 \u1e10ab\u0101b\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11949195"
+        },
+        {
+            "citation":"GeoNames populated place 11949195: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11949195"
+        },
+        {
+            "citation":"GeoNames populated place 11949195: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11949195"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091926357 (Al Mudhaffar), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632499,
+        85680989,
+        102191569,
+        1091926357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11949195
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"8293a24b5194418cdd81f550a22b9cdf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091926357,
+            "locality_id":9895069927,
+            "region_id":85680989
+        }
+    ],
+    "wof:id":9895069927,
+    "wof:lastmodified":1795734963,
+    "wof:name":"\u0162ar\u012bq a\u1e11 \u1e10ab\u0101b",
+    "wof:parent_id":1091926357,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.98213,
+    13.58095,
+    43.98213,
+    13.58095
+],
+  "geometry": {"coordinates":[43.98213,13.58095],"type":"Point"}
+}

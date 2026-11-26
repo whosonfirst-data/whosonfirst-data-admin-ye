@@ -1,0 +1,74 @@
+{
+  "id": 9895077423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.37857,15.91018,43.37857,15.91018",
+    "geom:latitude":15.91018,
+    "geom:longitude":43.37857,
+    "iso:country":"YE",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12028667: name \"Al Ma\u1e29m\u012b\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12028667"
+        },
+        {
+            "citation":"GeoNames populated place 12028667: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12028667"
+        },
+        {
+            "citation":"GeoNames populated place 12028667: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12028667"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091924209 (Qafl Shamer), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632499,
+        85680973,
+        102191569,
+        1091924209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12028667
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"9c72b697c84d0a6bc59590cb00ad4153",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924209,
+            "locality_id":9895077423,
+            "region_id":85680973
+        }
+    ],
+    "wof:id":9895077423,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Al Ma\u1e29m\u012b",
+    "wof:parent_id":1091924209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.37857,
+    15.91018,
+    43.37857,
+    15.91018
+],
+  "geometry": {"coordinates":[43.37857,15.91018],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 9895085208,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.19277,14.5562,44.19277,14.5562",
+    "geom:latitude":14.5562,
+    "geom:longitude":44.19277,
+    "iso:country":"YE",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12099904: name \"Al Jaws\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12099904"
+        },
+        {
+            "citation":"GeoNames populated place 12099904: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12099904"
+        },
+        {
+            "citation":"GeoNames populated place 12099904: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12099904"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091922249 (Anss), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632499,
+        85680969,
+        102191569,
+        1091922249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12099904
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"a4c56e918ea138386fd14bbfd204ff9d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091922249,
+            "locality_id":9895085208,
+            "region_id":85680969
+        }
+    ],
+    "wof:id":9895085208,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Al Jaws",
+    "wof:parent_id":1091922249,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.19277,
+    14.5562,
+    44.19277,
+    14.5562
+],
+  "geometry": {"coordinates":[44.19277,14.5562],"type":"Point"}
+}

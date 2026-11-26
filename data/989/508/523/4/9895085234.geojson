@@ -1,0 +1,74 @@
+{
+  "id": 9895085234,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.16531,14.58009,44.16531,14.58009",
+    "geom:latitude":14.58009,
+    "geom:longitude":44.16531,
+    "iso:country":"YE",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12099945: name \"Ash Shurf\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12099945"
+        },
+        {
+            "citation":"GeoNames populated place 12099945: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12099945"
+        },
+        {
+            "citation":"GeoNames populated place 12099945: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12099945"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091922249 (Anss), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632499,
+        85680969,
+        102191569,
+        1091922249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12099945
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"835b357fc22bf94dd42472bd8108dbb8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091922249,
+            "locality_id":9895085234,
+            "region_id":85680969
+        }
+    ],
+    "wof:id":9895085234,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Ash Shurf",
+    "wof:parent_id":1091922249,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.16531,
+    14.58009,
+    44.16531,
+    14.58009
+],
+  "geometry": {"coordinates":[44.16531,14.58009],"type":"Point"}
+}

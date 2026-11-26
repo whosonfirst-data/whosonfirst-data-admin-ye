@@ -1,0 +1,74 @@
+{
+  "id": 9895077648,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.41726,15.78285,43.41726,15.78285",
+    "geom:latitude":15.78285,
+    "geom:longitude":43.41726,
+    "iso:country":"YE",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12028991: name \"Ad D\u0101\u1e29ir\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12028991"
+        },
+        {
+            "citation":"GeoNames populated place 12028991: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12028991"
+        },
+        {
+            "citation":"GeoNames populated place 12028991: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12028991"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091923981 (Ku'aydinah), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632499,
+        85680973,
+        102191569,
+        1091923981
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12028991
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"9472c25d9f7e05adb46fb7a21c2c5675",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091923981,
+            "locality_id":9895077648,
+            "region_id":85680973
+        }
+    ],
+    "wof:id":9895077648,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Ad D\u0101\u1e29ir",
+    "wof:parent_id":1091923981,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.41726,
+    15.78285,
+    43.41726,
+    15.78285
+],
+  "geometry": {"coordinates":[43.41726,15.78285],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 9895071515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.13749,13.41833,44.13749,13.41833",
+    "geom:latitude":13.41833,
+    "geom:longitude":44.13749,
+    "iso:country":"YE",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11956734: name \"\u1e28aj\u016bnat Mishr\u0101\u1e29 F\u0101\u1e11il\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11956734"
+        },
+        {
+            "citation":"GeoNames populated place 11956734: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11956734"
+        },
+        {
+            "citation":"GeoNames populated place 11956734: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11956734"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091926525 (Dimnat Khadir), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632499,
+        85680989,
+        102191569,
+        1091926525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11956734
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"ecea3bb5b6314825a7b7ee6cbd5a2e08",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091926525,
+            "locality_id":9895071515,
+            "region_id":85680989
+        }
+    ],
+    "wof:id":9895071515,
+    "wof:lastmodified":1795734963,
+    "wof:name":"\u1e28aj\u016bnat Mishr\u0101\u1e29 F\u0101\u1e11il",
+    "wof:parent_id":1091926525,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.13749,
+    13.41833,
+    44.13749,
+    13.41833
+],
+  "geometry": {"coordinates":[44.13749,13.41833],"type":"Point"}
+}

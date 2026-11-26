@@ -1,0 +1,74 @@
+{
+  "id": 9895061808,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.53045,14.44339,43.53045,14.44339",
+    "geom:latitude":14.44339,
+    "geom:longitude":43.53045,
+    "iso:country":"YE",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11880124: name \"Ash Shajn\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11880124"
+        },
+        {
+            "citation":"GeoNames populated place 11880124: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11880124"
+        },
+        {
+            "citation":"GeoNames populated place 11880124: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11880124"
+        },
+        {
+            "citation":"The hierarchy of WOF county 421202517 (Bayt Al Faqiah), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632499,
+        85680959,
+        102191569,
+        421202517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11880124
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"95dbc9cc8e1e87815cefb53d9252afad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":421202517,
+            "locality_id":9895061808,
+            "region_id":85680959
+        }
+    ],
+    "wof:id":9895061808,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Ash Shajn",
+    "wof:parent_id":421202517,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.53045,
+    14.44339,
+    43.53045,
+    14.44339
+],
+  "geometry": {"coordinates":[43.53045,14.44339],"type":"Point"}
+}

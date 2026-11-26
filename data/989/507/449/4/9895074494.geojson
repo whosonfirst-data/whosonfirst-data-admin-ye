@@ -1,0 +1,74 @@
+{
+  "id": 9895074494,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.46927,15.38742,44.46927,15.38742",
+    "geom:latitude":15.38742,
+    "geom:longitude":44.46927,
+    "iso:country":"YE",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11971372: name \"An Najd\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11971372"
+        },
+        {
+            "citation":"GeoNames populated place 11971372: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11971372"
+        },
+        {
+            "citation":"GeoNames populated place 11971372: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11971372"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091925719 (Attyal), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632499,
+        85681021,
+        102191569,
+        1091925719
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11971372
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"fe15dc3c4e752e27e2e9c5a5a985b1f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925719,
+            "locality_id":9895074494,
+            "region_id":85681021
+        }
+    ],
+    "wof:id":9895074494,
+    "wof:lastmodified":1795734963,
+    "wof:name":"An Najd",
+    "wof:parent_id":1091925719,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.46927,
+    15.38742,
+    44.46927,
+    15.38742
+],
+  "geometry": {"coordinates":[44.46927,15.38742],"type":"Point"}
+}

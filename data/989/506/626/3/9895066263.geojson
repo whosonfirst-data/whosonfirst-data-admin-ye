@@ -1,0 +1,74 @@
+{
+  "id": 9895066263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.26979,14.19159,44.26979,14.19159",
+    "geom:latitude":14.19159,
+    "geom:longitude":44.26979,
+    "iso:country":"YE",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11900359: name \"Jurf az Zan\u1e29\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11900359"
+        },
+        {
+            "citation":"GeoNames populated place 11900359: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11900359"
+        },
+        {
+            "citation":"GeoNames populated place 11900359: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11900359"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091924693 (Yarim), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632499,
+        85680979,
+        102191569,
+        1091924693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11900359
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"b2b08e0e6c4172ba80c64691d5a735a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924693,
+            "locality_id":9895066263,
+            "region_id":85680979
+        }
+    ],
+    "wof:id":9895066263,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Jurf az Zan\u1e29",
+    "wof:parent_id":1091924693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.26979,
+    14.19159,
+    44.26979,
+    14.19159
+],
+  "geometry": {"coordinates":[44.26979,14.19159],"type":"Point"}
+}

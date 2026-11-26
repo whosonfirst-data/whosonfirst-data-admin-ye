@@ -1,0 +1,74 @@
+{
+  "id": 9895064267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.81002,14.16916,43.81002,14.16916",
+    "geom:latitude":14.16916,
+    "geom:longitude":43.81002,
+    "iso:country":"YE",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11894691: name \"Mikshar\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11894691"
+        },
+        {
+            "citation":"GeoNames populated place 11894691: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11894691"
+        },
+        {
+            "citation":"GeoNames populated place 11894691: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11894691"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091924405 (Al Qafr), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632499,
+        85680979,
+        102191569,
+        1091924405
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11894691
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"82d4368229970f6dc2ce6257b79a76e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924405,
+            "locality_id":9895064267,
+            "region_id":85680979
+        }
+    ],
+    "wof:id":9895064267,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Mikshar",
+    "wof:parent_id":1091924405,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.81002,
+    14.16916,
+    43.81002,
+    14.16916
+],
+  "geometry": {"coordinates":[43.81002,14.16916],"type":"Point"}
+}

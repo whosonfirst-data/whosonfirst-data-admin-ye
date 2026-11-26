@@ -1,0 +1,74 @@
+{
+  "id": 9895065920,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.18856,14.48545,44.18856,14.48545",
+    "geom:latitude":14.48545,
+    "geom:longitude":44.18856,
+    "iso:country":"YE",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11898614: name \"R\u0101\u1e29ah\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11898614"
+        },
+        {
+            "citation":"GeoNames populated place 11898614: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11898614"
+        },
+        {
+            "citation":"GeoNames populated place 11898614: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11898614"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091922403 (Maghirib Ans), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632499,
+        85680969,
+        102191569,
+        1091922403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11898614
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"98fdc604206c39ea2f56afdf4d81c755",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091922403,
+            "locality_id":9895065920,
+            "region_id":85680969
+        }
+    ],
+    "wof:id":9895065920,
+    "wof:lastmodified":1795734963,
+    "wof:name":"R\u0101\u1e29ah",
+    "wof:parent_id":1091922403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.18856,
+    14.48545,
+    44.18856,
+    14.48545
+],
+  "geometry": {"coordinates":[44.18856,14.48545],"type":"Point"}
+}

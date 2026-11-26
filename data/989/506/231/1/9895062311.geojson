@@ -1,0 +1,74 @@
+{
+  "id": 9895062311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.50541,14.32147,43.50541,14.32147",
+    "geom:latitude":14.32147,
+    "geom:longitude":43.50541,
+    "iso:country":"YE",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11880836: name \"Al Madraj\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11880836"
+        },
+        {
+            "citation":"GeoNames populated place 11880836: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11880836"
+        },
+        {
+            "citation":"GeoNames populated place 11880836: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11880836"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091922519 (Wusab As Safil), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632499,
+        85680969,
+        102191569,
+        1091922519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11880836
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"4ff2ff3820546a46bb30f1a744415763",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091922519,
+            "locality_id":9895062311,
+            "region_id":85680969
+        }
+    ],
+    "wof:id":9895062311,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Al Madraj",
+    "wof:parent_id":1091922519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.50541,
+    14.32147,
+    43.50541,
+    14.32147
+],
+  "geometry": {"coordinates":[43.50541,14.32147],"type":"Point"}
+}

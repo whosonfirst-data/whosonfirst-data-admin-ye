@@ -1,0 +1,74 @@
+{
+  "id": 9895073937,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.5571,15.08056,43.5571,15.08056",
+    "geom:latitude":15.08056,
+    "geom:longitude":43.5571,
+    "iso:country":"YE",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11968380: name \"Ar Rukbah\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11968380"
+        },
+        {
+            "citation":"GeoNames populated place 11968380: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11968380"
+        },
+        {
+            "citation":"GeoNames populated place 11968380: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11968380"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091925849 (Sa'fan), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632499,
+        85681021,
+        102191569,
+        1091925849
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11968380
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"7626d0eda596d6aa6aa7d81b4e9c186a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925849,
+            "locality_id":9895073937,
+            "region_id":85681021
+        }
+    ],
+    "wof:id":9895073937,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Ar Rukbah",
+    "wof:parent_id":1091925849,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.5571,
+    15.08056,
+    43.5571,
+    15.08056
+],
+  "geometry": {"coordinates":[43.5571,15.08056],"type":"Point"}
+}

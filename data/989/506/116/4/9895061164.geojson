@@ -1,0 +1,74 @@
+{
+  "id": 9895061164,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.78307,14.78823,44.78307,14.78823",
+    "geom:latitude":14.78823,
+    "geom:longitude":44.78307,
+    "iso:country":"YE",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11872935: name \"A\u015f \u015eab\u0101\u1e29\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11872935"
+        },
+        {
+            "citation":"GeoNames populated place 11872935: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11872935"
+        },
+        {
+            "citation":"GeoNames populated place 11872935: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11872935"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091922199 (Al Hada), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632499,
+        85680969,
+        102191569,
+        1091922199
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11872935
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"bd4a0cb0de00e4c816fb8e4cef318336",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091922199,
+            "locality_id":9895061164,
+            "region_id":85680969
+        }
+    ],
+    "wof:id":9895061164,
+    "wof:lastmodified":1795734963,
+    "wof:name":"A\u015f \u015eab\u0101\u1e29",
+    "wof:parent_id":1091922199,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.78307,
+    14.78823,
+    44.78307,
+    14.78823
+],
+  "geometry": {"coordinates":[44.78307,14.78823],"type":"Point"}
+}

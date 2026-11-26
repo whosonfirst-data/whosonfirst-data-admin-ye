@@ -1,0 +1,74 @@
+{
+  "id": 9895083892,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.7697,13.89469,44.7697,13.89469",
+    "geom:latitude":13.89469,
+    "geom:longitude":44.7697,
+    "iso:country":"YE",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12097971: name \"Ad Dar\u0101m\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12097971"
+        },
+        {
+            "citation":"GeoNames populated place 12097971: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12097971"
+        },
+        {
+            "citation":"GeoNames populated place 12097971: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12097971"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091919801 (Qa'atabah), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632499,
+        85681003,
+        102191569,
+        1091919801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12097971
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"434ae8aac4f414cea27d922cd32bad66",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091919801,
+            "locality_id":9895083892,
+            "region_id":85681003
+        }
+    ],
+    "wof:id":9895083892,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Ad Dar\u0101m",
+    "wof:parent_id":1091919801,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.7697,
+    13.89469,
+    44.7697,
+    13.89469
+],
+  "geometry": {"coordinates":[44.7697,13.89469],"type":"Point"}
+}

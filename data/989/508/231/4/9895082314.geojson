@@ -1,0 +1,74 @@
+{
+  "id": 9895082314,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.21799,13.85217,44.21799,13.85217",
+    "geom:latitude":13.85217,
+    "geom:longitude":44.21799,
+    "iso:country":"YE",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12066365: name \"Shawr Ghur\u0101b\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12066365"
+        },
+        {
+            "citation":"GeoNames populated place 12066365: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12066365"
+        },
+        {
+            "citation":"GeoNames populated place 12066365: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12066365"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091924509 (As Sayyani), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632499,
+        85680979,
+        102191569,
+        1091924509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12066365
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"90d30ac1a2f7f4b0dbb13bec94460aaa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924509,
+            "locality_id":9895082314,
+            "region_id":85680979
+        }
+    ],
+    "wof:id":9895082314,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Shawr Ghur\u0101b",
+    "wof:parent_id":1091924509,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.21799,
+    13.85217,
+    44.21799,
+    13.85217
+],
+  "geometry": {"coordinates":[44.21799,13.85217],"type":"Point"}
+}

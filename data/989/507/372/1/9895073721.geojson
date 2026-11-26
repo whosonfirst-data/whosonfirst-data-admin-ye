@@ -1,0 +1,74 @@
+{
+  "id": 9895073721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.54808,14.99995,43.54808,14.99995",
+    "geom:latitude":14.99995,
+    "geom:longitude":43.54808,
+    "iso:country":"YE",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11967957: name \"Al Man\u0101shiqah\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11967957"
+        },
+        {
+            "citation":"GeoNames populated place 11967957: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11967957"
+        },
+        {
+            "citation":"GeoNames populated place 11967957: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11967957"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091919927 (Al Hajjaylah), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632499,
+        85680959,
+        102191569,
+        1091919927
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11967957
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"d0faf3857eb25b0858d0acd04709e086",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091919927,
+            "locality_id":9895073721,
+            "region_id":85680959
+        }
+    ],
+    "wof:id":9895073721,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Al Man\u0101shiqah",
+    "wof:parent_id":1091919927,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.54808,
+    14.99995,
+    43.54808,
+    14.99995
+],
+  "geometry": {"coordinates":[43.54808,14.99995],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 9895077365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.18182,15.91334,43.18182,15.91334",
+    "geom:latitude":15.91334,
+    "geom:longitude":43.18182,
+    "iso:country":"YE",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12028587: name \"\u1e28ab\u012bl Bin Jarad\u0101h\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12028587"
+        },
+        {
+            "citation":"GeoNames populated place 12028587: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12028587"
+        },
+        {
+            "citation":"GeoNames populated place 12028587: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12028587"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091923385 (Abs), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632499,
+        85680973,
+        102191569,
+        1091923385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12028587
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"dfebaac7a30d2b28690ac7544ed6a9eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091923385,
+            "locality_id":9895077365,
+            "region_id":85680973
+        }
+    ],
+    "wof:id":9895077365,
+    "wof:lastmodified":1795734963,
+    "wof:name":"\u1e28ab\u012bl Bin Jarad\u0101h",
+    "wof:parent_id":1091923385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.18182,
+    15.91334,
+    43.18182,
+    15.91334
+],
+  "geometry": {"coordinates":[43.18182,15.91334],"type":"Point"}
+}

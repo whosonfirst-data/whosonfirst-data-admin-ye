@@ -1,0 +1,74 @@
+{
+  "id": 9895087275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.44289,15.04305,43.44289,15.04305",
+    "geom:latitude":15.04305,
+    "geom:longitude":43.44289,
+    "iso:country":"YE",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13430766: name \"Ban\u012b adh Dh\u012bb\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13430766"
+        },
+        {
+            "citation":"GeoNames populated place 13430766: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13430766"
+        },
+        {
+            "citation":"GeoNames populated place 13430766: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13430766"
+        },
+        {
+            "citation":"The hierarchy of WOF county 421183315 (Bajil), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632499,
+        85680959,
+        102191569,
+        421183315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13430766
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"89c4c5ce68f5694abc53098119631f64",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":421183315,
+            "locality_id":9895087275,
+            "region_id":85680959
+        }
+    ],
+    "wof:id":9895087275,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Ban\u012b adh Dh\u012bb",
+    "wof:parent_id":421183315,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.44289,
+    15.04305,
+    43.44289,
+    15.04305
+],
+  "geometry": {"coordinates":[43.44289,15.04305],"type":"Point"}
+}

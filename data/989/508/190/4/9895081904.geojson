@@ -1,0 +1,74 @@
+{
+  "id": 9895081904,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.18827,13.99871,44.18827,13.99871",
+    "geom:latitude":13.99871,
+    "geom:longitude":44.18827,
+    "iso:country":"YE",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12065412: name \"Al \u1e28\u0101ffah al Wus\u0163\u00e1\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12065412"
+        },
+        {
+            "citation":"GeoNames populated place 12065412: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12065412"
+        },
+        {
+            "citation":"GeoNames populated place 12065412: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12065412"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091924621 (Ibb), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632499,
+        85680979,
+        102191569,
+        1091924621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12065412
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"4e35d293f52597d0cae6d3ee17f51265",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924621,
+            "locality_id":9895081904,
+            "region_id":85680979
+        }
+    ],
+    "wof:id":9895081904,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Al \u1e28\u0101ffah al Wus\u0163\u00e1",
+    "wof:parent_id":1091924621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.18827,
+    13.99871,
+    44.18827,
+    13.99871
+],
+  "geometry": {"coordinates":[44.18827,13.99871],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 9895083887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.61129,13.8791,44.61129,13.8791",
+    "geom:latitude":13.8791,
+    "geom:longitude":44.61129,
+    "iso:country":"YE",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12097965: name \"Jurb al Misk\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12097965"
+        },
+        {
+            "citation":"GeoNames populated place 12097965: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12097965"
+        },
+        {
+            "citation":"GeoNames populated place 12097965: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12097965"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091919801 (Qa'atabah), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632499,
+        85681003,
+        102191569,
+        1091919801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12097965
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"677c3ff529840f43569ded0ab0a4cb40",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091919801,
+            "locality_id":9895083887,
+            "region_id":85681003
+        }
+    ],
+    "wof:id":9895083887,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Jurb al Misk",
+    "wof:parent_id":1091919801,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.61129,
+    13.8791,
+    44.61129,
+    13.8791
+],
+  "geometry": {"coordinates":[44.61129,13.8791],"type":"Point"}
+}

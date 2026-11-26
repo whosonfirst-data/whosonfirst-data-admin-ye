@@ -1,0 +1,74 @@
+{
+  "id": 9895077356,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.27895,15.97782,43.27895,15.97782",
+    "geom:latitude":15.97782,
+    "geom:longitude":43.27895,
+    "iso:country":"YE",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12028575: name \"Ad D\u0101yil\u012byah\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12028575"
+        },
+        {
+            "citation":"GeoNames populated place 12028575: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12028575"
+        },
+        {
+            "citation":"GeoNames populated place 12028575: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12028575"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091923385 (Abs), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632499,
+        85680973,
+        102191569,
+        1091923385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12028575
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"a7d6a3c98b0cf36ae41d598c0bba4d10",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091923385,
+            "locality_id":9895077356,
+            "region_id":85680973
+        }
+    ],
+    "wof:id":9895077356,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Ad D\u0101yil\u012byah",
+    "wof:parent_id":1091923385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.27895,
+    15.97782,
+    43.27895,
+    15.97782
+],
+  "geometry": {"coordinates":[43.27895,15.97782],"type":"Point"}
+}

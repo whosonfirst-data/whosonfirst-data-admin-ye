@@ -1,0 +1,74 @@
+{
+  "id": 9895071384,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.18573,13.40255,44.18573,13.40255",
+    "geom:latitude":13.40255,
+    "geom:longitude":44.18573,
+    "iso:country":"YE",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11956511: name \"D\u0101r al \u1e28ajr\u0101th\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11956511"
+        },
+        {
+            "citation":"GeoNames populated place 11956511: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11956511"
+        },
+        {
+            "citation":"GeoNames populated place 11956511: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11956511"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091926439 (As Silw), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632499,
+        85680989,
+        102191569,
+        1091926439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11956511
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"b0ee17f54099a3881e728a1a53cd8d8c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091926439,
+            "locality_id":9895071384,
+            "region_id":85680989
+        }
+    ],
+    "wof:id":9895071384,
+    "wof:lastmodified":1795734963,
+    "wof:name":"D\u0101r al \u1e28ajr\u0101th",
+    "wof:parent_id":1091926439,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.18573,
+    13.40255,
+    44.18573,
+    13.40255
+],
+  "geometry": {"coordinates":[44.18573,13.40255],"type":"Point"}
+}

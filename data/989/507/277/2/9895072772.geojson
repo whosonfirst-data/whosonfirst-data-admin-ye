@@ -1,0 +1,74 @@
+{
+  "id": 9895072772,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.30302,13.27515,44.30302,13.27515",
+    "geom:latitude":13.27515,
+    "geom:longitude":44.30302,
+    "iso:country":"YE",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11966137: name \"Dawm\u0101n al Asfal\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11966137"
+        },
+        {
+            "citation":"GeoNames populated place 11966137: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11966137"
+        },
+        {
+            "citation":"GeoNames populated place 11966137: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11966137"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091926543 (Hayfan), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632499,
+        85680989,
+        102191569,
+        1091926543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11966137
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"edd7881ca8ae0091461db03a911fc86e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091926543,
+            "locality_id":9895072772,
+            "region_id":85680989
+        }
+    ],
+    "wof:id":9895072772,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Dawm\u0101n al Asfal",
+    "wof:parent_id":1091926543,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.30302,
+    13.27515,
+    44.30302,
+    13.27515
+],
+  "geometry": {"coordinates":[44.30302,13.27515],"type":"Point"}
+}

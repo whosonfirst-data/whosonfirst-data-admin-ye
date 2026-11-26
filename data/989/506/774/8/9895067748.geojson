@@ -1,0 +1,74 @@
+{
+  "id": 9895067748,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.02,14.05076,44.02,14.05076",
+    "geom:latitude":14.05076,
+    "geom:longitude":44.02,
+    "iso:country":"YE",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11914929: name \"Al Mirkh\u0101mah\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11914929"
+        },
+        {
+            "citation":"GeoNames populated place 11914929: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11914929"
+        },
+        {
+            "citation":"GeoNames populated place 11914929: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11914929"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091924581 (Hazm Al Udayn), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632499,
+        85680979,
+        102191569,
+        1091924581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11914929
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"ead4092487e644c74e4bbcfa28dbc1bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924581,
+            "locality_id":9895067748,
+            "region_id":85680979
+        }
+    ],
+    "wof:id":9895067748,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Al Mirkh\u0101mah",
+    "wof:parent_id":1091924581,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.02,
+    14.05076,
+    44.02,
+    14.05076
+],
+  "geometry": {"coordinates":[44.02,14.05076],"type":"Point"}
+}

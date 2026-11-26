@@ -1,0 +1,74 @@
+{
+  "id": 9895074576,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.36216,15.43198,44.36216,15.43198",
+    "geom:latitude":15.43198,
+    "geom:longitude":44.36216,
+    "iso:country":"YE",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11971489: name \"Al Jumaymah\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11971489"
+        },
+        {
+            "citation":"GeoNames populated place 11971489: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11971489"
+        },
+        {
+            "citation":"GeoNames populated place 11971489: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11971489"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091925759 (Bani Hushaysh), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632499,
+        85681021,
+        102191569,
+        1091925759
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11971489
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"0f4dd7cba771bf57156345a957d6a80f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925759,
+            "locality_id":9895074576,
+            "region_id":85681021
+        }
+    ],
+    "wof:id":9895074576,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Al Jumaymah",
+    "wof:parent_id":1091925759,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.36216,
+    15.43198,
+    44.36216,
+    15.43198
+],
+  "geometry": {"coordinates":[44.36216,15.43198],"type":"Point"}
+}

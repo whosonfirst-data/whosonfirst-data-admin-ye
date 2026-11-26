@@ -1,0 +1,74 @@
+{
+  "id": 9895066418,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.43214,14.1307,44.43214,14.1307",
+    "geom:latitude":14.1307,
+    "geom:longitude":44.43214,
+    "iso:country":"YE",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11901232: name \"Al Jar\u0101miz\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11901232"
+        },
+        {
+            "citation":"GeoNames populated place 11901232: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11901232"
+        },
+        {
+            "citation":"GeoNames populated place 11901232: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11901232"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091924507 (As Saddah), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632499,
+        85680979,
+        102191569,
+        1091924507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11901232
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"9d09fe8f160c68d2f003fdb83c108704",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924507,
+            "locality_id":9895066418,
+            "region_id":85680979
+        }
+    ],
+    "wof:id":9895066418,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Al Jar\u0101miz",
+    "wof:parent_id":1091924507,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.43214,
+    14.1307,
+    44.43214,
+    14.1307
+],
+  "geometry": {"coordinates":[44.43214,14.1307],"type":"Point"}
+}

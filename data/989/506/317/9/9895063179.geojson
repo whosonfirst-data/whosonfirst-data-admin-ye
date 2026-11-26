@@ -1,0 +1,74 @@
+{
+  "id": 9895063179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.89404,14.41069,43.89404,14.41069",
+    "geom:latitude":14.41069,
+    "geom:longitude":43.89404,
+    "iso:country":"YE",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11883945: name \"Asakh\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11883945"
+        },
+        {
+            "citation":"GeoNames populated place 11883945: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11883945"
+        },
+        {
+            "citation":"GeoNames populated place 11883945: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11883945"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091922467 (Utmah), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632499,
+        85680969,
+        102191569,
+        1091922467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11883945
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"d024c278fe8cf661095e25c0111bc06f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091922467,
+            "locality_id":9895063179,
+            "region_id":85680969
+        }
+    ],
+    "wof:id":9895063179,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Asakh",
+    "wof:parent_id":1091922467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.89404,
+    14.41069,
+    43.89404,
+    14.41069
+],
+  "geometry": {"coordinates":[43.89404,14.41069],"type":"Point"}
+}

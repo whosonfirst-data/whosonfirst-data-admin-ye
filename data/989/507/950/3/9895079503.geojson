@@ -1,0 +1,74 @@
+{
+  "id": 9895079503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.95038,15.62248,43.95038,15.62248",
+    "geom:latitude":15.62248,
+    "geom:longitude":43.95038,
+    "iso:country":"YE",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12050826: name \"Bayt R\u0101shid\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12050826"
+        },
+        {
+            "citation":"GeoNames populated place 12050826: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12050826"
+        },
+        {
+            "citation":"GeoNames populated place 12050826: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12050826"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091921953 (Iyal Surayh), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632499,
+        85680977,
+        102191569,
+        1091921953
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12050826
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"af226b7d61738c600add759274cb07e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091921953,
+            "locality_id":9895079503,
+            "region_id":85680977
+        }
+    ],
+    "wof:id":9895079503,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Bayt R\u0101shid",
+    "wof:parent_id":1091921953,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.95038,
+    15.62248,
+    43.95038,
+    15.62248
+],
+  "geometry": {"coordinates":[43.95038,15.62248],"type":"Point"}
+}

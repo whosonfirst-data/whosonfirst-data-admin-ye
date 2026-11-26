@@ -1,0 +1,74 @@
+{
+  "id": 9895071819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.22206,13.36982,44.22206,13.36982",
+    "geom:latitude":13.36982,
+    "geom:longitude":44.22206,
+    "iso:country":"YE",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11958416: name \"Nakb an Nashmah\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11958416"
+        },
+        {
+            "citation":"GeoNames populated place 11958416: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11958416"
+        },
+        {
+            "citation":"GeoNames populated place 11958416: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11958416"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091926439 (As Silw), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632499,
+        85680989,
+        102191569,
+        1091926439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11958416
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"b26006a9a54d4050790f27e2d75f1b6e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091926439,
+            "locality_id":9895071819,
+            "region_id":85680989
+        }
+    ],
+    "wof:id":9895071819,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Nakb an Nashmah",
+    "wof:parent_id":1091926439,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.22206,
+    13.36982,
+    44.22206,
+    13.36982
+],
+  "geometry": {"coordinates":[44.22206,13.36982],"type":"Point"}
+}

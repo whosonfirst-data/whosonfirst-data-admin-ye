@@ -1,0 +1,74 @@
+{
+  "id": 9895077647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.42086,15.78236,43.42086,15.78236",
+    "geom:latitude":15.78236,
+    "geom:longitude":43.42086,
+    "iso:country":"YE",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12028990: name \"D\u0101\u1e29ir \u1e28unw\u0101b a\u015f \u015e\u0101hifah\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12028990"
+        },
+        {
+            "citation":"GeoNames populated place 12028990: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12028990"
+        },
+        {
+            "citation":"GeoNames populated place 12028990: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12028990"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091923981 (Ku'aydinah), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632499,
+        85680973,
+        102191569,
+        1091923981
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12028990
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"03f64791e66a0db813f107e7e19e9878",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091923981,
+            "locality_id":9895077647,
+            "region_id":85680973
+        }
+    ],
+    "wof:id":9895077647,
+    "wof:lastmodified":1795734963,
+    "wof:name":"D\u0101\u1e29ir \u1e28unw\u0101b a\u015f \u015e\u0101hifah",
+    "wof:parent_id":1091923981,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.42086,
+    15.78236,
+    43.42086,
+    15.78236
+],
+  "geometry": {"coordinates":[43.42086,15.78236],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 9895074552,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.1801,15.22971,44.1801,15.22971",
+    "geom:latitude":15.22971,
+    "geom:longitude":44.1801,
+    "iso:country":"YE",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11971459: name \"Qaf\u0101 al Mul\u1e29aq\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11971459"
+        },
+        {
+            "citation":"GeoNames populated place 11971459: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11971459"
+        },
+        {
+            "citation":"GeoNames populated place 11971459: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11971459"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091925875 (Sanhan), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632499,
+        85681021,
+        102191569,
+        1091925875
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11971459
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"04084cc2f2365113c5d3c1e78ae9a739",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925875,
+            "locality_id":9895074552,
+            "region_id":85681021
+        }
+    ],
+    "wof:id":9895074552,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Qaf\u0101 al Mul\u1e29aq",
+    "wof:parent_id":1091925875,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.1801,
+    15.22971,
+    44.1801,
+    15.22971
+],
+  "geometry": {"coordinates":[44.1801,15.22971],"type":"Point"}
+}

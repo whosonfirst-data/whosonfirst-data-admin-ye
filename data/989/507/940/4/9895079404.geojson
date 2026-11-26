@@ -1,0 +1,74 @@
+{
+  "id": 9895079404,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.70739,15.99455,43.70739,15.99455",
+    "geom:latitude":15.99455,
+    "geom:longitude":43.70739,
+    "iso:country":"YE",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12050663: name \"Ban\u012b Ma\u0163ar\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12050663"
+        },
+        {
+            "citation":"GeoNames populated place 12050663: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12050663"
+        },
+        {
+            "citation":"GeoNames populated place 12050663: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12050663"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091921861 (Habur Zulaymah), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632499,
+        85680977,
+        102191569,
+        1091921861
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12050663
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"74243dae209280215ec094b2ec549331",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091921861,
+            "locality_id":9895079404,
+            "region_id":85680977
+        }
+    ],
+    "wof:id":9895079404,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Ban\u012b Ma\u0163ar",
+    "wof:parent_id":1091921861,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.70739,
+    15.99455,
+    43.70739,
+    15.99455
+],
+  "geometry": {"coordinates":[43.70739,15.99455],"type":"Point"}
+}

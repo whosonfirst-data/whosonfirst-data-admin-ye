@@ -1,0 +1,74 @@
+{
+  "id": 9895083730,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.85882,13.97584,44.85882,13.97584",
+    "geom:latitude":13.97584,
+    "geom:longitude":44.85882,
+    "iso:country":"YE",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12097716: name \"Al Mashhad\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12097716"
+        },
+        {
+            "citation":"GeoNames populated place 12097716: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12097716"
+        },
+        {
+            "citation":"GeoNames populated place 12097716: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12097716"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091919781 (Juban), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632499,
+        85681003,
+        102191569,
+        1091919781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12097716
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"adfa716f0f76407cb69dc45fccd8bb3f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091919781,
+            "locality_id":9895083730,
+            "region_id":85681003
+        }
+    ],
+    "wof:id":9895083730,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Al Mashhad",
+    "wof:parent_id":1091919781,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.85882,
+    13.97584,
+    44.85882,
+    13.97584
+],
+  "geometry": {"coordinates":[44.85882,13.97584],"type":"Point"}
+}

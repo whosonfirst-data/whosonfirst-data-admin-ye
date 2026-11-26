@@ -1,0 +1,74 @@
+{
+  "id": 9895078137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.5354,15.60651,43.5354,15.60651",
+    "geom:latitude":15.60651,
+    "geom:longitude":43.5354,
+    "iso:country":"YE",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12048644: name \"Bayt al Gharb\u012b\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12048644"
+        },
+        {
+            "citation":"GeoNames populated place 12048644: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12048644"
+        },
+        {
+            "citation":"GeoNames populated place 12048644: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12048644"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091923703 (Ash Shaghadirah), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632499,
+        85680973,
+        102191569,
+        1091923703
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12048644
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"77da9ee8694e0e1515f5a33d04a6f354",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091923703,
+            "locality_id":9895078137,
+            "region_id":85680973
+        }
+    ],
+    "wof:id":9895078137,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Bayt al Gharb\u012b",
+    "wof:parent_id":1091923703,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.5354,
+    15.60651,
+    43.5354,
+    15.60651
+],
+  "geometry": {"coordinates":[43.5354,15.60651],"type":"Point"}
+}

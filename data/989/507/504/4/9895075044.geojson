@@ -1,0 +1,74 @@
+{
+  "id": 9895075044,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.08517,13.98598,44.08517,13.98598",
+    "geom:latitude":13.98598,
+    "geom:longitude":44.08517,
+    "iso:country":"YE",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12005775: name \"Ad Da\u1e29\u1e29\u0101\u1e29\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12005775"
+        },
+        {
+            "citation":"GeoNames populated place 12005775: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12005775"
+        },
+        {
+            "citation":"GeoNames populated place 12005775: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12005775"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091924621 (Ibb), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632499,
+        85680979,
+        102191569,
+        1091924621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12005775
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"9440a5bfc7cc714702e041a206bd787e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924621,
+            "locality_id":9895075044,
+            "region_id":85680979
+        }
+    ],
+    "wof:id":9895075044,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Ad Da\u1e29\u1e29\u0101\u1e29",
+    "wof:parent_id":1091924621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.08517,
+    13.98598,
+    44.08517,
+    13.98598
+],
+  "geometry": {"coordinates":[44.08517,13.98598],"type":"Point"}
+}

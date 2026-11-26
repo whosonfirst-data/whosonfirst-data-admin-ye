@@ -1,0 +1,74 @@
+{
+  "id": 9895077682,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.2255,15.71261,43.2255,15.71261",
+    "geom:latitude":15.71261,
+    "geom:longitude":43.2255,
+    "iso:country":"YE",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12029052: name \"Z\u0327ahr al \u1e28is\u00e1 al Farj\u012byah\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12029052"
+        },
+        {
+            "citation":"GeoNames populated place 12029052: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12029052"
+        },
+        {
+            "citation":"GeoNames populated place 12029052: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12029052"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091923981 (Ku'aydinah), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632499,
+        85680973,
+        102191569,
+        1091923981
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12029052
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"d4b9e436b169c1ff0ac28d28f9cd1083",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091923981,
+            "locality_id":9895077682,
+            "region_id":85680973
+        }
+    ],
+    "wof:id":9895077682,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Z\u0327ahr al \u1e28is\u00e1 al Farj\u012byah",
+    "wof:parent_id":1091923981,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.2255,
+    15.71261,
+    43.2255,
+    15.71261
+],
+  "geometry": {"coordinates":[43.2255,15.71261],"type":"Point"}
+}

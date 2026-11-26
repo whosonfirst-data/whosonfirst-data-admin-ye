@@ -1,0 +1,74 @@
+{
+  "id": 9895067266,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.11677,14.0315,44.11677,14.0315",
+    "geom:latitude":14.0315,
+    "geom:longitude":44.11677,
+    "iso:country":"YE",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11914188: name \"Al Hayjah\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11914188"
+        },
+        {
+            "citation":"GeoNames populated place 11914188: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11914188"
+        },
+        {
+            "citation":"GeoNames populated place 11914188: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11914188"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091924621 (Ibb), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632499,
+        85680979,
+        102191569,
+        1091924621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11914188
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"67aac246812b487a7312e987b634f091",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924621,
+            "locality_id":9895067266,
+            "region_id":85680979
+        }
+    ],
+    "wof:id":9895067266,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Al Hayjah",
+    "wof:parent_id":1091924621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.11677,
+    14.0315,
+    44.11677,
+    14.0315
+],
+  "geometry": {"coordinates":[44.11677,14.0315],"type":"Point"}
+}

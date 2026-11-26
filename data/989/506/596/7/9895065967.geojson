@@ -1,0 +1,74 @@
+{
+  "id": 9895065967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.36057,14.14215,44.36057,14.14215",
+    "geom:latitude":14.14215,
+    "geom:longitude":44.36057,
+    "iso:country":"YE",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11899890: name \"Bayt Q\u0101sim\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11899890"
+        },
+        {
+            "citation":"GeoNames populated place 11899890: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11899890"
+        },
+        {
+            "citation":"GeoNames populated place 11899890: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11899890"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091924507 (As Saddah), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632499,
+        85680979,
+        102191569,
+        1091924507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11899890
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"30b8549b3c0c6c0121e0ec3fe009c3b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924507,
+            "locality_id":9895065967,
+            "region_id":85680979
+        }
+    ],
+    "wof:id":9895065967,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Bayt Q\u0101sim",
+    "wof:parent_id":1091924507,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.36057,
+    14.14215,
+    44.36057,
+    14.14215
+],
+  "geometry": {"coordinates":[44.36057,14.14215],"type":"Point"}
+}

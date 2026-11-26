@@ -1,0 +1,74 @@
+{
+  "id": 9895073957,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.58951,15.0721,43.58951,15.0721",
+    "geom:latitude":15.0721,
+    "geom:longitude":43.58951,
+    "iso:country":"YE",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11968404: name \"Al Ma\u1e29allah\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11968404"
+        },
+        {
+            "citation":"GeoNames populated place 11968404: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11968404"
+        },
+        {
+            "citation":"GeoNames populated place 11968404: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11968404"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091925849 (Sa'fan), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632499,
+        85681021,
+        102191569,
+        1091925849
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11968404
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"b9bb0cbc37cd1ff00ee2873352480f9c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925849,
+            "locality_id":9895073957,
+            "region_id":85681021
+        }
+    ],
+    "wof:id":9895073957,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Al Ma\u1e29allah",
+    "wof:parent_id":1091925849,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.58951,
+    15.0721,
+    43.58951,
+    15.0721
+],
+  "geometry": {"coordinates":[43.58951,15.0721],"type":"Point"}
+}

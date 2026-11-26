@@ -1,0 +1,74 @@
+{
+  "id": 9895078578,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.63711,15.56808,43.63711,15.56808",
+    "geom:latitude":15.56808,
+    "geom:longitude":43.63711,
+    "iso:country":"YE",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12049317: name \"Bayt al Badaw\u012b\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12049317"
+        },
+        {
+            "citation":"GeoNames populated place 12049317: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12049317"
+        },
+        {
+            "citation":"GeoNames populated place 12049317: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12049317"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091923795 (Bani Al Awam), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632499,
+        85680973,
+        102191569,
+        1091923795
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12049317
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"af91c7185b9fdb0d176d65aa676a3f61",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091923795,
+            "locality_id":9895078578,
+            "region_id":85680973
+        }
+    ],
+    "wof:id":9895078578,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Bayt al Badaw\u012b",
+    "wof:parent_id":1091923795,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.63711,
+    15.56808,
+    43.63711,
+    15.56808
+],
+  "geometry": {"coordinates":[43.63711,15.56808],"type":"Point"}
+}

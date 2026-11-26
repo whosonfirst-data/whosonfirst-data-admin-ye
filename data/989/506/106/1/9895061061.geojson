@@ -1,0 +1,75 @@
+{
+  "id": 9895061061,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.29869,16.642,43.29869,16.642",
+    "geom:latitude":16.642,
+    "geom:longitude":43.29869,
+    "gn:population":4,
+    "iso:country":"YE",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 7854971: name \"Al Gh\u0101rib\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/7854971"
+        },
+        {
+            "citation":"GeoNames populated place 7854971: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/7854971"
+        },
+        {
+            "citation":"GeoNames populated place 7854971: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/7854971"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091925365 (Al Dhaher), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632499,
+        85680955,
+        102191569,
+        1091925365
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7854971
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"4918cffc572b3cc61d7f84d29f9333c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925365,
+            "locality_id":9895061061,
+            "region_id":85680955
+        }
+    ],
+    "wof:id":9895061061,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Al Gh\u0101rib",
+    "wof:parent_id":1091925365,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.29869,
+    16.642,
+    43.29869,
+    16.642
+],
+  "geometry": {"coordinates":[43.29869,16.642],"type":"Point"}
+}

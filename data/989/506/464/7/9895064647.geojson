@@ -1,0 +1,74 @@
+{
+  "id": 9895064647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.83132,14.02404,43.83132,14.02404",
+    "geom:latitude":14.02404,
+    "geom:longitude":43.83132,
+    "iso:country":"YE",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11895947: name \"Al Mashjanah\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11895947"
+        },
+        {
+            "citation":"GeoNames populated place 11895947: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11895947"
+        },
+        {
+            "citation":"GeoNames populated place 11895947: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11895947"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091924435 (Al Udayn), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632499,
+        85680979,
+        102191569,
+        1091924435
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11895947
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"e6dcb955d11065ee01874a31205db666",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924435,
+            "locality_id":9895064647,
+            "region_id":85680979
+        }
+    ],
+    "wof:id":9895064647,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Al Mashjanah",
+    "wof:parent_id":1091924435,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.83132,
+    14.02404,
+    43.83132,
+    14.02404
+],
+  "geometry": {"coordinates":[43.83132,14.02404],"type":"Point"}
+}

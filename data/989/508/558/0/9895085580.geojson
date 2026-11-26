@@ -1,0 +1,74 @@
+{
+  "id": 9895085580,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.85427,15.0486,43.85427,15.0486",
+    "geom:latitude":15.0486,
+    "geom:longitude":43.85427,
+    "iso:country":"YE",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12102018: name \"Al Luk\u0101m\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12102018"
+        },
+        {
+            "citation":"GeoNames populated place 12102018: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12102018"
+        },
+        {
+            "citation":"GeoNames populated place 12102018: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12102018"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091925637 (Al Haymah Al Kharijiyah), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632499,
+        85681021,
+        102191569,
+        1091925637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12102018
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"77468455180e11694f28e7226b967708",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925637,
+            "locality_id":9895085580,
+            "region_id":85681021
+        }
+    ],
+    "wof:id":9895085580,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Al Luk\u0101m",
+    "wof:parent_id":1091925637,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.85427,
+    15.0486,
+    43.85427,
+    15.0486
+],
+  "geometry": {"coordinates":[43.85427,15.0486],"type":"Point"}
+}

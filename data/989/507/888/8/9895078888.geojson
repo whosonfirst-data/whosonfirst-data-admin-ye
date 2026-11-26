@@ -1,0 +1,74 @@
+{
+  "id": 9895078888,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.66457,15.76627,43.66457,15.76627",
+    "geom:latitude":15.76627,
+    "geom:longitude":43.66457,
+    "iso:country":"YE",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12049844: name \"Jurh\u0101n\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12049844"
+        },
+        {
+            "citation":"GeoNames populated place 12049844: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12049844"
+        },
+        {
+            "citation":"GeoNames populated place 12049844: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12049844"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091924013 (Kuhlan Affar), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632499,
+        85680973,
+        102191569,
+        1091924013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12049844
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"89d396ddd39bfb803a535f7d133c93c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924013,
+            "locality_id":9895078888,
+            "region_id":85680973
+        }
+    ],
+    "wof:id":9895078888,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Jurh\u0101n",
+    "wof:parent_id":1091924013,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.66457,
+    15.76627,
+    43.66457,
+    15.76627
+],
+  "geometry": {"coordinates":[43.66457,15.76627],"type":"Point"}
+}

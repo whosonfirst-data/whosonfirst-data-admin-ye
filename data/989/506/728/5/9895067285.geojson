@@ -1,0 +1,74 @@
+{
+  "id": 9895067285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.12333,14.01955,44.12333,14.01955",
+    "geom:latitude":14.01955,
+    "geom:longitude":44.12333,
+    "iso:country":"YE",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11914218: name \"As Saw\u0101dah\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11914218"
+        },
+        {
+            "citation":"GeoNames populated place 11914218: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11914218"
+        },
+        {
+            "citation":"GeoNames populated place 11914218: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11914218"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091924621 (Ibb), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632499,
+        85680979,
+        102191569,
+        1091924621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11914218
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"778723eeee8f61a652523ff0a0c80564",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924621,
+            "locality_id":9895067285,
+            "region_id":85680979
+        }
+    ],
+    "wof:id":9895067285,
+    "wof:lastmodified":1795734963,
+    "wof:name":"As Saw\u0101dah",
+    "wof:parent_id":1091924621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.12333,
+    14.01955,
+    44.12333,
+    14.01955
+],
+  "geometry": {"coordinates":[44.12333,14.01955],"type":"Point"}
+}

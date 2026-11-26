@@ -1,0 +1,74 @@
+{
+  "id": 9895078990,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.59291,15.77165,43.59291,15.77165",
+    "geom:latitude":15.77165,
+    "geom:longitude":43.59291,
+    "iso:country":"YE",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12049995: name \"Bayt Wah\u0101n\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12049995"
+        },
+        {
+            "citation":"GeoNames populated place 12049995: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12049995"
+        },
+        {
+            "citation":"GeoNames populated place 12049995: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12049995"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091924089 (Mabyan), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632499,
+        85680973,
+        102191569,
+        1091924089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12049995
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"c34cfd677961fb527f6481b15977b94c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924089,
+            "locality_id":9895078990,
+            "region_id":85680973
+        }
+    ],
+    "wof:id":9895078990,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Bayt Wah\u0101n",
+    "wof:parent_id":1091924089,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.59291,
+    15.77165,
+    43.59291,
+    15.77165
+],
+  "geometry": {"coordinates":[43.59291,15.77165],"type":"Point"}
+}

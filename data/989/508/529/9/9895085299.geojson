@@ -1,0 +1,74 @@
+{
+  "id": 9895085299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.17171,14.64898,44.17171,14.64898",
+    "geom:latitude":14.64898,
+    "geom:longitude":44.17171,
+    "iso:country":"YE",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12100046: name \"Kawlat al Wa\u015f\u0101b\u012byah\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12100046"
+        },
+        {
+            "citation":"GeoNames populated place 12100046: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12100046"
+        },
+        {
+            "citation":"GeoNames populated place 12100046: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12100046"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091922231 (Al Manar), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632499,
+        85680969,
+        102191569,
+        1091922231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12100046
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"f6656c89c1b58e3d5d4cc0b1fc3122b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091922231,
+            "locality_id":9895085299,
+            "region_id":85680969
+        }
+    ],
+    "wof:id":9895085299,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Kawlat al Wa\u015f\u0101b\u012byah",
+    "wof:parent_id":1091922231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.17171,
+    14.64898,
+    44.17171,
+    14.64898
+],
+  "geometry": {"coordinates":[44.17171,14.64898],"type":"Point"}
+}

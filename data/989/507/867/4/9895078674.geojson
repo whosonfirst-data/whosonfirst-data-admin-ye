@@ -1,0 +1,74 @@
+{
+  "id": 9895078674,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.6346,15.57234,43.6346,15.57234",
+    "geom:latitude":15.57234,
+    "geom:longitude":43.6346,
+    "iso:country":"YE",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12049477: name \"Qaflat an Nu\u015fayr\u012b\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12049477"
+        },
+        {
+            "citation":"GeoNames populated place 12049477: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12049477"
+        },
+        {
+            "citation":"GeoNames populated place 12049477: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12049477"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091923795 (Bani Al Awam), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632499,
+        85680973,
+        102191569,
+        1091923795
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12049477
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"d993811245a4269278533572a41ac5e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091923795,
+            "locality_id":9895078674,
+            "region_id":85680973
+        }
+    ],
+    "wof:id":9895078674,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Qaflat an Nu\u015fayr\u012b",
+    "wof:parent_id":1091923795,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.6346,
+    15.57234,
+    43.6346,
+    15.57234
+],
+  "geometry": {"coordinates":[43.6346,15.57234],"type":"Point"}
+}

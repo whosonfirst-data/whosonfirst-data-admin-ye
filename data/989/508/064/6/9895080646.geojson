@@ -1,0 +1,74 @@
+{
+  "id": 9895080646,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.79329,14.625,43.79329,14.625",
+    "geom:latitude":14.625,
+    "geom:longitude":43.79329,
+    "iso:country":"YE",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12052842: name \"Manqah\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12052842"
+        },
+        {
+            "citation":"GeoNames populated place 12052842: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12052842"
+        },
+        {
+            "citation":"GeoNames populated place 12052842: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12052842"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091925307 (As Salafiyah), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632499,
+        85681033,
+        102191569,
+        1091925307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12052842
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"f9811ee5220e31e232937d2a26737fbe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925307,
+            "locality_id":9895080646,
+            "region_id":85681033
+        }
+    ],
+    "wof:id":9895080646,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Manqah",
+    "wof:parent_id":1091925307,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.79329,
+    14.625,
+    43.79329,
+    14.625
+],
+  "geometry": {"coordinates":[43.79329,14.625],"type":"Point"}
+}

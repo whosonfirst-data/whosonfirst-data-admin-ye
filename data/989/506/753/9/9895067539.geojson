@@ -1,0 +1,74 @@
+{
+  "id": 9895067539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.1234,14.08973,44.1234,14.08973",
+    "geom:latitude":14.08973,
+    "geom:longitude":44.1234,
+    "iso:country":"YE",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11914612: name \"Al Mifradah\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11914612"
+        },
+        {
+            "citation":"GeoNames populated place 11914612: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11914612"
+        },
+        {
+            "citation":"GeoNames populated place 11914612: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11914612"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091924597 (Hubaysh), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632499,
+        85680979,
+        102191569,
+        1091924597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11914612
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"fb52ec88b00d1d0c42b1d75163223efd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924597,
+            "locality_id":9895067539,
+            "region_id":85680979
+        }
+    ],
+    "wof:id":9895067539,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Al Mifradah",
+    "wof:parent_id":1091924597,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.1234,
+    14.08973,
+    44.1234,
+    14.08973
+],
+  "geometry": {"coordinates":[44.1234,14.08973],"type":"Point"}
+}

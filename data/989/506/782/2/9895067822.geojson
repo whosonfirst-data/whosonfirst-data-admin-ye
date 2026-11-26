@@ -1,0 +1,74 @@
+{
+  "id": 9895067822,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.26187,13.77799,43.26187,13.77799",
+    "geom:latitude":13.77799,
+    "geom:longitude":43.26187,
+    "iso:country":"YE",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11915785: name \"Al Qaw\u0101simah\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11915785"
+        },
+        {
+            "citation":"GeoNames populated place 11915785: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11915785"
+        },
+        {
+            "citation":"GeoNames populated place 11915785: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11915785"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091920013 (Al Khawkhah), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632499,
+        85680959,
+        102191569,
+        1091920013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11915785
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"c5258a401dd5ecacfff490b28f0b90b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091920013,
+            "locality_id":9895067822,
+            "region_id":85680959
+        }
+    ],
+    "wof:id":9895067822,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Al Qaw\u0101simah",
+    "wof:parent_id":1091920013,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.26187,
+    13.77799,
+    43.26187,
+    13.77799
+],
+  "geometry": {"coordinates":[43.26187,13.77799],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 9895087256,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.23331,13.21168,44.23331,13.21168",
+    "geom:latitude":13.21168,
+    "geom:longitude":44.23331,
+    "iso:country":"YE",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13429511: name \"Al Huwayshah\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13429511"
+        },
+        {
+            "citation":"GeoNames populated place 13429511: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13429511"
+        },
+        {
+            "citation":"GeoNames populated place 13429511: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13429511"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091924801 (Al Maqatirah), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632499,
+        85680985,
+        102191569,
+        1091924801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13429511
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"a64014493fa4da5edddea0c3805f8b31",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924801,
+            "locality_id":9895087256,
+            "region_id":85680985
+        }
+    ],
+    "wof:id":9895087256,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Al Huwayshah",
+    "wof:parent_id":1091924801,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.23331,
+    13.21168,
+    44.23331,
+    13.21168
+],
+  "geometry": {"coordinates":[44.23331,13.21168],"type":"Point"}
+}

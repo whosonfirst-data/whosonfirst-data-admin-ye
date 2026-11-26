@@ -1,0 +1,74 @@
+{
+  "id": 9895074944,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.56002,14.763,43.56002,14.763",
+    "geom:latitude":14.763,
+    "geom:longitude":43.56002,
+    "iso:country":"YE",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12005064: name \"Al Bak\u0101l\u012byah\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12005064"
+        },
+        {
+            "citation":"GeoNames populated place 12005064: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12005064"
+        },
+        {
+            "citation":"GeoNames populated place 12005064: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12005064"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091925309 (Bilad At Ta'am), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632499,
+        85681033,
+        102191569,
+        1091925309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12005064
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"faea651bb6da37edd955fb6632688fbc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925309,
+            "locality_id":9895074944,
+            "region_id":85681033
+        }
+    ],
+    "wof:id":9895074944,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Al Bak\u0101l\u012byah",
+    "wof:parent_id":1091925309,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.56002,
+    14.763,
+    43.56002,
+    14.763
+],
+  "geometry": {"coordinates":[43.56002,14.763],"type":"Point"}
+}

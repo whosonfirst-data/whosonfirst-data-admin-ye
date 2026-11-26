@@ -1,0 +1,74 @@
+{
+  "id": 9895078613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.58838,15.60429,43.58838,15.60429",
+    "geom:latitude":15.60429,
+    "geom:longitude":43.58838,
+    "iso:country":"YE",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12049379: name \"Ghawlat al \u1e28ajar\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12049379"
+        },
+        {
+            "citation":"GeoNames populated place 12049379: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12049379"
+        },
+        {
+            "citation":"GeoNames populated place 12049379: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12049379"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091923795 (Bani Al Awam), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632499,
+        85680973,
+        102191569,
+        1091923795
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12049379
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"644fd8cdd7139a526f604dc71dae4405",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091923795,
+            "locality_id":9895078613,
+            "region_id":85680973
+        }
+    ],
+    "wof:id":9895078613,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Ghawlat al \u1e28ajar",
+    "wof:parent_id":1091923795,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.58838,
+    15.60429,
+    43.58838,
+    15.60429
+],
+  "geometry": {"coordinates":[43.58838,15.60429],"type":"Point"}
+}

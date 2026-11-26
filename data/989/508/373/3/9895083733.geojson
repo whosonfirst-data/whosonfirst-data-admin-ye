@@ -1,0 +1,74 @@
+{
+  "id": 9895083733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.86208,13.98119,44.86208,13.98119",
+    "geom:latitude":13.98119,
+    "geom:longitude":44.86208,
+    "iso:country":"YE",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12097720: name \"Al \u1e28\u0101ffah\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12097720"
+        },
+        {
+            "citation":"GeoNames populated place 12097720: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12097720"
+        },
+        {
+            "citation":"GeoNames populated place 12097720: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12097720"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091919781 (Juban), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632499,
+        85681003,
+        102191569,
+        1091919781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12097720
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"6a7cd4c9acb521009e71f38ef6898b26",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091919781,
+            "locality_id":9895083733,
+            "region_id":85681003
+        }
+    ],
+    "wof:id":9895083733,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Al \u1e28\u0101ffah",
+    "wof:parent_id":1091919781,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.86208,
+    13.98119,
+    44.86208,
+    13.98119
+],
+  "geometry": {"coordinates":[44.86208,13.98119],"type":"Point"}
+}

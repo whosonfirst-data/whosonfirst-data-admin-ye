@@ -1,0 +1,74 @@
+{
+  "id": 9895074511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.4039,15.37378,44.4039,15.37378",
+    "geom:latitude":15.37378,
+    "geom:longitude":44.4039,
+    "iso:country":"YE",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11971394: name \"Lakamat \u015eabb\u0101\u1e29\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11971394"
+        },
+        {
+            "citation":"GeoNames populated place 11971394: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11971394"
+        },
+        {
+            "citation":"GeoNames populated place 11971394: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11971394"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091925719 (Attyal), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632499,
+        85681021,
+        102191569,
+        1091925719
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11971394
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"12fcad44bbf1c244cde5e7bb653924fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925719,
+            "locality_id":9895074511,
+            "region_id":85681021
+        }
+    ],
+    "wof:id":9895074511,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Lakamat \u015eabb\u0101\u1e29",
+    "wof:parent_id":1091925719,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.4039,
+    15.37378,
+    44.4039,
+    15.37378
+],
+  "geometry": {"coordinates":[44.4039,15.37378],"type":"Point"}
+}

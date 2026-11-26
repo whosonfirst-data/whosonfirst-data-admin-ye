@@ -1,0 +1,74 @@
+{
+  "id": 9895077509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.49833,15.99342,43.49833,15.99342",
+    "geom:latitude":15.99342,
+    "geom:longitude":43.49833,
+    "iso:country":"YE",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12028782: name \"Al Qishbah\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12028782"
+        },
+        {
+            "citation":"GeoNames populated place 12028782: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12028782"
+        },
+        {
+            "citation":"GeoNames populated place 12028782: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12028782"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091924033 (Kuhlan Ash Sharaf), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632499,
+        85680973,
+        102191569,
+        1091924033
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12028782
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"57468a8647ef74992626ea7484ebc608",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924033,
+            "locality_id":9895077509,
+            "region_id":85680973
+        }
+    ],
+    "wof:id":9895077509,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Al Qishbah",
+    "wof:parent_id":1091924033,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.49833,
+    15.99342,
+    43.49833,
+    15.99342
+],
+  "geometry": {"coordinates":[43.49833,15.99342],"type":"Point"}
+}

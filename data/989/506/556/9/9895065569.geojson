@@ -1,0 +1,74 @@
+{
+  "id": 9895065569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.042,14.49257,44.042,14.49257",
+    "geom:latitude":14.49257,
+    "geom:longitude":44.042,
+    "iso:country":"YE",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11898085: name \"Khar\u015fah\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11898085"
+        },
+        {
+            "citation":"GeoNames populated place 11898085: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11898085"
+        },
+        {
+            "citation":"GeoNames populated place 11898085: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11898085"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091922467 (Utmah), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632499,
+        85680969,
+        102191569,
+        1091922467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11898085
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"7638f506df182bbd6b24e043e44a8207",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091922467,
+            "locality_id":9895065569,
+            "region_id":85680969
+        }
+    ],
+    "wof:id":9895065569,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Khar\u015fah",
+    "wof:parent_id":1091922467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.042,
+    14.49257,
+    44.042,
+    14.49257
+],
+  "geometry": {"coordinates":[44.042,14.49257],"type":"Point"}
+}

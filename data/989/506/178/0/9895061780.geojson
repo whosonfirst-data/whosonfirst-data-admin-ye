@@ -1,0 +1,74 @@
+{
+  "id": 9895061780,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.60189,14.04234,44.60189,14.04234",
+    "geom:latitude":14.04234,
+    "geom:longitude":44.60189,
+    "iso:country":"YE",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11879950: name \"Al Mishr\u0101\u1e29 al Aghbar\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11879950"
+        },
+        {
+            "citation":"GeoNames populated place 11879950: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11879950"
+        },
+        {
+            "citation":"GeoNames populated place 11879950: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11879950"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091919725 (Damt), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632499,
+        85681003,
+        102191569,
+        1091919725
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11879950
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"fe7deecc372cbb0f566fd2dda61fba98",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091919725,
+            "locality_id":9895061780,
+            "region_id":85681003
+        }
+    ],
+    "wof:id":9895061780,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Al Mishr\u0101\u1e29 al Aghbar",
+    "wof:parent_id":1091919725,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.60189,
+    14.04234,
+    44.60189,
+    14.04234
+],
+  "geometry": {"coordinates":[44.60189,14.04234],"type":"Point"}
+}

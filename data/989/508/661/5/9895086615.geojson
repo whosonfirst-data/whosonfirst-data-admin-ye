@@ -1,0 +1,74 @@
+{
+  "id": 9895086615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.10184,15.44947,44.10184,15.44947",
+    "geom:latitude":15.44947,
+    "geom:longitude":44.10184,
+    "iso:country":"YE",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12120366: name \"Al Qa\u015ff\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12120366"
+        },
+        {
+            "citation":"GeoNames populated place 12120366: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12120366"
+        },
+        {
+            "citation":"GeoNames populated place 12120366: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12120366"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091925797 (Hamdan), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632499,
+        85681021,
+        102191569,
+        1091925797
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12120366
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"363a3933771fc47bff18f45de6302a35",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925797,
+            "locality_id":9895086615,
+            "region_id":85681021
+        }
+    ],
+    "wof:id":9895086615,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Al Qa\u015ff",
+    "wof:parent_id":1091925797,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.10184,
+    15.44947,
+    44.10184,
+    15.44947
+],
+  "geometry": {"coordinates":[44.10184,15.44947],"type":"Point"}
+}

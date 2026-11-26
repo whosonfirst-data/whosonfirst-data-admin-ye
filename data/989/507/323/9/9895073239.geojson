@@ -1,0 +1,74 @@
+{
+  "id": 9895073239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.34987,13.27957,44.34987,13.27957",
+    "geom:latitude":13.27957,
+    "geom:longitude":44.34987,
+    "iso:country":"YE",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11966801: name \"Lakmat ar Rukayb\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11966801"
+        },
+        {
+            "citation":"GeoNames populated place 11966801: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11966801"
+        },
+        {
+            "citation":"GeoNames populated place 11966801: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11966801"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091924859 (Al Qabbaytah), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632499,
+        85680985,
+        102191569,
+        1091924859
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11966801
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"78b46c48b02191200b84383436389b0a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924859,
+            "locality_id":9895073239,
+            "region_id":85680985
+        }
+    ],
+    "wof:id":9895073239,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Lakmat ar Rukayb",
+    "wof:parent_id":1091924859,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.34987,
+    13.27957,
+    44.34987,
+    13.27957
+],
+  "geometry": {"coordinates":[44.34987,13.27957],"type":"Point"}
+}

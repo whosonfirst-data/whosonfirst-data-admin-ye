@@ -1,0 +1,74 @@
+{
+  "id": 9895076763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.40067,15.89619,43.40067,15.89619",
+    "geom:latitude":15.89619,
+    "geom:longitude":43.40067,
+    "iso:country":"YE",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12027679: name \"Jabal as Sal\u0101m\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12027679"
+        },
+        {
+            "citation":"GeoNames populated place 12027679: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12027679"
+        },
+        {
+            "citation":"GeoNames populated place 12027679: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12027679"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091924209 (Qafl Shamer), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632499,
+        85680973,
+        102191569,
+        1091924209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12027679
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"0871f9a4101aeadccb9b3a95af8a711f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924209,
+            "locality_id":9895076763,
+            "region_id":85680973
+        }
+    ],
+    "wof:id":9895076763,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Jabal as Sal\u0101m",
+    "wof:parent_id":1091924209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.40067,
+    15.89619,
+    43.40067,
+    15.89619
+],
+  "geometry": {"coordinates":[43.40067,15.89619],"type":"Point"}
+}

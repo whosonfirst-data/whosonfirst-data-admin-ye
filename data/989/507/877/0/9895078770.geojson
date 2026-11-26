@@ -1,0 +1,74 @@
+{
+  "id": 9895078770,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.63232,15.76026,43.63232,15.76026",
+    "geom:latitude":15.76026,
+    "geom:longitude":43.63232,
+    "iso:country":"YE",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12049665: name \"Shahw\u0101n\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12049665"
+        },
+        {
+            "citation":"GeoNames populated place 12049665: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12049665"
+        },
+        {
+            "citation":"GeoNames populated place 12049665: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12049665"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091924267 (Sharas), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632499,
+        85680973,
+        102191569,
+        1091924267
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12049665
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"928cdfba0dcd1a3c5a877036c476f7b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924267,
+            "locality_id":9895078770,
+            "region_id":85680973
+        }
+    ],
+    "wof:id":9895078770,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Shahw\u0101n",
+    "wof:parent_id":1091924267,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.63232,
+    15.76026,
+    43.63232,
+    15.76026
+],
+  "geometry": {"coordinates":[43.63232,15.76026],"type":"Point"}
+}

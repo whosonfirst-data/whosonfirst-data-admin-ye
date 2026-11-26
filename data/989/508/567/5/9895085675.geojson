@@ -1,0 +1,74 @@
+{
+  "id": 9895085675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.86234,15.20417,43.86234,15.20417",
+    "geom:latitude":15.20417,
+    "geom:longitude":43.86234,
+    "iso:country":"YE",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12102155: name \"Bayt a\u015f \u015eal\u012bb\u012b al Asfal\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12102155"
+        },
+        {
+            "citation":"GeoNames populated place 12102155: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12102155"
+        },
+        {
+            "citation":"GeoNames populated place 12102155: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12102155"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091925615 (Al Haymah Ad Dakhiliyah), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632499,
+        85681021,
+        102191569,
+        1091925615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12102155
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"801c80e566807681e3573238eba9a4ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925615,
+            "locality_id":9895085675,
+            "region_id":85681021
+        }
+    ],
+    "wof:id":9895085675,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Bayt a\u015f \u015eal\u012bb\u012b al Asfal",
+    "wof:parent_id":1091925615,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.86234,
+    15.20417,
+    43.86234,
+    15.20417
+],
+  "geometry": {"coordinates":[43.86234,15.20417],"type":"Point"}
+}

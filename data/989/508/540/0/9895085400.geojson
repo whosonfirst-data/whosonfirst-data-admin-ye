@@ -1,0 +1,74 @@
+{
+  "id": 9895085400,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.24894,14.55709,44.24894,14.55709",
+    "geom:latitude":14.55709,
+    "geom:longitude":44.24894,
+    "iso:country":"YE",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12100198: name \"Ban\u012b Ghar\u012bb Ma\u1e29all as Sablah\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12100198"
+        },
+        {
+            "citation":"GeoNames populated place 12100198: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12100198"
+        },
+        {
+            "citation":"GeoNames populated place 12100198: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12100198"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091922249 (Anss), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632499,
+        85680969,
+        102191569,
+        1091922249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12100198
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"ea96206ae8f71c14ae75d426b76bc98e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091922249,
+            "locality_id":9895085400,
+            "region_id":85680969
+        }
+    ],
+    "wof:id":9895085400,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Ban\u012b Ghar\u012bb Ma\u1e29all as Sablah",
+    "wof:parent_id":1091922249,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.24894,
+    14.55709,
+    44.24894,
+    14.55709
+],
+  "geometry": {"coordinates":[44.24894,14.55709],"type":"Point"}
+}

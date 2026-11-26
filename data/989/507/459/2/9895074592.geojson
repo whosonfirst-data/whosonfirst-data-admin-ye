@@ -1,0 +1,74 @@
+{
+  "id": 9895074592,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.5673,14.95145,43.5673,14.95145",
+    "geom:latitude":14.95145,
+    "geom:longitude":43.5673,
+    "iso:country":"YE",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12004588: name \"Al Maktabah\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12004588"
+        },
+        {
+            "citation":"GeoNames populated place 12004588: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12004588"
+        },
+        {
+            "citation":"GeoNames populated place 12004588: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12004588"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091919927 (Al Hajjaylah), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632499,
+        85680959,
+        102191569,
+        1091919927
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12004588
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"76c9c9c15e963592a0885e2386648e3b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091919927,
+            "locality_id":9895074592,
+            "region_id":85680959
+        }
+    ],
+    "wof:id":9895074592,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Al Maktabah",
+    "wof:parent_id":1091919927,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.5673,
+    14.95145,
+    43.5673,
+    14.95145
+],
+  "geometry": {"coordinates":[43.5673,14.95145],"type":"Point"}
+}

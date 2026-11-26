@@ -1,0 +1,74 @@
+{
+  "id": 9895087220,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.56847,15.59984,43.56847,15.59984",
+    "geom:latitude":15.59984,
+    "geom:longitude":43.56847,
+    "iso:country":"YE",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13425873: name \"Ar Raydah\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13425873"
+        },
+        {
+            "citation":"GeoNames populated place 13425873: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13425873"
+        },
+        {
+            "citation":"GeoNames populated place 13425873: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13425873"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091923795 (Bani Al Awam), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632499,
+        85680973,
+        102191569,
+        1091923795
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13425873
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"eadb3216b269798d587499fd73c1afca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091923795,
+            "locality_id":9895087220,
+            "region_id":85680973
+        }
+    ],
+    "wof:id":9895087220,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Ar Raydah",
+    "wof:parent_id":1091923795,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.56847,
+    15.59984,
+    43.56847,
+    15.59984
+],
+  "geometry": {"coordinates":[43.56847,15.59984],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 9895061060,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.3287,16.5254,44.3287,16.5254",
+    "geom:latitude":16.5254,
+    "geom:longitude":44.3287,
+    "gn:population":13,
+    "iso:country":"YE",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 7795198: name \"Al \u1e28ajil\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/7795198"
+        },
+        {
+            "citation":"GeoNames populated place 7795198: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/7795198"
+        },
+        {
+            "citation":"GeoNames populated place 7795198: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/7795198"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091920811 (Kharab Al Marashi), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632499,
+        85681007,
+        102191569,
+        1091920811
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7795198
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"1d8b9fa3e1fb318208b5b4bbdbe4041f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091920811,
+            "locality_id":9895061060,
+            "region_id":85681007
+        }
+    ],
+    "wof:id":9895061060,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Al \u1e28ajil",
+    "wof:parent_id":1091920811,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.3287,
+    16.5254,
+    44.3287,
+    16.5254
+],
+  "geometry": {"coordinates":[44.3287,16.5254],"type":"Point"}
+}

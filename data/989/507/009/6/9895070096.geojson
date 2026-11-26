@@ -1,0 +1,74 @@
+{
+  "id": 9895070096,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.91834,13.52742,43.91834,13.52742",
+    "geom:latitude":13.52742,
+    "geom:longitude":43.91834,
+    "iso:country":"YE",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11949452: name \"A\u015f \u015eabr\u012b\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11949452"
+        },
+        {
+            "citation":"GeoNames populated place 11949452: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11949452"
+        },
+        {
+            "citation":"GeoNames populated place 11949452: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11949452"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091926555 (Jabal Habashy), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632499,
+        85680989,
+        102191569,
+        1091926555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11949452
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"f6b31af46f459dd3ef86bb3c0f946315",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091926555,
+            "locality_id":9895070096,
+            "region_id":85680989
+        }
+    ],
+    "wof:id":9895070096,
+    "wof:lastmodified":1795734963,
+    "wof:name":"A\u015f \u015eabr\u012b",
+    "wof:parent_id":1091926555,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.91834,
+    13.52742,
+    43.91834,
+    13.52742
+],
+  "geometry": {"coordinates":[43.91834,13.52742],"type":"Point"}
+}

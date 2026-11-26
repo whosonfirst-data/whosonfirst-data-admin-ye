@@ -1,0 +1,74 @@
+{
+  "id": 9895084883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.01131,14.68082,44.01131,14.68082",
+    "geom:latitude":14.68082,
+    "geom:longitude":44.01131,
+    "iso:country":"YE",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12099466: name \"Al Mishr\u0101fah\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12099466"
+        },
+        {
+            "citation":"GeoNames populated place 12099466: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12099466"
+        },
+        {
+            "citation":"GeoNames populated place 12099466: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12099466"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091922337 (Jabal Ash sharq), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632499,
+        85680969,
+        102191569,
+        1091922337
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12099466
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"5b382aea98446a45e4b0b6078d2f1d6b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091922337,
+            "locality_id":9895084883,
+            "region_id":85680969
+        }
+    ],
+    "wof:id":9895084883,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Al Mishr\u0101fah",
+    "wof:parent_id":1091922337,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.01131,
+    14.68082,
+    44.01131,
+    14.68082
+],
+  "geometry": {"coordinates":[44.01131,14.68082],"type":"Point"}
+}

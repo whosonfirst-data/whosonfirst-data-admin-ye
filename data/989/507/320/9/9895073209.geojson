@@ -1,0 +1,74 @@
+{
+  "id": 9895073209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.37194,13.35786,44.37194,13.35786",
+    "geom:latitude":13.35786,
+    "geom:longitude":44.37194,
+    "iso:country":"YE",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11966763: name \"Kad\u1e29at al \u1e28aqn\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11966763"
+        },
+        {
+            "citation":"GeoNames populated place 11966763: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11966763"
+        },
+        {
+            "citation":"GeoNames populated place 11966763: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11966763"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091924859 (Al Qabbaytah), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632499,
+        85680985,
+        102191569,
+        1091924859
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11966763
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"2fef6167ac227fad030d67f1ff599267",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924859,
+            "locality_id":9895073209,
+            "region_id":85680985
+        }
+    ],
+    "wof:id":9895073209,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Kad\u1e29at al \u1e28aqn",
+    "wof:parent_id":1091924859,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.37194,
+    13.35786,
+    44.37194,
+    13.35786
+],
+  "geometry": {"coordinates":[44.37194,13.35786],"type":"Point"}
+}

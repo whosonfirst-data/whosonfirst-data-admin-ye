@@ -1,0 +1,74 @@
+{
+  "id": 9895089390,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.13464,14.68164,44.13464,14.68164",
+    "geom:latitude":14.68164,
+    "geom:longitude":44.13464,
+    "iso:country":"YE",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13447092: name \"Al \u1e28arf\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13447092"
+        },
+        {
+            "citation":"GeoNames populated place 13447092: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13447092"
+        },
+        {
+            "citation":"GeoNames populated place 13447092: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13447092"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091922231 (Al Manar), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632499,
+        85680969,
+        102191569,
+        1091922231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13447092
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"d5c1bfca0d0b1560ef2c5ea0a869f45d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091922231,
+            "locality_id":9895089390,
+            "region_id":85680969
+        }
+    ],
+    "wof:id":9895089390,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Al \u1e28arf",
+    "wof:parent_id":1091922231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.13464,
+    14.68164,
+    44.13464,
+    14.68164
+],
+  "geometry": {"coordinates":[44.13464,14.68164],"type":"Point"}
+}

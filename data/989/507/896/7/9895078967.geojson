@@ -1,0 +1,74 @@
+{
+  "id": 9895078967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.60061,15.71731,43.60061,15.71731",
+    "geom:latitude":15.71731,
+    "geom:longitude":43.60061,
+    "iso:country":"YE",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12049958: name \"Ar Ru\u1e29\u0101\u1e11\u012b\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12049958"
+        },
+        {
+            "citation":"GeoNames populated place 12049958: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12049958"
+        },
+        {
+            "citation":"GeoNames populated place 12049958: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12049958"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091923885 (Hajjah City), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632499,
+        85680973,
+        102191569,
+        1091923885
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12049958
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"eb83e56d57ace516425cd6981cd1ebd6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091923885,
+            "locality_id":9895078967,
+            "region_id":85680973
+        }
+    ],
+    "wof:id":9895078967,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Ar Ru\u1e29\u0101\u1e11\u012b",
+    "wof:parent_id":1091923885,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.60061,
+    15.71731,
+    43.60061,
+    15.71731
+],
+  "geometry": {"coordinates":[43.60061,15.71731],"type":"Point"}
+}

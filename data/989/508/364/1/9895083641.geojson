@@ -1,0 +1,74 @@
+{
+  "id": 9895083641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.12586,13.55077,44.12586,13.55077",
+    "geom:latitude":13.55077,
+    "geom:longitude":44.12586,
+    "iso:country":"YE",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12097592: name \"Al Makn\u016btah\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12097592"
+        },
+        {
+            "citation":"GeoNames populated place 12097592: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12097592"
+        },
+        {
+            "citation":"GeoNames populated place 12097592: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12097592"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091926623 (Sabir Al Mawadim), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632499,
+        85680989,
+        102191569,
+        1091926623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12097592
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"ebb2117444455fb5261a50fb2c6098d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091926623,
+            "locality_id":9895083641,
+            "region_id":85680989
+        }
+    ],
+    "wof:id":9895083641,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Al Makn\u016btah",
+    "wof:parent_id":1091926623,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.12586,
+    13.55077,
+    44.12586,
+    13.55077
+],
+  "geometry": {"coordinates":[44.12586,13.55077],"type":"Point"}
+}

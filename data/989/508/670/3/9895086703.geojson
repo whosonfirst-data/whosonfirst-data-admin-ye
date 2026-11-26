@@ -1,0 +1,74 @@
+{
+  "id": 9895086703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.00599,13.81512,44.00599,13.81512",
+    "geom:latitude":13.81512,
+    "geom:longitude":44.00599,
+    "iso:country":"YE",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12138057: name \"Al \u0100k\u0101m\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12138057"
+        },
+        {
+            "citation":"GeoNames populated place 12138057: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12138057"
+        },
+        {
+            "citation":"GeoNames populated place 12138057: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12138057"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091924529 (Dhi As Sufal), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632499,
+        85680979,
+        102191569,
+        1091924529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12138057
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"1692268d51f473e1c384f137d142882f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924529,
+            "locality_id":9895086703,
+            "region_id":85680979
+        }
+    ],
+    "wof:id":9895086703,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Al \u0100k\u0101m",
+    "wof:parent_id":1091924529,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.00599,
+    13.81512,
+    44.00599,
+    13.81512
+],
+  "geometry": {"coordinates":[44.00599,13.81512],"type":"Point"}
+}

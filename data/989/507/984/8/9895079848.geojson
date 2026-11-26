@@ -1,0 +1,74 @@
+{
+  "id": 9895079848,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.92823,14.92129,43.92823,14.92129",
+    "geom:latitude":14.92129,
+    "geom:longitude":43.92823,
+    "iso:country":"YE",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12051688: name \"Musaym\u0101r\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12051688"
+        },
+        {
+            "citation":"GeoNames populated place 12051688: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12051688"
+        },
+        {
+            "citation":"GeoNames populated place 12051688: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12051688"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091925637 (Al Haymah Al Kharijiyah), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632499,
+        85681021,
+        102191569,
+        1091925637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12051688
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"2da6cca1a0061c235f50a01ea1ad926c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925637,
+            "locality_id":9895079848,
+            "region_id":85681021
+        }
+    ],
+    "wof:id":9895079848,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Musaym\u0101r",
+    "wof:parent_id":1091925637,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.92823,
+    14.92129,
+    43.92823,
+    14.92129
+],
+  "geometry": {"coordinates":[43.92823,14.92129],"type":"Point"}
+}

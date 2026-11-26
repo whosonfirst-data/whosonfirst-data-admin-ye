@@ -1,0 +1,74 @@
+{
+  "id": 9895061246,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.58363,14.28631,44.58363,14.28631",
+    "geom:latitude":14.28631,
+    "geom:longitude":44.58363,
+    "iso:country":"YE",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11879038: name \"Khar\u0101bat al B\u0101riqah\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11879038"
+        },
+        {
+            "citation":"GeoNames populated place 11879038: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11879038"
+        },
+        {
+            "citation":"GeoNames populated place 11879038: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11879038"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091924483 (Ar Radmah), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632499,
+        85680979,
+        102191569,
+        1091924483
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11879038
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"783bc6da6ff9a0ad11a673c370254c4c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924483,
+            "locality_id":9895061246,
+            "region_id":85680979
+        }
+    ],
+    "wof:id":9895061246,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Khar\u0101bat al B\u0101riqah",
+    "wof:parent_id":1091924483,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.58363,
+    14.28631,
+    44.58363,
+    14.28631
+],
+  "geometry": {"coordinates":[44.58363,14.28631],"type":"Point"}
+}

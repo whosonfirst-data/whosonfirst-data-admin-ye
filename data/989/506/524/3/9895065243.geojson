@@ -1,0 +1,74 @@
+{
+  "id": 9895065243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.51138,14.00013,43.51138,14.00013",
+    "geom:latitude":14.00013,
+    "geom:longitude":43.51138,
+    "iso:country":"YE",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11897063: name \"Hayjat Quraysh\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11897063"
+        },
+        {
+            "citation":"GeoNames populated place 11897063: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11897063"
+        },
+        {
+            "citation":"GeoNames populated place 11897063: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11897063"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091920423 (Hays), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632499,
+        85680959,
+        102191569,
+        1091920423
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11897063
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"29c121c0d24d177b6053cc4d38a5f033",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091920423,
+            "locality_id":9895065243,
+            "region_id":85680959
+        }
+    ],
+    "wof:id":9895065243,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Hayjat Quraysh",
+    "wof:parent_id":1091920423,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.51138,
+    14.00013,
+    43.51138,
+    14.00013
+],
+  "geometry": {"coordinates":[43.51138,14.00013],"type":"Point"}
+}

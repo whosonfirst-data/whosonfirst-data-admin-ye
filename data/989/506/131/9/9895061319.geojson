@@ -1,0 +1,74 @@
+{
+  "id": 9895061319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.83803,14.42815,44.83803,14.42815",
+    "geom:latitude":14.42815,
+    "geom:longitude":44.83803,
+    "iso:country":"YE",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11879149: name \"A\u0163 \u0162ush\u016bsh\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11879149"
+        },
+        {
+            "citation":"GeoNames populated place 11879149: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11879149"
+        },
+        {
+            "citation":"GeoNames populated place 11879149: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11879149"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091919479 (Rada'), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632499,
+        85681001,
+        102191569,
+        1091919479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11879149
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"383b9dc18f9277fda3b5c65b97312c11",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091919479,
+            "locality_id":9895061319,
+            "region_id":85681001
+        }
+    ],
+    "wof:id":9895061319,
+    "wof:lastmodified":1795734963,
+    "wof:name":"A\u0163 \u0162ush\u016bsh",
+    "wof:parent_id":1091919479,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.83803,
+    14.42815,
+    44.83803,
+    14.42815
+],
+  "geometry": {"coordinates":[44.83803,14.42815],"type":"Point"}
+}

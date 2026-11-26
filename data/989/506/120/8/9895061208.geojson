@@ -1,0 +1,74 @@
+{
+  "id": 9895061208,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.97712,14.94676,44.97712,14.94676",
+    "geom:latitude":14.94676,
+    "geom:longitude":44.97712,
+    "iso:country":"YE",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11873003: name \"Ar Rabwah\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11873003"
+        },
+        {
+            "citation":"GeoNames populated place 11873003: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11873003"
+        },
+        {
+            "citation":"GeoNames populated place 11873003: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11873003"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091925277 (Rahabah), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632499,
+        85681015,
+        102191569,
+        1091925277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11873003
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"f3a6b3dab691b46b29e8abb32e8be9cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925277,
+            "locality_id":9895061208,
+            "region_id":85681015
+        }
+    ],
+    "wof:id":9895061208,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Ar Rabwah",
+    "wof:parent_id":1091925277,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.97712,
+    14.94676,
+    44.97712,
+    14.94676
+],
+  "geometry": {"coordinates":[44.97712,14.94676],"type":"Point"}
+}

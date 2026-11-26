@@ -1,0 +1,74 @@
+{
+  "id": 9895087024,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.676,14.04195,45.676,14.04195",
+    "geom:latitude":14.04195,
+    "geom:longitude":45.676,
+    "iso:country":"YE",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13406550: name \"Shawk\u0101n\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13406550"
+        },
+        {
+            "citation":"GeoNames populated place 13406550: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13406550"
+        },
+        {
+            "citation":"GeoNames populated place 13406550: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13406550"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091919167 (As Sawma'ah), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632499,
+        85681001,
+        102191569,
+        1091919167
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13406550
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"6410e2356d315a173e6b6acb74bd800e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091919167,
+            "locality_id":9895087024,
+            "region_id":85681001
+        }
+    ],
+    "wof:id":9895087024,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Shawk\u0101n",
+    "wof:parent_id":1091919167,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.676,
+    14.04195,
+    45.676,
+    14.04195
+],
+  "geometry": {"coordinates":[45.676,14.04195],"type":"Point"}
+}

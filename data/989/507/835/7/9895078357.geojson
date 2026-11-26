@@ -1,0 +1,74 @@
+{
+  "id": 9895078357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.89994,15.57304,43.89994,15.57304",
+    "geom:latitude":15.57304,
+    "geom:longitude":43.89994,
+    "iso:country":"YE",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12048954: name \"Al \u1e28uqbah\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12048954"
+        },
+        {
+            "citation":"GeoNames populated place 12048954: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12048954"
+        },
+        {
+            "citation":"GeoNames populated place 12048954: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12048954"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091922171 (Thula), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632499,
+        85680977,
+        102191569,
+        1091922171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12048954
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"8d38f1dae47f1fa2ce16d6dad0125602",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091922171,
+            "locality_id":9895078357,
+            "region_id":85680977
+        }
+    ],
+    "wof:id":9895078357,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Al \u1e28uqbah",
+    "wof:parent_id":1091922171,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.89994,
+    15.57304,
+    43.89994,
+    15.57304
+],
+  "geometry": {"coordinates":[43.89994,15.57304],"type":"Point"}
+}

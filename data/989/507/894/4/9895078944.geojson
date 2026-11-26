@@ -1,0 +1,74 @@
+{
+  "id": 9895078944,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.50915,15.68746,43.50915,15.68746",
+    "geom:latitude":15.68746,
+    "geom:longitude":43.50915,
+    "iso:country":"YE",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12049927: name \"Shah\u0101rah\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12049927"
+        },
+        {
+            "citation":"GeoNames populated place 12049927: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12049927"
+        },
+        {
+            "citation":"GeoNames populated place 12049927: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12049927"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091924089 (Mabyan), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632499,
+        85680973,
+        102191569,
+        1091924089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12049927
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"57f095fb5adbbb3ec8e2830a4cfd0215",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924089,
+            "locality_id":9895078944,
+            "region_id":85680973
+        }
+    ],
+    "wof:id":9895078944,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Shah\u0101rah",
+    "wof:parent_id":1091924089,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.50915,
+    15.68746,
+    43.50915,
+    15.68746
+],
+  "geometry": {"coordinates":[43.50915,15.68746],"type":"Point"}
+}

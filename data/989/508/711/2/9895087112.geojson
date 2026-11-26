@@ -1,0 +1,74 @@
+{
+  "id": 9895087112,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.78868,17.03839,43.78868,17.03839",
+    "geom:latitude":17.03839,
+    "geom:longitude":43.78868,
+    "iso:country":"YE",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13410135: name \"Rahw\u0101n\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13410135"
+        },
+        {
+            "citation":"GeoNames populated place 13410135: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13410135"
+        },
+        {
+            "citation":"GeoNames populated place 13410135: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13410135"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091925415 (As Safra), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632499,
+        85680955,
+        102191569,
+        1091925415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13410135
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"dc79fd282f83c927a8296398392eb247",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925415,
+            "locality_id":9895087112,
+            "region_id":85680955
+        }
+    ],
+    "wof:id":9895087112,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Rahw\u0101n",
+    "wof:parent_id":1091925415,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.78868,
+    17.03839,
+    43.78868,
+    17.03839
+],
+  "geometry": {"coordinates":[43.78868,17.03839],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 9895077311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.3645,15.96359,43.3645,15.96359",
+    "geom:latitude":15.96359,
+    "geom:longitude":43.3645,
+    "iso:country":"YE",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12028508: name \"Ban\u012b Qinmah\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12028508"
+        },
+        {
+            "citation":"GeoNames populated place 12028508: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12028508"
+        },
+        {
+            "citation":"GeoNames populated place 12028508: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12028508"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091923953 (Khayran Al Muharraq), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632499,
+        85680973,
+        102191569,
+        1091923953
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12028508
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"7925db699a108c7ba9efd072bffeca5c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091923953,
+            "locality_id":9895077311,
+            "region_id":85680973
+        }
+    ],
+    "wof:id":9895077311,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Ban\u012b Qinmah",
+    "wof:parent_id":1091923953,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.3645,
+    15.96359,
+    43.3645,
+    15.96359
+],
+  "geometry": {"coordinates":[43.3645,15.96359],"type":"Point"}
+}

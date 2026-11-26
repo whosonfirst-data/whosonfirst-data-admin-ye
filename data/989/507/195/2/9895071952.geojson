@@ -1,0 +1,74 @@
+{
+  "id": 9895071952,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.14128,13.29633,44.14128,13.29633",
+    "geom:latitude":13.29633,
+    "geom:longitude":44.14128,
+    "iso:country":"YE",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11958618: name \"Dh\u012b al Hard\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11958618"
+        },
+        {
+            "citation":"GeoNames populated place 11958618: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11958618"
+        },
+        {
+            "citation":"GeoNames populated place 11958618: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11958618"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091926325 (Al Mawasit), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632499,
+        85680989,
+        102191569,
+        1091926325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11958618
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"b56d0334dbe834181d085efb7a2850af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091926325,
+            "locality_id":9895071952,
+            "region_id":85680989
+        }
+    ],
+    "wof:id":9895071952,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Dh\u012b al Hard",
+    "wof:parent_id":1091926325,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.14128,
+    13.29633,
+    44.14128,
+    13.29633
+],
+  "geometry": {"coordinates":[44.14128,13.29633],"type":"Point"}
+}

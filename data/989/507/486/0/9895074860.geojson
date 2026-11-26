@@ -1,0 +1,74 @@
+{
+  "id": 9895074860,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.52935,14.82925,43.52935,14.82925",
+    "geom:latitude":14.82925,
+    "geom:longitude":43.52935,
+    "iso:country":"YE",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12004950: name \"Al Faysh\u0101n\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12004950"
+        },
+        {
+            "citation":"GeoNames populated place 12004950: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12004950"
+        },
+        {
+            "citation":"GeoNames populated place 12004950: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12004950"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091925309 (Bilad At Ta'am), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632499,
+        85681033,
+        102191569,
+        1091925309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12004950
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"2bad1ac27703640965ab95f2683342fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925309,
+            "locality_id":9895074860,
+            "region_id":85681033
+        }
+    ],
+    "wof:id":9895074860,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Al Faysh\u0101n",
+    "wof:parent_id":1091925309,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.52935,
+    14.82925,
+    43.52935,
+    14.82925
+],
+  "geometry": {"coordinates":[43.52935,14.82925],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 9895086069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.61276,14.54584,43.61276,14.54584",
+    "geom:latitude":14.54584,
+    "geom:longitude":43.61276,
+    "iso:country":"YE",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12118345: name \"Madwah\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12118345"
+        },
+        {
+            "citation":"GeoNames populated place 12118345: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12118345"
+        },
+        {
+            "citation":"GeoNames populated place 12118345: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12118345"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091925331 (Kusmah), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632499,
+        85681033,
+        102191569,
+        1091925331
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12118345
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"d1c6d39ea3fb42ecd8dd21699798bb31",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925331,
+            "locality_id":9895086069,
+            "region_id":85681033
+        }
+    ],
+    "wof:id":9895086069,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Madwah",
+    "wof:parent_id":1091925331,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.61276,
+    14.54584,
+    43.61276,
+    14.54584
+],
+  "geometry": {"coordinates":[43.61276,14.54584],"type":"Point"}
+}
